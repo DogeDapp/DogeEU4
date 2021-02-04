@@ -886,7 +886,7 @@ dl_tha_m = {
 
 dl_novgorod_m = { 
 	land_attrition = -0.1
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 dl_enthusiasm = {

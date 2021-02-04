@@ -862,7 +862,7 @@ boh_premysl_mod = {
 # AKK missions
 
 white_sheep_ascendant = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	manpower_recovery_speed = 0.15
 }
 
@@ -907,7 +907,7 @@ jap_three_mountains = {
 
 # Vijayanagar missions
 vij_maratha_modifier = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 
 vij_africa_trade_modifier = {
@@ -972,7 +972,7 @@ dlh_rajput_conquest_modifier = {
 	infantry_power = 0.05
 }
 dlh_deccan_conquest_modifier = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	cavalry_cost = -0.1
 }
 
@@ -981,7 +981,7 @@ ori_jagannath_cult_dh = {
 	tolerance_own = 1
 }
 ori_bahmanis_modifier = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 ori_coromandel_modifier = {
 	trade_steering = 0.2
@@ -1249,7 +1249,7 @@ bah_persianate_empire = {
 
 bah_access_to_the_sea = {
 	cavalry_cost = -0.1
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 mahmud_gawans_madrassah_modifier = {
@@ -1285,7 +1285,7 @@ kannauj_restored_modifier = {
 }
 
 mer_marwari_cavalry = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	cavalry_cost = -0.1
 }
 
@@ -1445,7 +1445,7 @@ tau_arakan_trade = {
 }
 
 tau_elephant_battle = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 tau_expansionism = {
@@ -1481,7 +1481,7 @@ mughal_stronghold = {
 }
 
 heirs_of_timur = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 	legitimacy = 1
 }
 
@@ -1552,7 +1552,7 @@ western_trade_relations = {
 }
 
 maratha_recruitment = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 mug_control_of_sufi_shrines = {
@@ -1760,7 +1760,7 @@ greater_commonwealth = {
 
 broke_the_rus = {
 	diplomatic_upkeep = 1
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 polish_renaissance = {
@@ -3297,7 +3297,7 @@ sav_savoyard_occitania = {
 
 sav_duke_of_burgundy = {
 	prestige = 1
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 sav_king_of_cyprus = {

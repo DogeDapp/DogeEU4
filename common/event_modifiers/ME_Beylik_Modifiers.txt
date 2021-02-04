@@ -119,7 +119,7 @@ ere_expansion = {
 }
 
 ERE_turkomen = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 ERE_masoleum = {

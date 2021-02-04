@@ -158,7 +158,7 @@ Soverein_Trade_Company = {
 	trade_goods_size_modifier = 0.10
 }
 Knightly_Privileges = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 	cav_to_inf_ratio = 0.25
 }
 Long_Reign = {

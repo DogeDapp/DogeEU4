@@ -285,7 +285,7 @@ Crusader_Order_9 = {
 	infantry_power = 0.09
 }
 Crusader_Order_10 = {
-	infantry_power = 0.05
+	infantry_power = 0.10
 }
 Satrapy = {
 	local_manpower = 0.10

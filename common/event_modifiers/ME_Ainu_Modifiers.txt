@@ -20,5 +20,5 @@ ANU_spreading_the_culture = {
 }
 ANU_manchurian_war_techniques = {
 	cavalry_cost = -0.2
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }

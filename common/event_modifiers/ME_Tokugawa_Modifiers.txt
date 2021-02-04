@@ -12,7 +12,7 @@ tokugawa_the_uesugi_modifier = {
 }
 
 tokugawa_march_eastwards_modifier = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 }
 
 tokugawa_the_rest_of_the_east_modifier = {

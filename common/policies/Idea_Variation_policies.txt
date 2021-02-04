@@ -10154,7 +10154,7 @@ idea_variation_act_181 = {
 	}
 	
 	artillery_power = 0.1
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	
 	ai_will_do = {
 		factor = 1
@@ -10629,7 +10629,7 @@ idea_variation_act_196 = {
 		full_idea_group = stehendesheer0
 	}
 	
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	cav_to_inf_ratio = 0.1
 	
 	ai_will_do = {
@@ -11146,7 +11146,7 @@ idea_variation_act_211 = {
 	}
 	
 	infantry_power = 0.05
-	cavalry_power = 0.075
+	cavalry_power = 0.05
 	
 	ai_will_do = {
 		factor = 1
@@ -12164,7 +12164,7 @@ idea_variation_act_246 = {
 	}
 	
 
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 	cav_to_inf_ratio = 0.1
 	
 	ai_will_do = {
@@ -14428,7 +14428,7 @@ idea_variation_act_320 = {
 	}
 	
 	infantry_power = 0.125
-	cavalry_power = 0.075
+	cavalry_power = 0.05
 	
 	ai_will_do = {
 		factor = 1
@@ -14811,7 +14811,7 @@ idea_variation_act_331 = {
 	}
 	
 	infantry_power = 0.05
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	artillery_power = 0.1
 	global_unrest = 3
 
@@ -18705,7 +18705,7 @@ idea_variation_act_459 = {
 		full_idea_group = assimilation0 
 	}
 	
-	cavalry_power = 0.1		
+	cavalry_power = 0.05		
 	cav_to_inf_ratio = 0.1
 	
 	ai_will_do = {
@@ -20674,7 +20674,7 @@ idea_variation_act_535 = {
 	}
 	
 	infantry_power = 0.05
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	
 	ai_will_do = {
 		factor = 1

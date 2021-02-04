@@ -11575,7 +11575,7 @@ PLC_POL_ideas = { #Polish Version
 		army_tradition = 1.0
 	}
 	pol_winged_hussars = { 
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 		cavalry_flanking = 1.0
 	}
 	plc_refine_our_golden_liberty = { #Same for all of them

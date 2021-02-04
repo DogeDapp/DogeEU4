@@ -115,6 +115,6 @@ phalanx_gre = {
 }
 
 hippeis_gre = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	global_tax_modifier = 0.1
 }

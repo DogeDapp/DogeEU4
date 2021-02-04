@@ -33,7 +33,7 @@ quality_ideas = {
 		naval_attrition = -0.25
 	}
 	massed_battery = {
-		artillery_power = 0.075
+		artillery_power = 0.05
 	}
 
 	ai_will_do = {
@@ -665,7 +665,7 @@ waffenqualitat0 = {
 		production_efficiency = 0.075
 	}
 	waffenqualitat7 = {
-		artillery_power = 0.075
+		artillery_power = 0.05
 	}
 	
 	ai_will_do = {
@@ -1158,7 +1158,7 @@ fire0 = {
 		artillery_bonus_vs_fort = 1
 	}
 	fire3 = {
-		artillery_power = 0.075
+		artillery_power = 0.05
 	}
 
 	fire4 = {

@@ -119,7 +119,7 @@ mamluks_trans_saharan_trade_modifier = {
 }
 
 mamluks_the_ivory_must_flow_modifier = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 
 mamluks_the_gold_must_flow_modifier = {

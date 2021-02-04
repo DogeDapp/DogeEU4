@@ -9891,7 +9891,7 @@ purification_of_tax_laws = {
 }
 
 furusiyya = {
-	cavalry_power = 0.1
+	cavalry_power = 0.05
 	cavalry_cost = 0.1
 }
 
@@ -10249,7 +10249,7 @@ marathi_poet_saint_suppressed = {
 }
 
 bargi_giri = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 	movement_speed = 0.15
 }
 
@@ -11092,11 +11092,11 @@ mercs_not_allowed_to_loot_morale = {
 
 elephants_in_europe_mercs = {
 	is_mercenary_modifier = yes
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 
 elephants_in_europe = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 
 popular_mercs_prosperity = {

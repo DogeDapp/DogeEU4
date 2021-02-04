@@ -7,7 +7,7 @@ MCE_merc_red_devils = {
 		capital_scope = { region = japan_region }
 	}
 	modifier = { 
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 }
 
@@ -138,7 +138,7 @@ MCE_merc_bulgarian_band = {
 		capital_scope = { region = balkan_region }
 	}
 	modifier = { 
-		cavalry_power = 0.15
+		cavalry_power = 0.075
 	}
 }
 
@@ -225,7 +225,7 @@ MCE_merc_winged_hussars = {
 	}
 	modifier = { 
 		shock_damage = 0.1
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 }
 
@@ -328,7 +328,7 @@ MCE_merc_transylvanian_cavalry = {
 	}
 	modifier = { 
 		land_morale = 0.075
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 }
 
@@ -428,7 +428,7 @@ MCE_merc_knights_cyprus = {
 		at_war_with_religious_enemy = yes 
 	}
 	modifier = { 
-		cavalry_power = 0.15
+		cavalry_power = 0.075
 		shock_damage = 0.05
 	}
 }
@@ -651,7 +651,7 @@ MCE_merc_hakkapeliitta = {
 		current_age = age_of_absolutism
 	}
 	modifier = {
-		cavalry_power = 0.15
+		cavalry_power = 0.075
 		cavalry_shock = 0.5
 	}
 }

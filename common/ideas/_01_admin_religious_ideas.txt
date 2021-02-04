@@ -2156,7 +2156,7 @@ ancli0 = {
 		embracement_cost = -0.25
 	}
 	ancli7 = {
-		artillery_power = 0.075
+		artillery_power = 0.05
 	}
 
 	

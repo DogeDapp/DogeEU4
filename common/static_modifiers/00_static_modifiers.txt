@@ -1566,7 +1566,7 @@ lenient_taxation_modifier = {
 }
 
 train_horsemanship_modifier = {
-	cavalry_power = 0.15
+	cavalry_power = 0.075
 }
 
 promote_culture_in_government_modifier = {

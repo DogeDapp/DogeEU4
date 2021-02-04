@@ -319,7 +319,7 @@ estate_nobles_white_knights = {
 			prestige = 75
 		}
 		modifier = {
-			cavalry_power = 0.15
+			cavalry_power = 0.075
 		}
 	}
 	ai_will_do = {
