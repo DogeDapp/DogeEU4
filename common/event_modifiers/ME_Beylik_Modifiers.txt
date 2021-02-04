@@ -5,7 +5,7 @@
 
 beylik_freedom = {
 	land_morale = 0.075
-	manpower_recovery_speed = 0.25
+	manpower_recovery_speed = 0.15
 }
 
 beylik_subsidized_caravanasaries = {

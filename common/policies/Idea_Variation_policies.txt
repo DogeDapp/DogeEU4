@@ -3072,7 +3072,7 @@ idea_variation_act_629 = {
 		}
 	}
 		
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -5158,7 +5158,7 @@ idea_variation_act_26 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -11747,7 +11747,7 @@ idea_variation_act_231 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -17057,7 +17057,7 @@ idea_variation_act_402 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -17354,7 +17354,7 @@ idea_variation_act_410 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -19016,7 +19016,7 @@ idea_variation_act_472 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1
@@ -20309,7 +20309,7 @@ idea_variation_act_521 = {
 		}
 	}
 	
-	manpower_recovery_speed = 0.20
+	manpower_recovery_speed = 0.15
 	
 	ai_will_do = {
 		factor = 1

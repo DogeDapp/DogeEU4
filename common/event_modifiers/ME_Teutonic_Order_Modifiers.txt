@@ -36,7 +36,7 @@ teutonic_order_conquering_novgorod_province_modifier = {
 
 teutonic_order_road_to_warsaw_modifier = {
 	prestige = 1
-	manpower_recovery_speed = 0.15
+	manpower_recovery_speed = 0.1
 }
 
 teutonic_order_death_of_poland_modifier = {

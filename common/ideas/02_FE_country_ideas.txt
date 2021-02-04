@@ -88,7 +88,7 @@ KNM_ideas = {  #Kenmu
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -294,7 +294,7 @@ SMA_ideas = { #Somalia
 	free = yes
 	
 	united_somali_communites = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	dominant_merchant_fleets = {
 		naval_morale = 0.10
@@ -324,7 +324,7 @@ LVN_MLO_ideas = {  #Lombardy-Venetia, Milan Version
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -613,7 +613,7 @@ RRR_ideas = {  #Great Russian Republic
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.25
+		manpower_recovery_speed = 0.15
 	}
 	
 	trigger = {
@@ -775,7 +775,7 @@ WKU_ideas = {
 NUA_ideas = {
 	start = {
 		land_forcelimit_modifier = 0.25
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	bonus = {
@@ -1555,7 +1555,7 @@ ZWE_ideas = { #The Later Northern Wei
 		core_creation = -0.10
 	}
 	buddhism_of_the_northern_wei = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	address_hostility_between_the_two_people = {
 		num_accepted_cultures = 2

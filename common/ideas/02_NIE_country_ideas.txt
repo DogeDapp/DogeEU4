@@ -331,7 +331,7 @@ MRK_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -1237,7 +1237,7 @@ FRN_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -2861,7 +2861,7 @@ CHC_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -2939,7 +2939,7 @@ CXI_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -3395,7 +3395,7 @@ CZH_ideas = {
 		free_dip_policy = 1
 	}
 	consolidate_the_southwest = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	reinforce_supply_routes = {
 		reinforce_cost_modifier = -0.33
@@ -3518,7 +3518,7 @@ KLT_ideas = {
 		global_unrest = -1
 	}
 	balance_the_matrilinial_divisions = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	source_of_heirs_to_others = {
 		diplomatic_reputation = 1
@@ -4505,7 +4505,7 @@ SBP_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -4810,7 +4810,7 @@ PTA_ideas = {
     }
     
     bonus = {
-        manpower_recovery_speed = 0.15
+        manpower_recovery_speed = 0.1
     }
     
     trigger = {
@@ -5700,7 +5700,7 @@ HDY_ideas = {
 	}
 	
 	bonus = {
-		 manpower_recovery_speed = 0.15
+		 manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -5915,7 +5915,7 @@ TLC_ideas = {
 		land_morale = 0.075
 	}
 	marinid_hafsid_and_crusade_enemies = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	corsair_bases = {
 		privateer_efficiency = 0.25
@@ -6091,7 +6091,7 @@ JOL_ideas = {
     }
     
     bonus = {
-        manpower_recovery_speed = 0.15
+        manpower_recovery_speed = 0.1
     }
     
     trigger = {
@@ -7415,7 +7415,7 @@ WIC_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.20
+		manpower_recovery_speed = 0.15
 	}
 	
 	trigger = {
@@ -7653,7 +7653,7 @@ CAD_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -7985,7 +7985,7 @@ OJI_ideas = {
 		caravan_power = 0.20
 	}
 	ojibwe_population_spread = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	reunite_the_stopping_places = {
 		colonists = 1
@@ -9092,7 +9092,7 @@ XAL_ideas = {
 		global_manpower_modifier = 0.10
 	}
 	the_place_of_the_sandy_eye_rises = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 }
 MIX_ideas = {
@@ -10301,7 +10301,7 @@ TOK_ideas = {
 		land_morale = 0.075
 	}
 	near_the_heart_of_power = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	masters_of_the_tropics = { #Same for TOK and ANN
 		defensiveness = 0.20
@@ -12731,7 +12731,7 @@ SER_ideas = {  #Serbia
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	
 	trigger = {
@@ -12770,7 +12770,7 @@ TUR_ideas = {
     }
 
     bonus = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
     }
 
     trigger = {

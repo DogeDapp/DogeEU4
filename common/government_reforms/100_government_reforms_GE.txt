@@ -2077,7 +2077,7 @@ council_of_sheikhs_reform = {
 	}
 	modifiers = {
 		legitimacy = 0.5
-		manpower_recovery_speed = 0.20
+		manpower_recovery_speed = 0.15
 		nobles_loyalty_modifier = 0.05
 		church_loyalty_modifier = 0.05
 	}
@@ -9510,7 +9510,7 @@ sherifan_levies_reform = {
 		}
 	}
 	modifiers = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 		reinforce_cost_modifier = -0.20
 	}
 	custom_attributes = {
@@ -9690,7 +9690,7 @@ bedouin_reserves_reform = {
 	}
 	modifiers = {
 		hostile_attrition = 1
-		manpower_recovery_speed = 0.20
+		manpower_recovery_speed = 0.15
 	}
 	ai = {
 		factor = 101

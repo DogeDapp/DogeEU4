@@ -69,7 +69,7 @@ VIN_ideas = { # Canada Vinland lost colony
 		prestige = 1
 	}
 	VIN_conflict_with_skurlings = {
-		manpower_recovery_speed = 0.15
+		manpower_recovery_speed = 0.1
 	}
 	VIN_legacy_of_erikson = {
 		leader_naval_manuever = 1
@@ -295,7 +295,7 @@ CEE_ideas = {
 	}
 	cee_directrule = {
 		global_tax_modifier = 0.2
-		manpower_recovery_speed = 0.2
+		manpower_recovery_speed = 0.15
 	}
 	cee_celticforever = {
 		prestige = 2
@@ -1566,7 +1566,7 @@ PRC_ideas = { # Peoples Republic of China
 		shock_damage_received = -0.15
 	}
 	PRC_three = {
-		manpower_recovery_speed = 0.2
+		manpower_recovery_speed = 0.15
 		reinforce_cost_modifier = -0.20
 	}
 	PRC_four = {
@@ -1750,7 +1750,7 @@ ILR_ideas = {
 	}
 	
 	bonus = {
-		manpower_recovery_speed = 0.2
+		manpower_recovery_speed = 0.15
 	}
 	
 	trigger = {
@@ -1823,7 +1823,7 @@ WEE_ideas = {
 
 	}
 	wee_seventh = {
-		manpower_recovery_speed = 0.15 
+		manpower_recovery_speed = 0.1 
 	}
 
 
@@ -2424,7 +2424,7 @@ VAL_ideas = {
 		advisor_pool = 2
 	}
 	valencian_novel_of_chivalry = {
-        manpower_recovery_speed = 0.15
+        manpower_recovery_speed = 0.1
     }
 	valencian_iberian_printing_press = {
 		religious_unity = 0.15
@@ -2876,7 +2876,7 @@ ALO_ideas = {
         build_time = -0.1
     }
     ALO_nubian_army = {
-        manpower_recovery_speed = 0.25
+        manpower_recovery_speed = 0.15
         global_manpower_modifier = 0.15
     }
     ALO_greek_alphabet = {

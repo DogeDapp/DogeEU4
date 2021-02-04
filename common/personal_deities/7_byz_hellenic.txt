@@ -83,7 +83,7 @@ ares = {
 
 aphrodite = {
         heir_chance = 1
-        manpower_recovery_speed = 0.20
+        manpower_recovery_speed = 0.15
 
         allow = { religion = hellenic_pagan culture_group = byzantine }
         sprite = 39

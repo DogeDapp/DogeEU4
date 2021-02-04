@@ -58,7 +58,7 @@ usa_californian_compromise_modifier = {
 }
 
 usa_a_western_gateway_modifier = {
-	manpower_recovery_speed = 0.25
+	manpower_recovery_speed = 0.15
 	global_unrest = -1
 }
 
