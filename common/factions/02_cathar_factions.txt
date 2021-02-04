@@ -25,7 +25,7 @@ cathar_militarists = {
     always = yes
 
     modifier = {
-        land_morale = 0.05
+        land_morale = 0.075
         land_maintenance_modifier = -0.1
         global_manpower_modifier = 0.1     
     }

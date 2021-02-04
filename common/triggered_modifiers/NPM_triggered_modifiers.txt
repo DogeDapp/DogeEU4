@@ -48,7 +48,7 @@ byz_hagia_sophia = {
 	}
 	
 	prestige = 0.15
-	land_morale = 0.05
+	land_morale = 0.075
 	
 }
 

@@ -3,14 +3,14 @@
 
 KNI_Colossus_Mod = {
 	prestige = 1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 KNI_Great = {
 	build_cost = -0.20
 	development_cost = -0.15
 }
 KNI_Vult = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 KNI_Last = {
 	garrison_size = 0.35
@@ -20,7 +20,7 @@ KNI_Centralization = {
 	global_autonomy = -0.05
 }
 KNI_Inspire = {
-	land_morale = 0.10
+	land_morale = 0.075
 	defensiveness = 0.10
 }
 KNI_New_Era = {
@@ -57,7 +57,7 @@ KNI_rhodian_arsenal = {
 }
 KNI_bastion_of_christianity = {
 	warscore_cost_vs_other_religion = -0.15
-	land_morale = 0.1
+	land_morale = 0.075
 }
 KNI_papal_blessing = {
 	papal_influence = 1

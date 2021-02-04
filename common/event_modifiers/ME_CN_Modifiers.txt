@@ -28,7 +28,7 @@ CN_new_land_claimed = {
 }
 CN_region_united = {
 	monthly_splendor = 2
-	land_morale = 0.1
+	land_morale = 0.075
 }
 CN_workshops_going_boom = {
 	trade_goods_size_modifier = 0.1

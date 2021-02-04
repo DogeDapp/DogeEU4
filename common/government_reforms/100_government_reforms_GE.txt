@@ -324,7 +324,7 @@ kingdom_of_portugal = {
 	modifiers = {
 		min_autonomy = 10
 		papal_influence = 1.0
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	ai = {
 		factor = 100
@@ -429,7 +429,7 @@ crown_of_saint_wenceslaus = {
 		states_general_mechanic = {
 			Catholics = {
 				improve_relation_modifier = 0.1
-				land_morale = 0.05
+				land_morale = 0.075
 			}
 
 			Ultraquists = {
@@ -858,7 +858,7 @@ achaemenid_empire_reform = {
 			advisor_cost = -0.1
 		}
 		japanese_g = {
-			land_morale = 0.1
+			land_morale = 0.075
 		}
 		korean_g = {
 			idea_cost = -0.05
@@ -1096,7 +1096,7 @@ despotate_of_caucasia_reform = {
 		}
 	}
 	modifiers = {
-		land_morale = 0.05
+		land_morale = 0.075
 		tolerance_heretic = 1
 		culture_conversion_cost = -0.20
 	}
@@ -8165,7 +8165,7 @@ national_guard_reform = {
 		NOT = { culture_group = latin }
 	}
 	modifiers = {
-		land_morale = 0.05
+		land_morale = 0.075
 		recover_army_morale_speed = 0.1
 	}
 	custom_attributes = {
@@ -8517,7 +8517,7 @@ south_east_asian_elephants_reform = {
 	}
 	modifiers = {
 		cavalry_power = 0.05
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	custom_attributes = {
 		enables_elephant_cavalry = yes #3% siege ability per 5% Cavalry Combat Ability
@@ -8648,7 +8648,7 @@ abolish_manrent_reform = {
 		}
 	}
 	modifiers = {
-		land_morale = 0.10
+		land_morale = 0.075
 		global_manpower_modifier = 0.05
 	}
 	ai = {
@@ -9172,7 +9172,7 @@ berber_cavalry_reform = {
 	}
 	modifiers = {
 		cavalry_power = 0.10
-		land_morale = 0.05
+		land_morale = 0.075
 		monthly_piety = -0.001
 	}
 	custom_attributes = {

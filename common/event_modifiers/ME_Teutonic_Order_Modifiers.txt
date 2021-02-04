@@ -14,7 +14,7 @@ teutonic_order_the_memel_estuary_province_modifier = {
 }
 
 teutonic_order_holy_order_guard_modifier = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 teutonic_order_restoring_livonia_modifier = {
@@ -41,7 +41,7 @@ teutonic_order_road_to_warsaw_modifier = {
 
 teutonic_order_death_of_poland_modifier = {
 	army_tradition = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 teutonic_order_greater_poland_province_modifier = {

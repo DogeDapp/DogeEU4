@@ -9,7 +9,7 @@ germany_plundering_the_polders_modifier = {
 }
 
 germany_revenge_for_fontenoy_modifier = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 germany_reintegrating_the_french_province_modifier = {

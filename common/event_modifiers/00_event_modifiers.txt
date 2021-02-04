@@ -12,12 +12,12 @@ national_bank_inflation = {
 
 the_proper_old_ways = {
 	raze_power_gain = 0.20
-	land_morale = 0.1
+	land_morale = 0.075
 	global_trade_goods_size_modifier = -0.25
 }
 
 eth_mil_aid_from_portugal = {
-	land_morale = 0.25
+	land_morale = 0.075
 	mil_tech_cost_modifier = -0.25
 	discipline = 0.05
 	global_manpower_modifier = 0.25
@@ -220,7 +220,7 @@ military_reform = {
 	dip_tech_cost_modifier = -0.05
 	mil_tech_cost_modifier = -0.05
 	naval_morale = 0.10
-	land_morale = 0.10
+	land_morale = 0.075
 }
 
 competitive_advantage = {
@@ -481,7 +481,7 @@ colonial_tensions = {
 }
 
 morale_boost = {
-	land_morale = 0.10
+	land_morale = 0.075
 	discipline = 0.05
 	recover_army_morale_speed = 0.2
 }
@@ -491,7 +491,7 @@ deserters = {
 }
 
 battle_preparations = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_regiment_recruit_speed = -0.1
 }
 
@@ -1407,7 +1407,7 @@ guild_of_st_luke = {
 the_last_joust = {
 	army_tradition = 1
 	prestige = 0.5
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 florentine_school = {
@@ -1677,7 +1677,7 @@ serfdom_modifier = {
 }
 
 freesubjects_modifier = {
-	land_morale = 0.10
+	land_morale = 0.075
 	stability_cost_modifier = 0.1
 }
 
@@ -2259,7 +2259,7 @@ rebel_stronghold = {
 }
 
 new_model_army = {
-	land_morale = 0.10
+	land_morale = 0.075
 	naval_morale = 0.10
 	global_manpower_modifier = -0.1
 	global_unrest = 1
@@ -2282,7 +2282,7 @@ wallon_immigrants = {
 
 swedish_military_reforms = {
 	infantry_cost = -0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 swedish_mercenary_core = {
@@ -2440,7 +2440,7 @@ global_holy_war_released_modifier = {
 
 pomjestija_reform = {
 	mil_tech_cost_modifier = -0.10
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 novgorodian_reform = {
@@ -2511,7 +2511,7 @@ complete_serfdom = {
 }
 
 increased_freedom = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 restricted_serfdom = {
@@ -3520,7 +3520,7 @@ jap_trade_reform = {
 }
 jap_military_reform = {
 	global_manpower_modifier = 0.1
-	land_morale = 0.1
+	land_morale = 0.075
 
 }
 jap_economic_reform = {
@@ -3834,7 +3834,7 @@ mercenaries_to_the_standard = {
 }
 
 for_freedom = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 our_rights = {
@@ -3901,7 +3901,7 @@ love_of_devoted = {
 }
 
 full_elan = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 finest_infantry = {
@@ -3932,7 +3932,7 @@ payment_demands = {
 }
 
 relentless_drill = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 regimental_pride = {
@@ -4055,7 +4055,7 @@ bah_deccanis = {
 }
 
 bah_gharbians = {
-	land_morale = 0.05
+	land_morale = 0.075
 	stability_cost_modifier = 0.1
 }
 
@@ -4968,7 +4968,7 @@ massachusetts_humane_society = {
 }
 
 committee_of_safety = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 great_fire = {
@@ -5027,7 +5027,7 @@ harsh_laws_usa = {
 }
 
 medium_laws_usa = {
-	land_morale = 0.1
+	land_morale = 0.075
 	global_spy_defence = -0.1
 }
 
@@ -5487,7 +5487,7 @@ shakti_kali = {
 }
 
 shakti_tara = {
-	land_morale = 0.05
+	land_morale = 0.075
 	religion = yes
 }
 
@@ -5603,12 +5603,12 @@ distrust_among_nobles_monarchists = {
 }
 
 orangists_rally_against_rival = {
-	land_morale = 0.05
+	land_morale = 0.075
 	naval_morale = 0.05
 }
 
 monarchists_rally_against_rival = {
-	land_morale = 0.05
+	land_morale = 0.075
 	naval_morale = 0.05
 }
 
@@ -5949,7 +5949,7 @@ golden_age_transylvania = {
 }
 
 god_is_spanish = {
-	land_morale = 0.15
+	land_morale = 0.075
 	prestige = 1
 }
 
@@ -5963,7 +5963,7 @@ in_league_for_land = {
 }
 
 in_league_for_faith = {
-	land_morale = 0.10
+	land_morale = 0.075
 }
 
 distrusts_heathens = {
@@ -5993,7 +5993,7 @@ tar_tzintzuntzan = {
 }
 
 tar_princess_erendira = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 gua_bandeirantes = {
@@ -6106,7 +6106,7 @@ sce_quivira = {
 	global_tax_income = 10
 }
 sce_sacagawea = {
-	land_morale = 0.05
+	land_morale = 0.075
 	reinforce_speed = 0.05
 }
 sce_lost_woods = {
@@ -6122,7 +6122,7 @@ sce_shortcut_tooltip = {
 	local_hostile_movement_speed = 0.33
 }
 sce_jeanne_baret = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 sce_poison_rock = {
 	local_hostile_movement_speed = -0.5
@@ -6214,7 +6214,7 @@ nahuatl_grace_of_xipe_totec = {
 }
 
 nahuatl_grace_of_huitzilopochtli = {
-	land_morale = 0.1
+	land_morale = 0.075
 	prestige = 0.5
 	religion = yes
 }
@@ -6265,7 +6265,7 @@ inti_shrine_of_virocacha = {
 }
 
 inti_royal_guard = {
-	land_morale = 0.05
+	land_morale = 0.075
 	discipline = 0.025
 	global_unrest = 0.5
 }
@@ -7397,7 +7397,7 @@ tengri_ruler_questioned = {
 }
 
 tengri_jihad = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 tengri_strengthened_local_clans = {
@@ -7495,7 +7495,7 @@ tengri_support_of_brahmins = {
 }
 
 tengri_bow_and_arrow_defended = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 tengri_japanese_swordsmithing = {
@@ -7693,7 +7693,7 @@ russian_ambition_modifier = {
 
 indian_ambition = {
 	trade_efficiency = 0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 british_ambition = {
@@ -7702,7 +7702,7 @@ british_ambition = {
 }
 
 completing_the_reconquista = {
-	land_morale = 0.15
+	land_morale = 0.075
 	manpower_recovery_speed = 0.15
 }
 
@@ -7748,7 +7748,7 @@ fought_back_the_hungarians = {
 #China:
 uniter_of_the_manchus = {
 	manpower_recovery_speed = 0.1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 #FRA:
@@ -7821,7 +7821,7 @@ polish_ambition = {
 #ORI
 kapilendras_ambition = {
 	manpower_recovery_speed = 0.1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 #POR
@@ -7843,7 +7843,7 @@ por_conquest_of_hormuz = {
 #OMA
 sultan_of_muscat = {
 	trade_efficiency = 0.15
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 omani_ambition = {
@@ -8234,7 +8234,7 @@ silver_tongued_leverage = {
 }
 
 conquerors_presence = {
-	land_morale = 0.10
+	land_morale = 0.075
 }
 
 the_beating_of_the_drums = {
@@ -8243,7 +8243,7 @@ the_beating_of_the_drums = {
 
 hosting_tournament = {
 	global_manpower_modifier = 0.15
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 drilling_troops = {
@@ -8378,7 +8378,7 @@ nonchalant_ruler = {
 }
 
 bold_warriors = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 disciplined_warriors = {
@@ -8391,7 +8391,7 @@ fertility_concerns = {
 	local_manpower_modifier = -0.1
 }
 serenity_of_faith = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_regiment_recruit_speed = -0.2
 }
 
@@ -8506,7 +8506,7 @@ qadi_in_fetishist_lands = {
 
 in_honor_of_the_sun_god = {
 	local_manpower_modifier = -0.1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 blessed_rains = {
@@ -9030,7 +9030,7 @@ ikkos_empowered = {
 }
 
 support_of_ikkos = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 shinto_support_for_court = {
@@ -9117,7 +9117,7 @@ shinto_harsh_initial_stance_on_christianity = {
 
 in_defence_of_shintoism = {
 	tolerance_own = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 perfecting_the_musket = {
@@ -9129,12 +9129,12 @@ guns_commonplace = {
 }
 
 traditional_warfare = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 firearm_restrictions = {
 	global_manpower_modifier = -0.15
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 christian_ruler = {
@@ -9313,7 +9313,7 @@ streltsy_revolted = {
 }
 
 streltsy_inspection = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_tax_modifier = -0.1
 }
 
@@ -9427,7 +9427,7 @@ vanguard_revolutionary_guard_modifier = {
 #Muslim Schools
 wahabism_modifier = {
 	religion = yes
-	land_morale = 0.15
+	land_morale = 0.075
 	missionaries = 1
 	tolerance_heathen = -2
 	tolerance_heretic = -3
@@ -9742,7 +9742,7 @@ city_protected = {
 }
 
 religious_fervor_among_tribesmen = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 religious_propaganda = {
@@ -10443,7 +10443,7 @@ rajput_scion_province_modifier = {
 rajput_dharma = {
 	is_rajput_modifier = yes
 	reinforce_cost_modifier = -0.25
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 rajput_connections = {
@@ -10705,7 +10705,7 @@ repaired_great_wall = {
 
 oir_captured_mng_emperor = {
 	siege_ability = 0.25
-	land_morale = 0.2
+	land_morale = 0.075
 }
 
 mng_militry_incompetence = {
@@ -10770,7 +10770,7 @@ sax_really_bad_reputation = {
 }
 
 sav_supports_antipopes_justice = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 borgia_pope = {
@@ -11070,11 +11070,11 @@ convert_to_new_sect_muslim = {
 
 bloodthirsty_mercs_modifier = {
 	is_mercenary_modifier = yes
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 bloodthirsty_mercs_modifier_universal = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 mercs_allowed_to_loot = {
@@ -11106,7 +11106,7 @@ popular_mercs_prosperity = {
 
 pious_mercenaries = {
 	is_mercenary_modifier = yes
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 veteran_mercs_modifier = {
@@ -11189,7 +11189,7 @@ napoleon_peacebringer = {
 }
 
 napoleon_inspirational_general = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 napoleon_prophet = {

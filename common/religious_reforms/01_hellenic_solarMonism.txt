@@ -18,7 +18,7 @@ solar_monism_reforms = {
 		technology_cost = -0.10
 	}
 	solar_monism_reform_3 = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	solar_monism_reform_4 = {
 		core_creation = -0.2

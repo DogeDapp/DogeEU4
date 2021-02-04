@@ -19,7 +19,7 @@ YMN_Pirate_Patrols = {
 
 YMN_Military_Triumph = {
 	diplomatic_reputation = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 YMN_Powerful_Deputy_Lord = {

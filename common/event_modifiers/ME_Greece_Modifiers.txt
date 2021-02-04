@@ -53,7 +53,7 @@ democracy_ftw = {
 
 greek_pride = {
 	prestige = 1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 greek_navy = {
@@ -77,7 +77,7 @@ became_a_league_gre = {
 
 aristocrats_in_greece = {
 	republican_tradition = -1
-	land_morale = 0.05
+	land_morale = 0.075
 	gl_aristocrats_influence = 0.2
 }
 

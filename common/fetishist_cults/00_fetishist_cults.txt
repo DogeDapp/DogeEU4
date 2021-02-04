@@ -304,7 +304,7 @@ south_central_american_cult = {
 	allow  = {
 		has_unlocked_cult = south_central_american_cult
 	}
-	land_morale = 0.1
+	land_morale = 0.075
 	ai_will_do = {
 		factor = 10
 		modifier = {

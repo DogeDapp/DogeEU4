@@ -18,7 +18,7 @@ JAP_nanban_trade = {
 	idea_cost = -0.1
 }
 JAP_organized_clan = {
-	land_morale = 0.05
+	land_morale = 0.075
 	prestige = 1
 }
 
@@ -29,7 +29,7 @@ JAP_ikko_province = {
 }
 
 JAP_warrior_monks = {
-	land_morale = 0.05
+	land_morale = 0.075
 	tolerance_own = 1
 }
 
@@ -57,7 +57,7 @@ JAP_seized_ikko_wealth = {
 }
 
 JAP_rise_of_a_new_clan = {
-	land_morale = 0.05
+	land_morale = 0.075
 	infantry_power = 0.05
 }
 JAP_kyoto_kanrei = {

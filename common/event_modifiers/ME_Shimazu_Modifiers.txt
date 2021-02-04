@@ -15,7 +15,7 @@ SMZ_well_advised = {
 	army_tradition = 0.5
 }
 SMZ_march_on_kyoto = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 SMZ_the_new_order = {
 	legitimacy = 1

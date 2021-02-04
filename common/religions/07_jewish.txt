@@ -36,7 +36,7 @@ jewish_group = {
 			local_tax_modifier = 0.01
 		}
 		country_as_secondary = {
-			land_morale = 0.05
+			land_morale = 0.075
 			global_unrest = -1
 		}
 		personal_deity = yes

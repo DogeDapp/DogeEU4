@@ -72,6 +72,6 @@ corsica_alliance_with_england = {
 }
 
 corsica_protect_against_france = {
-	land_morale = 0.05
+	land_morale = 0.075
 	reinforce_speed = 0.15
 }

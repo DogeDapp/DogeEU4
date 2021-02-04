@@ -234,7 +234,7 @@ revolutionary_empire = {
 	modifiers = {
     	governing_capacity = 150
 		global_manpower_modifier = 0.25
-		land_morale = 0.10
+		land_morale = 0.075
 		global_autonomy = -0.2
 	}
 	removed_effect = {
@@ -742,7 +742,7 @@ noble_republic = {
 	modifiers = {
    		governing_capacity = 100
 		tolerance_heretic = 1
-		land_morale = 0.1
+		land_morale = 0.075
 		max_absolutism = -40
 	}
 
@@ -808,7 +808,7 @@ military_dictatorship = {
 
 	modifiers = {
 		global_autonomy = -0.075
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	custom_attributes = {
 		generals_become_rulers = yes
@@ -829,7 +829,7 @@ protectorate_parliament_legacy = {
 	
 	modifiers = {
 		global_autonomy = -0.05
-		land_morale = 0.05
+		land_morale = 0.075
 		max_absolutism = -20
 	}
 	conditional = {
@@ -863,7 +863,7 @@ republican_dictatorship = {
     	governing_capacity = 150
 		global_autonomy = -0.075
 		tolerance_heathen = 1
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 
 	ai = {
@@ -963,7 +963,7 @@ revolutionary_republic = {
 	modifiers = {
     	governing_capacity = 150
 		tolerance_heretic = 2
-		land_morale = 0.1
+		land_morale = 0.075
 		global_autonomy = -0.2
 	}
 
@@ -1709,7 +1709,7 @@ ambrosian_republic_legacy = {
 	modifiers = {
 		governing_capacity = 100
 		global_tax_modifier = 0.10
-		land_morale = 0.05
+		land_morale = 0.075
 		max_absolutism = -30
 	}
 	ai = {
@@ -1954,7 +1954,7 @@ daimyo_legacy = {
     fixed_rank = 1
 	monarchy = yes
 	modifiers = {
-		land_morale = 0.10
+		land_morale = 0.075
 		infantry_power = 0.10
 	}
 
@@ -2057,7 +2057,7 @@ indep_daimyo_legacy = {
 	monarchy = yes
 	modifiers = {
 		governing_capacity = -150
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.1
 	}
 
@@ -2191,7 +2191,7 @@ peasants_republic_legacy = {
 	modifiers = {
 		governing_capacity = 50
 		production_efficiency = 0.1
-		land_morale = 0.05
+		land_morale = 0.075
 		global_autonomy = -0.05
 		max_absolutism = -50
 	}

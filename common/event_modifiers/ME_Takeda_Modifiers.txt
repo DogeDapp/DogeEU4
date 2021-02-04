@@ -1,10 +1,10 @@
 takeda_tiger_of_kai_modifier = {
-	land_morale = 0.05
+	land_morale = 0.075
 	siege_ability = 0.1
 }
 
 takeda_wind_fire_forest_mountain_modifier = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 takeda_rivals_of_uesugi_modifier = {

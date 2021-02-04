@@ -52,7 +52,7 @@ cli_carinthian_ambition = {
 	shock_damage_received = -0.10
 }
 cli_against_all_odds = {
-	land_morale = 0.10
+	land_morale = 0.075
 }
 cli_house_celje_trimphant = {
 	heir_chance = 0.50

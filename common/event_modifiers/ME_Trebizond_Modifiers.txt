@@ -42,7 +42,7 @@ TRE_great_pontic_army = {
 	land_maintenance_modifier = -0.1
 }
 TRE_to_the_last_man = {
-	land_morale = 0.15
+	land_morale = 0.075
 	defensiveness = 0.25
 }
 TRE_pontic_reconquest = {

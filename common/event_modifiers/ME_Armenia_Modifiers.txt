@@ -34,11 +34,11 @@ ARM_united_defense = {
 }
 
 ARM_free_hayastan = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 ARM_black_sheep_curtailed = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 ARM_christian_revanchism = {

@@ -414,7 +414,7 @@ nationalism_institution = {
 	penalty = 0.5
 
 	bonus = {
-		land_morale = 0.2
+		land_morale = 0.075
 	}
 
 	trade_company_efficiency = 2.5

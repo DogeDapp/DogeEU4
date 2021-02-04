@@ -25,7 +25,7 @@ PRO_provencal_trading_fleet = {
 	trade_steering = 0.2
 }
 PRO_pushed_our_claims = {
-	land_morale = 0.1
+	land_morale = 0.075
 	prestige = 1
 }
 PRO_pythean_school_of_cartography = {
@@ -84,7 +84,7 @@ PRO_France = {
 	global_manpower_modifier = 0.2
 }
 PRO_Sicily = {
-	land_morale = 0.1
+	land_morale = 0.075
 	global_manpower_modifier = 0.2
 }
 PRO_Hungary = {

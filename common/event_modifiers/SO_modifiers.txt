@@ -7,7 +7,7 @@ the_harshest_conditions = {
 	global_colonial_growth = 20
 }
 dreams_of_liberty = {
-	land_morale = 0.15
+	land_morale = 0.075
 	naval_morale = 0.15
 	siege_ability = 0.20
 }
@@ -153,7 +153,7 @@ the_baltic_secured = {
 }
 
 for_king_and_country = {
-	land_morale = 0.1
+	land_morale = 0.075
 	naval_morale = 0.1
 	discipline = 0.05
 	global_manpower_modifier = 0.10
@@ -205,7 +205,7 @@ of_spice = {
 }
 
 of_sugar = {
-	land_morale = 0.05
+	land_morale = 0.075
 	production_efficiency = 0.1
 }
 
@@ -237,7 +237,7 @@ military_academy = {
 	horde_unity = 1
 	devotion = 1
 	yearly_army_professionalism = 0.025
-	land_morale = 0.05
+	land_morale = 0.075
 	discipline = 0.02
 	local_manpower = 0.5
 }
@@ -320,7 +320,7 @@ revolution_in_denmark = {
 	max_revolutionary_zeal = 10
 	yearly_absolutism = 1
 	yearly_revolutionary_zeal = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 danish_hegemony = {
@@ -392,7 +392,7 @@ kla_baltic_union = {
 }
 
 god_and_fatherland = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_manpower_modifier = 0.15
 	global_trade_goods_size_modifier = 0.1
 }
@@ -416,7 +416,7 @@ kalmar_commonwealth = {
 
 swedish_support = {
 	discipline = 0.05
-	land_morale = 0.1
+	land_morale = 0.075
 	global_manpower_modifier = 0.35
 }
 
@@ -448,7 +448,7 @@ connected_in_faith = {
 
 king_in_sweden = {
 	yearly_army_professionalism = 0.05
-	land_morale = 0.10
+	land_morale = 0.075
 	discipline = 0.025
 }
 
@@ -464,7 +464,7 @@ pagan_zeal_nor = {
 
 the_great_crusade = {
 	cb_on_religious_enemies = yes
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 faithless_north_again = {
@@ -474,7 +474,7 @@ faithless_north_again = {
 
 the_rus_shattered = {
 	global_unrest = -1
-	land_morale = 0.1
+	land_morale = 0.075
 	naval_morale = 0.1
 	global_manpower_modifier = 0.15
 }
@@ -486,7 +486,7 @@ the_dual_crowns = {
 revolutionary_vikings = {
 	galley_power = 0.1
 	naval_morale = 0.15
-	land_morale = 0.15
+	land_morale = 0.075
 	may_perform_slave_raid = yes
 }
 
@@ -534,7 +534,7 @@ grand_navy_of_vikings = {
 
 caroleans_in_being = {
 	discipline = 0.025
-	land_morale = 0.1
+	land_morale = 0.075
 	shock_damage = 0.1
 }
 
@@ -623,7 +623,7 @@ adopted_christianity_sapmi = {
 
 held_firm_for_paganism = {
 	global_missionary_strength = 0.02
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 the_new_trades = {
@@ -651,13 +651,13 @@ sapmi_economics = {
 }
 
 the_pen_and_the_sword = {
-	land_morale = 0.10
+	land_morale = 0.075
 	diplomatic_reputation = 1
 }
 
 sparta_of_the_north = {
 	discipline = 0.05
-	land_morale = 0.1
+	land_morale = 0.075
 	leader_land_shock = 1
 	leader_land_fire = 1
 }
@@ -665,7 +665,7 @@ sparta_of_the_north = {
 fierce_at_all_times = {
 	global_unrest = -1
 	discipline = 0.025
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 modernized_tribalism_sapmi = {
@@ -675,7 +675,7 @@ modernized_tribalism_sapmi = {
 
 tribal_hegemony_sapmi = {
 	core_creation = -0.15
-	land_morale = 0.15
+	land_morale = 0.075
 	global_missionary_strength = 0.02
 }
 
@@ -703,7 +703,7 @@ united_the_elba_basin = {
 
 the_great_army_reform = {
 	discipline = 0.03
-	land_morale = 0.10
+	land_morale = 0.075
 	leader_land_fire = 1
 	leader_land_shock = 1
 }
@@ -727,7 +727,7 @@ the_imperial_navy_shl = {
 
 landfall_in_scandinavia = {
 	discipline = 0.05
-	land_morale = 0.1
+	land_morale = 0.075
 	core_creation = -0.15
 	global_unrest = -1.5
 }

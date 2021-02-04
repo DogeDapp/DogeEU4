@@ -4,7 +4,7 @@ ANU_clan_unity = {
 	local_manpower_modifier = 0.25
 }
 ANU_The_ainu_resistance = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 ANU_conversion_buff = {
 	local_missionary_strength = 0.03

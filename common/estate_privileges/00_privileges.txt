@@ -3399,7 +3399,7 @@ estate_nomadic_tribes_primacy_to_the_bannermen = {
 		amount_of_banners = -0.25
 	}
 	benefits = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	ai_will_do = {
 		factor = 5
@@ -7309,7 +7309,7 @@ estate_church_for_the_faith = {
 		}
 		modifier = {
 			church_loyalty_modifier = 0.1
-			land_morale = 0.05
+			land_morale = 0.075
 		}
 	}
 	conditional_modifier = {
@@ -7376,7 +7376,7 @@ estate_brahmins_for_the_faith = {
 			brahmins_hindu_loyalty_modifier = 0.1
 			brahmins_muslim_loyalty_modifier = 0.1
 			brahmins_other_loyalty_modifier = 0.1
-			land_morale = 0.05
+			land_morale = 0.075
 		}
 	}
 	conditional_modifier = {

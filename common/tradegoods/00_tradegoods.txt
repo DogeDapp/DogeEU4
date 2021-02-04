@@ -1836,7 +1836,7 @@ unknown = {
 beer = {
 	color = {  0.90 0.60 0.00  }
 	modifier = {
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	province = {
 		local_years_of_nationalism = -2

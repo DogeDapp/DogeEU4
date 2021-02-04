@@ -10,7 +10,7 @@ generic_madagascar_rebirth_modifier = {
 	idea_cost = -0.1
 }
 generic_madagascar_ready_modifier = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 generic_madagascar_defense_modifier = {
 	local_defensiveness = 0.15

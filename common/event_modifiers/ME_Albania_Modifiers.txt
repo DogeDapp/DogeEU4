@@ -3,12 +3,12 @@ alb_economic_resurgence = {
 	global_tax_modifier = 0.1
 }
 alb_mountaineers = {
-	land_morale = 0.1
+	land_morale = 0.075
 	land_attrition = -0.20
 	movement_speed = 0.1
 }
 alb_black_eagle = {
-	land_morale = 0.05
+	land_morale = 0.075
 	discipline = 0.025
 }
 alb_forts = {

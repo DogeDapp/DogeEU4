@@ -1,9 +1,9 @@
 GEO_bastion_of_christ = {
 	defensiveness = 0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 GEO_restoration_campaigns = {
-	land_morale = 0.1
+	land_morale = 0.075
 	unjustified_demands = -0.2
 }
 GEO_georgians_stand_strong = {

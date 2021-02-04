@@ -44,7 +44,7 @@ eastern = {
 		}
 		country = {
 			tolerance_heretic = 1
-			land_morale = 0.05
+			land_morale = 0.075
 		}
 		country_as_secondary = {
 			horde_unity = 1
@@ -149,7 +149,7 @@ eastern = {
 		color = { 190 0 38 }
 		icon = 10
 		country = {
-			land_morale = 0.1
+			land_morale = 0.075
 		}
 		province = {
 			local_missionary_strength = -0.02

@@ -54,7 +54,7 @@ ath_scary = {
 
 ath_more_text = {
 	land_forcelimit = 3
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 ath_great = {
@@ -85,7 +85,7 @@ ath_the_wall = {
 
 ath_first_galatic_empire = {
 	infantry_power = 0.05
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 ath_our_trade = {

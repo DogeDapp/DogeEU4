@@ -66,7 +66,7 @@ inti_reforms = {
 		devotion = 0.5
 	}
 	inti_reform_4 = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	inti_reform_5 = {
 		core_creation = -0.1

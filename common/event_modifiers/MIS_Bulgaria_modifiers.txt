@@ -6,7 +6,7 @@ bulgarian_underground = {
 }
 
 revenge_for_varna = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 integration_albania = {

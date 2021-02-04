@@ -71,11 +71,11 @@ american_pagan = {
 		color = { 200 0 70 }
 		icon = 17
 		country = {
-			land_morale = 0.1
+			land_morale = 0.075
 			global_unrest = -2
 		}
 		country_as_secondary = {
-			land_morale = 0.05
+			land_morale = 0.075
 			raze_power_gain = 0.2
 		}
 		province = {

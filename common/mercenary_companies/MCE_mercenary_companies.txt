@@ -33,7 +33,7 @@ MCE_merc_ikko_ikki = {
 		capital_scope = { region = japan_region }
 	}
 	modifier = { 
-		land_morale = 0.05
+		land_morale = 0.075
 		fire_damage = 0.1
 	}
 }
@@ -64,7 +64,7 @@ MCE_merc_navarrese_company = {
 		capital_scope = { region = iberia_region }
 	}
 	modifier = { 
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 }
 
@@ -79,7 +79,7 @@ MCE_merc_sforza_condotierri = {
 	}
 	modifier = { 
 		infantry_power = 0.05
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 }
 
@@ -154,7 +154,7 @@ MCE_merc_hashashin = {
 		at_war_with_religious_enemy = yes
 	}
 	modifier = { 
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 }
 
@@ -241,7 +241,7 @@ MCE_merc_japanese_guard = {
 	}
 	modifier = { 
 		recover_army_morale_speed = 0.05
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 }
 
@@ -327,7 +327,7 @@ MCE_merc_transylvanian_cavalry = {
 		tag = BOH
 	}
 	modifier = { 
-		land_morale = 0.05
+		land_morale = 0.075
 		cavalry_power = 0.1
 	}
 }
@@ -409,7 +409,7 @@ MCE_honoratas_band = { #Don't kill me, this is a female band so they get female 
 	}
 	modifier = { 
 		discipline = 0.02
-		land_morale = 0.05
+		land_morale = 0.075
 		may_recruit_female_generals = yes
 		female_advisor_chance = 1.0
 	}
@@ -469,7 +469,7 @@ MCE_merc_teutonic_order = {
 		}
 	}
 	modifier = { 
-		land_morale = 0.05
+		land_morale = 0.075
 		cavalry_shock = 1 
 	}
 }
@@ -577,7 +577,7 @@ MCE_merc_Montefeltro_Bastion = {
 		}
 	}
 	modifier = { 
-		land_morale = 0.10
+		land_morale = 0.075
 		movement_speed = 0.05
 		recover_army_morale_speed = 0.10
 	}
@@ -635,7 +635,7 @@ MCE_merc_local_lukerzz = {
 		primary_culture = norwegian
 	}
 	modifier = {
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.1
 	}
 }

@@ -432,7 +432,7 @@ caliphate_reform_sunni = {
 			advisor_cost = -0.1
 		}
 		japanese_g = {
-			land_morale = 0.1
+			land_morale = 0.075
 		}
 		korean_g = {
 			idea_cost = -0.05

@@ -13,7 +13,7 @@ frankish_education = {
 frankish_unity = {
 	monthly_splendor = 2
 	global_unrest = -2
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 frankish_trade_boom = {

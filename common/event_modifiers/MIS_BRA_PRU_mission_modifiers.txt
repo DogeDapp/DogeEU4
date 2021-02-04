@@ -20,7 +20,7 @@ prussia_mercenary_ledger = {
 }
 prussia_early_reforms = {
 	land_maintenance_modifier = 0.25
-	land_morale = 0.05
+	land_morale = 0.075
 	prestige_from_land = 0.1
 	army_tradition = 0.1
 	shock_damage_received = -0.05
@@ -51,7 +51,7 @@ prussia_early_trade_reforms = {
 
 prussia_war_college = {
 	land_maintenance_modifier = 0.25
-	land_morale = 0.1
+	land_morale = 0.075
 	discipline = 0.025
 	recover_army_morale_speed = 0.1
 	reinforce_cost_modifier = -0.05
@@ -156,7 +156,7 @@ prussian_inheritance = {
 }
 
 knights_brought_to_heel = {
-	land_morale = 0.05
+	land_morale = 0.075
 	discipline = 0.005
 	recover_army_morale_speed = 0.05
 }

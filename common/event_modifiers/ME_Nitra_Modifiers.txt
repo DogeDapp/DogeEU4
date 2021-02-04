@@ -1,5 +1,5 @@
 nitra_independence = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 nitra_freedom_fighters = {

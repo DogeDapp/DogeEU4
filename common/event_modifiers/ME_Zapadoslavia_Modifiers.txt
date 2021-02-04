@@ -1,5 +1,5 @@
 zcv_full_army = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_manpower_modifier = 0.1
 }
 

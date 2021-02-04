@@ -55,7 +55,7 @@ AZE_persian_legacy = {
 	monthly_splendor = 2
 }
 AZE_pushing_west = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 AZE_end_of_georgia = {
 	tolerance_heathen = 1
@@ -75,7 +75,7 @@ AZE_immense_prestige = {
 	manpower_recovery_speed = 0.1
 }
 AZE_qizilbashi = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 AZE_true_faith = {
 	tolerance_own = 1

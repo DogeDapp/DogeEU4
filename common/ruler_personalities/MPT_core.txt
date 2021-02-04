@@ -579,7 +579,7 @@ bishamonten_personality = {
 	gift_chance = 25
 	
 	prestige_from_land = 0.1
-	land_morale = 0.05
+	land_morale = 0.075
 	shock_damage_received = -0.1
 	spy_offence = -0.15
 	rebel_support_efficiency = -0.25 	

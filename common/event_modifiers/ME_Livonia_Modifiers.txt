@@ -2,12 +2,12 @@ livonia_prussian_discipline = {
 	army_tradition = 0.25
 	infantry_power = 0.05
 	discipline = 0.025
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 livonia_holy_warriors = {
 	tolerance_own = 0.5
 	global_missionary_strength = 0.03
-	land_morale = 0.1
+	land_morale = 0.075
 	manpower_recovery_speed = 0.1
 }

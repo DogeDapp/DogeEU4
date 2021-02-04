@@ -235,7 +235,7 @@ daimyo = {
 		capital_scope = { region = japan_region }
 	}
 	modifiers = {
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.1
 	}
 	custom_attributes = {
@@ -274,7 +274,7 @@ indep_daimyo = {
 	maintain_dynasty = yes
 
 	modifiers = {
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.1
 		governing_capacity = -150
 	}
@@ -833,7 +833,7 @@ mughal_government = {
 			advisor_cost = -0.1
 		}
 		japanese_g = {
-			land_morale = 0.1
+			land_morale = 0.075
 		}
 		korean_g = {
 			idea_cost = -0.05
@@ -915,7 +915,7 @@ revolutionary_empire_reform = {
 	fixed_rank = 3
 	modifiers = {
 		global_manpower_modifier = 0.25
-		land_morale = 0.10
+		land_morale = 0.075
 		global_autonomy = -0.2
 		governing_capacity = 150
 		max_revolutionary_zeal = 50
@@ -1342,7 +1342,7 @@ khalsa_reform = {
 	modifiers = {
 		tolerance_heathen = 1
 		tolerance_heretic = 1
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	ai = {
 		factor = 5

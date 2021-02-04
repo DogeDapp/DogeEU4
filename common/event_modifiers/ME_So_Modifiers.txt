@@ -29,7 +29,7 @@ So_push_for_victory = {
 	war_exhaustion = -0.03
 }
 So_an_emerging_power = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 So_offensive_fleet = {
 	galley_cost = -0.15

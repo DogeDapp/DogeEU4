@@ -82,7 +82,7 @@ apollo = {
 }
 
 mars = {
-        land_morale = 0.1
+        land_morale = 0.075
         discipline = 0.020
 
         allow = { religion = hellenic_pagan NOT = { culture_group = byzantine } }

@@ -57,7 +57,7 @@ mr_aristocrats =
 
 	modifier = 
 	{
-		land_morale = 0.05
+		land_morale = 0.075
 		global_sailors_modifier = 0.25
 		global_foreign_trade_power = -0.1
 	}

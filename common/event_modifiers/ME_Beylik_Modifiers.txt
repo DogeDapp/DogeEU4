@@ -4,7 +4,7 @@
 
 
 beylik_freedom = {
-	land_morale = 0.1
+	land_morale = 0.075
 	manpower_recovery_speed = 0.25
 }
 
@@ -64,7 +64,7 @@ ram_manpower = {
 }
 
 ram_home_defense = {
-	land_morale = 0.2
+	land_morale = 0.075
 	defensiveness = 0.1
 }
 

@@ -1,6 +1,6 @@
 #Suomenusko
 ukko = {
-	land_morale = 0.1
+	land_morale = 0.075
 	discipline = 0.025
 	
 	allow = { religion = suomenusko }

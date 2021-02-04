@@ -15,7 +15,7 @@ cathar_castles_aspect = {
 sacrement_consolament_aspect = {
 	cost = 100
 	modifier = {
-		land_morale = 0.10 #was .2
+		land_morale = 0.075 #was .2
 	}
 	ai_will_do = {
 		factor = 15

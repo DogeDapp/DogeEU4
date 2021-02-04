@@ -91,7 +91,7 @@ koj_new_bloodline = {
 	monarch_diplomatic_power = 1
 }
 koj_spear_of_destiny = {
-	land_morale = 0.1
+	land_morale = 0.075
 	prestige = 1
 	legitimacy = 1
 }

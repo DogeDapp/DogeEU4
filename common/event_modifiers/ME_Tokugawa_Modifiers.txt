@@ -1,6 +1,6 @@
 tokugawa_not_only_in_name_modifier = {
 	siege_ability = 0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 tokugawa_the_sekisho_network_modifier = {

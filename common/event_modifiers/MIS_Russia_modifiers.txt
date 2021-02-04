@@ -24,7 +24,7 @@ russia_manchurian = {
 }
 
 northern_war = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 russia_yekaterinburg = {

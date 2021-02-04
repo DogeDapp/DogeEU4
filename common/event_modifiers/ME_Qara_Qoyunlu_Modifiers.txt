@@ -21,7 +21,7 @@ QAR_horsemen = {
 }
 QAR_turkoman_tribes_reunited = {
 	yearly_tribal_allegiance = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 QAR_unity = { 
 	religious_unity = 0.25

@@ -1,5 +1,5 @@
 nrm_prepared_for_war = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 nrm_supporters = {
 	diplomatic_reputation = 1
@@ -17,7 +17,7 @@ nrm_neapolitan_trade = {
 	trade_efficiency = 0.05
 }
 nrm_conquest_of_jerusalem = {
-	land_morale = 0.1
+	land_morale = 0.075
 	culture_conversion_cost = -0.2
 }
 nrm_conquest_of_picardy = {

@@ -5,7 +5,7 @@
 #Generic Military Mission Rewards:
 
 thriving_arms_industry = {
-	land_morale = 0.05
+	land_morale = 0.075
 	land_maintenance_modifier = -0.05
 }
 
@@ -182,7 +182,7 @@ baltic_ambition_new = {
 }
 
 conquest_of_finland = {
-	land_morale = 0.1
+	land_morale = 0.075
 	land_attrition = -0.2
 }
 
@@ -251,7 +251,7 @@ byzantine_unification_of_italy = {
 }
 
 venetian_revenge = {
-	land_morale = 0.1
+	land_morale = 0.075
 	manpower_recovery_speed = 0.1
 }
 
@@ -294,7 +294,7 @@ norway_subjugated_swe = {
 	manpower_recovery_speed = 0.1
 }
 swe_pommerania_conquered = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 # Danish missions
@@ -523,7 +523,7 @@ rule_britannia = {
 }
 
 conquest_of_ireland = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 north_sea_ambition = {
@@ -557,7 +557,7 @@ spa_hispaniola_discovered = {
 }
 
 spa_rb_morale = {
-	land_morale = 0.05
+	land_morale = 0.075
 	naval_morale = 0.05
 }
 
@@ -600,7 +600,7 @@ ned_zeelandia_mod = {
 }
 
 ned_lowlands_victory = {
-	land_morale = 0.1
+	land_morale = 0.075
 	recover_army_morale_speed = 0.15
 }
 
@@ -660,7 +660,7 @@ fra_colonial_enthusiasm_2 = {
 # Omani missions
 
 oma_buildforces_mod = {
-	land_morale = 0.05
+	land_morale = 0.075
 	recover_army_morale_speed = 0.1
 }
 
@@ -773,7 +773,7 @@ gen_eur_trade_node_mod = {
 }
 
 gen_eur_defender = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_heretic_missionary_strength = 0.01
 }
 
@@ -844,7 +844,7 @@ bedouins_pacified = {
 	global_unrest = -2
 }
 beyliks_subjugated = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 # Bohemian missions
@@ -927,7 +927,7 @@ vij_malabar_modifier = {
 }
 
 vij_andhra_modifier = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 vij_plunder_modifier = {
@@ -952,7 +952,7 @@ dlh_textile_modifier = {
 }
 
 dlh_bengal_modifier = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 dlh_grand_trunk_road_modifier = {
 	local_friendly_movement_speed = 0.25
@@ -991,7 +991,7 @@ ori_vedic_education = {
 	idea_cost = -0.1
 }
 ori_bengal_inland_modifier = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 # TR Russian missions
@@ -1031,7 +1031,7 @@ rus_reactionary_zeal = {
 # TR Novgorodian missions
 nov_defeated_muscovy = {
 	manpower_recovery_speed = 0.15
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 nov_tver_conquest = {
@@ -1107,7 +1107,7 @@ bng_arabian_sea_trade = {
 
 bng_defied_china = {
 	legitimacy = 1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 converted_bengal = {
@@ -1311,7 +1311,7 @@ masters_of_malwa = {
 }
 
 mer_united_rajputana = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 mer_tribal_recruitment = {
@@ -1528,7 +1528,7 @@ conquest_of_bihar_and_bengal = {
 
 mug_formation_hope = {
 	manpower_recovery_speed = 0.1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 mug_looting = {
@@ -1603,12 +1603,12 @@ mug_viceroyalty_of_the_deccan = {
 
 mughal_strongholds = {
 	fort_maintenance_modifier = -0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 mug_conquest_of_rajputana = {
 	manpower_recovery_speed = 0.1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 hajj_ports = {
@@ -1629,7 +1629,7 @@ coromandel_traders = {
 # Generic Indian missions
 
 gen_delhi_conquest = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 warrior_castes_promoted = {
@@ -1739,7 +1739,7 @@ sikh_conversion = {
 # Tibetan modifiers
 
 tibet_restored_pala = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 tibet_china_defeated = {
@@ -1791,7 +1791,7 @@ restored_ruthenia = {
 }
 
 pol_swedish_deluge = {
-	land_morale = 0.1
+	land_morale = 0.075
 	culture_conversion_cost = -0.1
 }
 
@@ -1906,7 +1906,7 @@ mor_black_guard = {
 }
 
 mor_conquest_of_kanem = {
-	land_morale = 0.1
+	land_morale = 0.075
 	movement_speed = 0.1
 }
 
@@ -1919,7 +1919,7 @@ mor_north_sea_corsairs = {
 }
 mor_andalucia = {
 	global_missionary_strength = 0.03
-	land_morale = 0.1
+	land_morale = 0.075
 }
 mor_tunis_conquest = {
 	galley_power = 0.2
@@ -1989,7 +1989,7 @@ conquest_of_air = {
 }
 
 tun_conquest_of_kanem = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 tun_med_conquest = {
@@ -2103,7 +2103,7 @@ renovated_palace_of_alhambra = {
 }
 
 gra_bolstered_morale = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 portuguese_surat_modifier = {
@@ -2200,7 +2200,7 @@ pirate_federation =  {
 
 pirate_a_famous_pirate = {
 	global_tax_modifier = 0.1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 # Navarra missions
@@ -2233,7 +2233,7 @@ renovated_palace_of_alhambra = {
 }
 
 gra_bolstered_morale = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 gra_rebuilding_mosques = {
@@ -2298,7 +2298,7 @@ adu_righteous_conquest = {
 }
 
 adu_white_phoenix = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 adu_summer_capital = {
@@ -2609,7 +2609,7 @@ kni_crusade_against_piracy = {
 }
 
 restored_hospitaler_knights = {
-	land_morale = 0.1
+	land_morale = 0.075
 	global_manpower_modifier = 0.1
 }
 
@@ -2720,7 +2720,7 @@ pro_imperial_diplomacy = {
 }
 
 pro_king_of_france = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 toulon_dockyards = {
@@ -2735,7 +2735,7 @@ pro_la_marseillaise = {
 }
 
 pro_la_marseillaise_2 = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 pro_renaissance = {
@@ -2790,7 +2790,7 @@ swi_expanded_papal_guard = {
 
 ended_the_habsburgs = {
 	prestige = 1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 swiss_mountains_modifier = {
@@ -2868,7 +2868,7 @@ gen_achieved_mare_nostrum = {
 }
 
 gen_ascendant_force = {
-	land_morale = 0.05
+	land_morale = 0.075
 	naval_morale = 0.05
 }
 
@@ -2933,7 +2933,7 @@ bav_piety_shown = {
 
 bav_piety_spread = {
 	diplomatic_reputation = 2
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 bav_bavarian_netherlands = {
@@ -3026,7 +3026,7 @@ sax_saxon_ambition = {
 }
 
 sax_defeated_brandenburg = {
-	land_morale = 0.05
+	land_morale = 0.075
 	discipline = 0.025
 }
 
@@ -3199,7 +3199,7 @@ hab_our_balance_of_power_mod = {
 }
 
 hab_take_that_napoleon = {
-	land_morale = 0.1
+	land_morale = 0.075
 	ae_impact = -0.1
 	improve_relation_modifier = 0.1
 }
@@ -3231,7 +3231,7 @@ bur_english_diplomacy = {
 
 bur_king_of_franks = {
 	diplomatic_upkeep = 1
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 bur_influence_over_princes = {
@@ -3301,7 +3301,7 @@ sav_duke_of_burgundy = {
 }
 
 sav_king_of_cyprus = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 sav_piedmont_lombardy = {
@@ -3354,7 +3354,7 @@ sav_savoyard_diplomacy2 = {
 }
 
 sav_savoyard_army = {
-	land_morale = 0.1
+	land_morale = 0.075
 	army_tradition = 0.5
 }
 
@@ -3706,12 +3706,12 @@ swa_new_diplomatic_relevance_mod = {
 }
 
 swa_crusader_lord = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_missionary_strength = 0.01
 }
 
 swa_heathen_crusader_lord = {
-	land_morale = 0.05
+	land_morale = 0.075
 	diplomatic_reputation = 1
 }
 
@@ -3728,7 +3728,7 @@ fkn_arts_patronised = {
 
 fkn_franconia_ascendant = {
 	prestige = 0.5
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 fkn_kingdom_of_the_franks_mod = {
@@ -3789,13 +3789,13 @@ pal_kingdom_of_the_rhine_mod = {
 
 pal_great_king = {
 	diplomatic_reputation = 1
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 #Bishop Electors and other HRE theocracies
 
 theocracy_lords_army_mod = {
-	land_morale = 0.05
+	land_morale = 0.075
 	global_missionary_strength = 0.01
 }
 
@@ -3974,7 +3974,7 @@ likedeelers_modifier = {
 }
 
 hemmingstedt_victory = {
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 integrating_the_peasantry = {
@@ -4075,7 +4075,7 @@ pom_consolidated_front = {
 	global_autonomy = -0.05
 }
 pom_inspiring_revenge = {
-	land_morale = 0.10
+	land_morale = 0.075
 	manpower_recovery_speed = 0.20
 }
 pom_trade_boom = {
@@ -4083,7 +4083,7 @@ pom_trade_boom = {
 	trade_steering = 0.20
 }
 pom_royal_solidarity = {
-	land_morale = 0.10
+	land_morale = 0.075
 	diplomatic_reputation = 1
 }
 pom_pol_unity = {

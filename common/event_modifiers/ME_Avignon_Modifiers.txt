@@ -1,5 +1,5 @@
 avignon_independence_war = {
-	land_morale = 0.1
+	land_morale = 0.075
 	manpower_recovery_speed = 0.2
 }
 
@@ -25,7 +25,7 @@ avignon_textile_industry = {
 
 avignon_piedmontese_wine = {
 	global_unrest = -1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 avignon_center_of_arts_and_technology = {

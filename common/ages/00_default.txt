@@ -1392,7 +1392,7 @@ industrial_age = {
 		#}
 		ab_industrial_abolitionism = {
 			modifier = {
-				land_morale = 0.1
+				land_morale = 0.075
 			}
 			effect = {
 				add_country_modifier = {

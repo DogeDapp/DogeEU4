@@ -34,7 +34,7 @@ tur_black_sea = {
 }
 
 tur_murad = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 tur_karaman_horses = {
@@ -99,7 +99,7 @@ TUR_tunis_diplo = {
 }
 
 TUR_ottoman_winning_tunis = {
-	land_morale = 0.05
+	land_morale = 0.075
 	manpower_recovery_speed = 0.05
 }
 
@@ -128,11 +128,11 @@ TUR_berber_pirates = {
 
 TUR_tripoli_jan = {
 	is_janissary_modifier = yes
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 TUR_tripoli_jan_no_coc = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 
 TUR_djerba = {
@@ -141,7 +141,7 @@ TUR_djerba = {
 }
 
 TUR_persian_defense = {
-	land_morale = 0.15
+	land_morale = 0.075
 	defensiveness = 0.20
 	manpower_recovery_speed = 0.10
 	global_manpower_modifier = 0.30
@@ -259,7 +259,7 @@ TUR_crimean_subj = {
 
 TUR_bektashi_promoted = {
 	is_janissary_modifier = yes
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 TUR_bektashi_forbidden = {
@@ -283,11 +283,11 @@ TUR_yerliyya_peacekeepers = {
 
 TUR_janissary_band = {
 	is_janissary_modifier = yes
-	land_morale = 0.15
+	land_morale = 0.075
 }
 
 TUR_marching_band = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 TUR_amasaya_hospital_modifier = {
@@ -378,7 +378,7 @@ TUR_zaz_overlord = {
 }
 
 TUR_expand_janissaries_no_coc = {
-	land_morale = 0.05
+	land_morale = 0.075
 }
 
 TUR_fortified_fortress_of_akkerman = {

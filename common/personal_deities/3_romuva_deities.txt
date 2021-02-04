@@ -1,6 +1,6 @@
 dieves = {
 
-	land_morale = 0.1
+	land_morale = 0.075
 	core_creation = -0.10
 	
 	allow = { religion = romuva }

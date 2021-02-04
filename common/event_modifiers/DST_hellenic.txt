@@ -10,7 +10,7 @@ hellenic_zeal = {
 hellenic_zeal_small = {
 	global_missionary_strength = 0.10
 	tolerance_heathen = -3
-	land_morale = 0.05
+	land_morale = 0.075
 }
 ##################################################
 # Hellenic Events
@@ -25,7 +25,7 @@ offer_to_juno = {
 	global_missionary_strength = 0.01
 }
 offer_to_mars = {
-	land_morale = 0.10
+	land_morale = 0.075
 	global_missionary_strength = 0.01
 }
 offer_to_minerva = {
@@ -66,7 +66,7 @@ offer_to_hera = {
 	global_missionary_strength = 0.01
 }
 offer_to_ares = {
-	land_morale = 0.10
+	land_morale = 0.075
 	global_missionary_strength = 0.01
 }
 offer_to_athena = {

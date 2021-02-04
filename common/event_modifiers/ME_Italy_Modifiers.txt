@@ -3,7 +3,7 @@ italy_trade = {
 }
 italy_unification_march = {
 	army_tradition_from_battle = 1
-	land_morale = 0.1
+	land_morale = 0.075
 }
 italy_unified = {
 	global_unrest = -1
@@ -30,7 +30,7 @@ italy_power = {
 	artillery_power = 0.1
 }
 italy_morale = {
-	land_morale = 0.1
+	land_morale = 0.075
 }
 italy_development = {
 	local_development_cost = -0.05
@@ -47,6 +47,6 @@ italy_pax_italica = {
 italy_mare_nostrum = {
 	culture_conversion_cost = -0.1
 	yearly_absolutism = 0.25
-	land_morale = 0.05
+	land_morale = 0.075
 	galley_power = 0.05
 }
