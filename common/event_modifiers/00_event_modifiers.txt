@@ -2815,7 +2815,7 @@ mehmeds_economic_reforms = {
 }
 
 tur_army_reform = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 tur_army_and_navy_reform = {
@@ -3033,7 +3033,7 @@ hab_royal_hungary = {
 }
 
 hun_kurucs = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 	cavalry_power = 0.05
 	global_tax_modifier = -0.1
 }
@@ -3064,7 +3064,7 @@ boh_strong_nobles = {
 boh_hussite_king = {
 	diplomatic_reputation = -1
 	papal_influence = -5
-	infantry_power = 0.1 #Hussite tactics
+	infantry_power = 0.05 #Hussite tactics
 }
 
 merchant_investement = {
@@ -9125,7 +9125,7 @@ perfecting_the_musket = {
 }
 
 guns_commonplace = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 traditional_warfare = {

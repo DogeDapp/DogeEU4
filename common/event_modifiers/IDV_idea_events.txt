@@ -566,7 +566,7 @@ iv_modifier_event_127 = {
 
 iv_modifier_event_128 = {
 	land_morale = -0.075
-	infantry_power = 0.075
+	infantry_power = 0.05
 	cavalry_power = 0.075
 	artillery_power = 0.075
 }
@@ -668,7 +668,7 @@ iv_modifier_event_150 = {
 }
 
 iv_modifier_event_151 = {
-	infantry_power = 0.075
+	infantry_power = 0.05
 	cavalry_power = 0.075
 	artillery_power = 0.075
 }
@@ -749,7 +749,7 @@ iv_modifier_event_168 = {
 }
 
 iv_modifier_event_169 = {
-	infantry_power = 0.075
+	infantry_power = 0.05
 }
 
 iv_modifier_event_170 = {
@@ -878,7 +878,7 @@ iv_modifier_event_197 = {
 }
 
 iv_modifier_event_198 = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 iv_modifier_event_199 = {
@@ -911,7 +911,7 @@ iv_modifier_event_205 = {
 }
 
 iv_modifier_event_206 = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 iv_modifier_event_207 = {
@@ -923,7 +923,7 @@ iv_modifier_event_208 = {
 }
 
 iv_modifier_event_209 = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 	cavalry_power = 0.1
 }
 

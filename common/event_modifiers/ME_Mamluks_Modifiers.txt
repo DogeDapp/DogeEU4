@@ -95,7 +95,7 @@ mamluks_restore_baghdad_modifier = {
 }
 
 mamluks_a_source_of_slaves_modifier = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 mamluks_domesticate_the_mamluks_modifier_1 = {

@@ -1440,7 +1440,7 @@ peasantry_reform = {
 	}
 	modifiers = {
 		infantry_cost = -0.15
-		infantry_power = 0.10
+		infantry_power = 0.05
 		army_tradition_decay = 0.01
 	}
 	ai = {

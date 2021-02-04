@@ -781,7 +781,7 @@ muslim = {
 			# If you don't set this it will expand on_invite_scholar effect which might be super big
 			invite_scholar_modifier_display = maturidi_scholar_modifier
 			picture = "GFX_icon_muslim_school_maturidi"
-			infantry_power = 0.1
+			infantry_power = 0.05
 		}
 		muhakkima_school = {
 			potential_invite_scholar = {

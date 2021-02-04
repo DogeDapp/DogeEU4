@@ -278,7 +278,7 @@ per_tribal_warriors = {
 
 per_pashtun_warriors = {
 	manpower_recovery_speed = 0.1
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 per_pearl_of_khorasan = {
@@ -969,7 +969,7 @@ dlh_sind_conquest_modifier = {
 }
 dlh_rajput_conquest_modifier = {
 	manpower_recovery_speed = 0.1
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 dlh_deccan_conquest_modifier = {
 	cavalry_power = 0.1
@@ -1290,7 +1290,7 @@ mer_marwari_cavalry = {
 }
 
 mer_purbias = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 mer_rajput_army = {
@@ -1445,7 +1445,7 @@ tau_arakan_trade = {
 }
 
 tau_elephant_battle = {
-	cavalry_power = 0.2
+	cavalry_power = 0.1
 }
 
 tau_expansionism = {
@@ -1705,7 +1705,7 @@ harmandar_sahib = {
 }
 
 sikh_empire = {
-	infantry_power = 0.15
+	infantry_power = 0.075
 }
 
 hindu_education = {
@@ -1744,7 +1744,7 @@ tibet_restored_pala = {
 
 tibet_china_defeated = {
 	army_tradition = 0.25
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 # New Polish modifiers
@@ -3401,7 +3401,7 @@ ita_scipios_helmet = {
 }
 
 ita_experienced_alpini = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 }
 
 ven_aldine_monopoly_modifier = {
@@ -3664,7 +3664,7 @@ french_client_states_mission = {
 
 # Albanian Missions
 skanderbeg_rebellion = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 	movement_speed = 0.1
 }
 

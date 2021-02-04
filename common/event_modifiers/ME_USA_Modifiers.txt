@@ -13,7 +13,7 @@ usa_arm_the_populace_province_modifier = {
 }
 
 usa_chain_of_command_modifier = {
-	infantry_power = 0.1
+	infantry_power = 0.05
 	yearly_army_professionalism = 0.01
 }
 

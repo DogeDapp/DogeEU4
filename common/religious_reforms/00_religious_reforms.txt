@@ -97,7 +97,7 @@ mesoamerican_reforms = {
 		global_unrest = -2
 	}
 	mesoamerican_reform_3 = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	mesoamerican_reform_4 = {
 		colonists = 1

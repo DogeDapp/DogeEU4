@@ -895,7 +895,7 @@ traditionalist_african_reform = {
 		}
 	}
 	modifiers = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	
 	#+10% Noble Loyalty

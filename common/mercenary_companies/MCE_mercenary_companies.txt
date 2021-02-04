@@ -48,7 +48,7 @@ MCE_merc_royal_life_guard = {
 		is_year = 1550
 	}
 	modifier = { 
-		infantry_power = 0.1
+		infantry_power = 0.05
 		fire_damage_received = -0.05
 	}
 }
@@ -122,7 +122,7 @@ MCE_merc_varangian_guard = {
 		tag = BYZ
 	}
 	modifier = { 
-		infantry_power = 0.1
+		infantry_power = 0.05
 		shock_damage = 0.1
 	}
 }
@@ -255,7 +255,7 @@ MCE_merc_galician_company = {
 		capital_scope = { region = iberia_region }
 	}
 	modifier = { 
-		infantry_power = 0.1
+		infantry_power = 0.05
 		siege_ability = 0.05
 	}
 }
@@ -445,7 +445,7 @@ MCE_merc_knights_hospitaller = {
 		at_war_with_religious_enemy = yes 
 	}
 	modifier = { 
-		infantry_power = 0.10
+		infantry_power = 0.05
 		siege_ability = 0.10
 	}
 }
@@ -636,7 +636,7 @@ MCE_merc_local_lukerzz = {
 	}
 	modifier = {
 		land_morale = 0.075
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -694,7 +694,7 @@ MCE_prussian_blue_marines = {
 	}
 	modifier = {
 		discipline = 0.025
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -717,7 +717,7 @@ MCE_pretorian_guards = {
 		tag = ROM
 	}
 	modifier = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -728,7 +728,7 @@ MCE_threehundered_spartans = {
 		capital_scope = { province_id = 145 }
 	}
 	modifier = {
-		infantry_power = 0.2
+		infantry_power = 0.1
 	}
 }
 

@@ -21,7 +21,7 @@ teutatis = {
 
 taranis = {
 
-	infantry_power = 0.075
+	infantry_power = 0.05
 	leader_land_shock = 1
 	
 	allow = { religion = celtic }
