@@ -1075,7 +1075,7 @@ gesellschaft0 = {
 		global_unrest = -1
 	}
 	gesellschaft7 = {
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	
 	ai_will_do = {
@@ -1365,7 +1365,7 @@ konigreich0 = {
 	category = DIP
 
 	bonus = {
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 		
 	trigger = {

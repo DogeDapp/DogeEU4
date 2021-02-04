@@ -24,7 +24,7 @@ CHG_ideas = {
 	free = yes
 	
 	picking_up_the_pieces = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	unification_of_central_asia = {
 		core_creation = -0.25
@@ -67,7 +67,7 @@ NOG_ideas = {
 		core_creation = -0.25
 	}
 	the_manghits = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	centralize_the_lesser_greater_nogay = {
 		global_manpower_modifier = 0.20
@@ -152,7 +152,7 @@ SHY_ideas = {
 	}
 	contest_over_southern_lands = {
 		army_tradition = 0.50
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	settle_issues_with_tribes = {
 		free_adm_policy = 1
@@ -169,7 +169,7 @@ SHY_ideas = {
 }
 LIV_ideas = {
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		global_missionary_strength = 0.02
 	}
 	
@@ -302,7 +302,7 @@ ADA_ideas = {
 	free = yes
 	
 	founded_in_fire = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	the_eternal_rivalry = {
 		global_manpower_modifier = 0.15
@@ -418,7 +418,7 @@ OLD_ideas = {
 	free = yes
 	
 	contested_north = {
-		land_morale = 0.05
+		land_morale = 0.075
 		infantry_power = 0.05
 	}
 	ties_to_the_hansa = {
@@ -537,7 +537,7 @@ SUN_ideas = {
 	free = yes
 	
 	glory_of_the_taruma_kingdom = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	rivalries_in_java = {
 		legitimacy = 0.50
@@ -854,7 +854,7 @@ LAU_ideas = {
 	free = yes
 	
 	hotly_contested_land = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	dynastic_affairs = {
 		legitimacy = 1.0
@@ -901,7 +901,7 @@ PSA_ideas = {
 		navy_tradition_decay = -0.01
 	}
 	conflicts_with_majapahit = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	take_to_land_development = {
 		development_cost = -0.1
@@ -975,7 +975,7 @@ SIE_ideas = {
 		republican_tradition = 0.3
 	}
 	remember_the_battle_of_montaperti = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	reform_monetary_practices = {
 		global_tax_modifier = 0.10
@@ -1018,7 +1018,7 @@ FER_ideas = {
 		mercenary_cost = -0.10
 	}
 	rival_of_venice = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	promote_high_european_culture = {
 		prestige = 1
@@ -1178,7 +1178,7 @@ AVR_ideas = {
 		diplomats = 1
 	}
 	revenge_against_gazikumukh = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	stave_off_the_external_threats = {
 		fire_damage = 0.05
@@ -1284,7 +1284,7 @@ LVA_ideas = {
 	free = yes
 	
 	revenge_against_livonian_order = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	coastal_trade_measures = {
 		trade_efficiency = 0.10
@@ -1361,7 +1361,7 @@ IRQ_ideas = {
 	free = yes
 	
 	defense_of_mesopotamia = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	cradle_of_great_cities = {
 		prestige = 1
@@ -1410,7 +1410,7 @@ MEN_ideas = {
 		diplomatic_reputation = 1
 	}
 	mesut_of_mentese = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	fight_for_the_islands = {
 		siege_blockade_progress = 1
@@ -1480,7 +1480,7 @@ GRM_ideas = {
 	free = yes
 	
 	after_the_decline_of_rum = {
-		land_morale = 0.10
+		land_morale = 0.075
 		prestige = 1
 	}
 	rivals_of_karaman = {
@@ -1562,7 +1562,7 @@ RAM_ideas = {
 		production_efficiency = 0.10
 	}
 	destroyers_of_cilicia = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	tensions_with_mamluk_sultanate = {
 		province_warscore_cost = -0.10
@@ -1604,7 +1604,7 @@ AYD_ideas = {
 		naval_morale = 0.15
 	}
 	revenge_for_the_smyrniote_crusades = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	securing_aegean_trade = {
 		global_prov_trade_power_modifier = 0.10
@@ -2142,7 +2142,7 @@ BIJ_ideas = {
 }
 AHM_ideas = {
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		defensiveness = 0.10
 	}
 	
@@ -2198,7 +2198,7 @@ TOU_ideas = {
 	free = yes
 	
 	battle_of_toulouse_721 = {
-		land_morale = 0.10
+		land_morale = 0.075
 		prestige = 1
 	}
 	treaty_of_paris_1229 = {
@@ -2315,7 +2315,7 @@ AVI_ideas = {
 	free = yes
 	
 	seat_of_the_avignon_papacy = {
-		land_morale = 0.10
+		land_morale = 0.075
 		years_of_nationalism = -5
 	}
 	avignon_exchange = {
@@ -2444,7 +2444,7 @@ FOI_ideas = {
 		diplomatic_upkeep = 1
 	}
 	tenuous_stance_by_french_royalty = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	fortify_the_castle_of_foix = {
 		fort_maintenance_modifier = -0.10
@@ -2481,7 +2481,7 @@ CHP_ideas = {
 		republican_tradition = 0.3
 	}
 	inheritor_of_france = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	champagne_fairs = {
 		caravan_power = 0.20
@@ -2758,7 +2758,7 @@ JIN_ideas = {
 		state_maintenance_modifier = -0.20
 	}
 	battle_against_former_qin = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	manipulation_of_taoism = {
 		stability_cost_modifier = -0.10
@@ -2797,7 +2797,7 @@ SHU_ideas = {
 		legitimacy = 1
 	}
 	three_kingdoms_period_shu = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	zhuge_liang = {
 		free_adm_policy = 1
@@ -2952,7 +2952,7 @@ CXI_ideas = {
 		army_tradition = 0.5
 	}
 	zhang_xianzhong_yellow_tiger = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	outsmart_the_enemy = {
 		spy_offence = 0.20
@@ -2974,7 +2974,7 @@ CXI_ideas = {
 CSH_ideas = {
 	start = {
 		province_warscore_cost = -0.10
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -3037,7 +3037,7 @@ NNG_ideas = {
 		spy_offence = 0.20
 	}
 	claiming_or_making_the_throne = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	core_at_nanchang = {
 		development_cost = -0.1
@@ -3068,7 +3068,7 @@ TNG_ideas = {
 	
 	golden_age_of_zhongguo = {
 		prestige = 1.0
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	centuries_of_warfare = {
 		army_tradition = 0.5
@@ -3314,7 +3314,7 @@ HUA_ideas = {
 		production_efficiency = 0.10
 	}
 	distinct_chinese_identity = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	promote_the_dragon_deities = {
 		tolerance_own = 2
@@ -3404,7 +3404,7 @@ CZH_ideas = {
 		harsh_treatment_cost = -0.25
 	}
 	rise_of_the_great_zhou = {
-		land_morale = 0.10
+		land_morale = 0.075
 		global_autonomy = -0.05	
 	}
 }
@@ -3428,7 +3428,7 @@ MAD_ideas = {
 	free = yes
 	
 	rivals_of_the_chola = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	the_7_prime_lord_emperors_ellarkku_nayanar = {
 		legitimacy = 1
@@ -3582,7 +3582,7 @@ KOC_ideas = {
 	free = yes
 	
 	revenge_against_the_zamorin_of_calicut = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	head_of_all_temples = {
 		religious_unity = 0.25
@@ -3826,7 +3826,7 @@ JFN_ideas = {
 		global_prov_trade_power_modifier = 0.05
 	}
 	memories_of_fighting_the_kotte_kingdom = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	ties_with_southern_india = {
 		spy_offence = 0.15
@@ -3950,7 +3950,7 @@ KHD_ideas = {
 		legitimacy = 1
 	}
 	rivals_of_gujarat = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	fortify_the_holdings_of_khandesh = {
 		global_garrison_growth = 0.25
@@ -4068,7 +4068,7 @@ MUL_ideas = {
 		mercenary_cost = -0.10
 	}
 	repulse_delhi_and_afghan_invasions = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	sufis_of_multan = {
 		religious_unity = 0.15
@@ -4095,7 +4095,7 @@ MBL_ideas = {
 	
 	keepers_from_centuries_before = {
 		prestige_decay = -0.01
-		land_morale = 0.05
+		land_morale = 0.075
 	}
 	malla_kings_of_bishnupur = {
 		legitimacy = 1
@@ -4136,7 +4136,7 @@ BGA_ideas = {
 		army_tradition = 0.50
 	}
 	the_fake_subject_state = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	our_natural_terrain = { 
 		defensiveness = 0.10
@@ -4303,7 +4303,7 @@ NGP_ideas = {
 		province_warscore_cost = -0.10
 	}
 	descendants_of_the_mythical_nagas = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	empower_the_kshatriya_varna = {
 		free_mil_policy = 1
@@ -4500,7 +4500,7 @@ JPR_ideas = {
 }
 SBP_ideas = {
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		land_forcelimit_modifier = 0.20
 	}
 	
@@ -4556,7 +4556,7 @@ JSL_ideas = {
         fort_maintenance_modifier = -0.10
     }
     reinvigorate_bhati_rajputs = {
-        land_morale = 0.10
+        land_morale = 0.075
     }
     keeping_caravan_routes_safe = {
         caravan_power = 0.20
@@ -4634,7 +4634,7 @@ KMT_ideas = {
         global_institution_spread = 0.10
     }
     the_threat_of_bengal = {
-        land_morale = 0.10
+        land_morale = 0.075
     }
     bhuyan_chiefs_as_allies = {
         hostile_attrition = 1.0
@@ -4671,7 +4671,7 @@ KAC_ideas = {
         fabricate_claims_cost = -0.25
     }
     war_goddess_kechai_khaiti = {
-        land_morale = 0.10
+        land_morale = 0.075
     }
     brahmin_influences = {
 		global_missionary_strength = 0.02
@@ -4788,7 +4788,7 @@ BGL_ideas = {
         land_maintenance_modifier = -0.10
     }
     tigers_of_the_vindhyan_range = {
-		land_morale = 0.10
+		land_morale = 0.075
     }
     rajput_merging_identity = {
         culture_conversion_cost = -0.20
@@ -4805,7 +4805,7 @@ BGL_ideas = {
 }
 PTA_ideas = {
     start = {
-        land_morale = 0.10
+        land_morale = 0.075
         land_forcelimit_modifier = 0.20
     }
     
@@ -4900,7 +4900,7 @@ RMP_ideas = {
         army_tradition = 0.50
     }
     strengthen_the_rohilla = {
-		land_morale = 0.10
+		land_morale = 0.075
     }
     threats_on_all_sides = {
         ae_impact = -0.15
@@ -5014,7 +5014,7 @@ MAW_ideas = {
     }
     lead_from_the_front = {
 		recover_army_morale_speed = 0.10
-        land_morale = 0.05
+        land_morale = 0.075
     }
     fighting_gujuarat_and_malwa = {
         manpower_recovery_speed = 0.10
@@ -5481,7 +5481,7 @@ ENA_ideas = {
 	free = yes
 	
 	against_damot = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	tribute_to_ethiopia = {
 		prestige = 1.0
@@ -5580,7 +5580,7 @@ GLE_ideas = {
 }
 SOA_ideas = {
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		garrison_size = 0.20
 	}
 	
@@ -5620,7 +5620,7 @@ SOA_ideas = {
 DAM_ideas = {
 	start = {
 		hostile_attrition = 1.0
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -5756,7 +5756,7 @@ JJI_ideas = {
 		global_autonomy = -0.05
 	}
 	no_soldier_killed_in_action = { 
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	control_the_raging_rivers = {
 		movement_speed = 0.15
@@ -5787,7 +5787,7 @@ adal_successor_ideas = {
 	free = yes
 	
 	after_the_fall_of_adal = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	steeped_in_islam = {
 		global_missionary_strength = 0.02
@@ -5883,7 +5883,7 @@ JIM_ideas = {
 		advisor_cost = -0.10
 	}
 	affirm_oromo_might = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 }
 #############################################################
@@ -5912,7 +5912,7 @@ TLC_ideas = {
 		reinforce_cost_modifier = -0.33
 	}
 	resist_outside_influences = { 
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	marinid_hafsid_and_crusade_enemies = {
 		manpower_recovery_speed = 0.15
@@ -6695,7 +6695,7 @@ NUP_ideas = {
         diplomatic_reputation = 1
     }
     fight_back_against_islamic_conquest = {
-        land_morale = 0.10
+        land_morale = 0.075
     }
 }
 ######################################################################
@@ -6745,7 +6745,7 @@ URB_ideas = {
 KRL_ideas = {
 	start = {
 		hostile_attrition = 1.0
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -6847,7 +6847,7 @@ LEB_ideas = {
 #		global_autonomy = -0.05
 #	}
 #	reject_iberians_and_papists = {
-#		land_morale = 0.05
+#		land_morale = 0.075
 #		recover_army_morale_speed = 0.10
 #	}
 #	institute_the_carta_de_logu = {
@@ -6967,7 +6967,7 @@ KHA_ideas = {  #Northern Yuan/Mongolia
         core_creation = -0.25
     }
     rebuild_karakorum = {
-        land_morale = 0.10
+        land_morale = 0.075
         horde_unity = 1
     }
     adapting_gunpowder_usage = {
@@ -7128,7 +7128,7 @@ CHH_ideas = {  #Chahar
         diplomatic_upkeep = 1
 	}
 	blood_of_a_chahar_state = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	sweat_of_a_chahar_state = {
 		land_maintenance_modifier = -0.10
@@ -7235,7 +7235,7 @@ AST_ideas = {  #Astrakhan
 		global_unrest = -1
 	}
 	a_volatile_region = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	placate_the_nogais = {
         land_maintenance_modifier = -0.10
@@ -7313,7 +7313,7 @@ SYG_ideas = {  #Sarig Yogir
 		religious_unity = 0.25
 	}
 	learn_from_tangut_dominance = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	the_western_xia_war = {
         land_forcelimit_modifier = 0.25
@@ -7628,7 +7628,7 @@ BLA_ideas = {
 		global_unrest = -1
 	}
 	promote_the_warrior_societies = {
-		land_morale = 0.10
+		land_morale = 0.075
 		drill_gain_modifier = 0.33
 	}
 	expanding_blackfoot_grounds = {
@@ -7673,7 +7673,7 @@ CAD_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	fighting_the_osage_and_co = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	forming_internal_confederacies = {
 		global_colonial_growth = 10
@@ -7702,7 +7702,7 @@ CHY_ideas = {
 	free = yes
 	
 	rival_after_rival_around_us = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	cheyenne_war_societies = {
 		army_tradition = 0.5
@@ -7796,7 +7796,7 @@ ILL_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	the_tamaroa_tribe = {
-		land_morale = 0.10 #fought against other tribes
+		land_morale = 0.075 #fought against other tribes
 	}
 	assimilating_other_tribes = {
 		global_colonial_growth = 10
@@ -7998,7 +7998,7 @@ OJI_ideas = {
 		core_creation = -0.15
 	}
 	downfall_of_the_iroquois = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	the_council_three_fires = {
 		governing_capacity_modifier = 0.10
@@ -8024,7 +8024,7 @@ OSA_ideas = {
 		global_spy_defence = 0.10
 	}
 	wars_with_the_iroquois = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	resettle_and_reunite = {
 		colonists = 1
@@ -8108,7 +8108,7 @@ PAW_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	resist_with_the_new = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	consolidate_pawnee_power = {
 		global_unrest = -1
@@ -8124,7 +8124,7 @@ PAW_ideas = {
 PEQ_ideas = {
 	start = {
 		free_leader_pool = 1
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -8223,7 +8223,7 @@ POT_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	great_lakes_expansion = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	ideas_from_the_foreigners = {
 		idea_cost = -0.10
@@ -8653,7 +8653,7 @@ HDA_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	destroy_the_souls_of_enemies = { #Will also include the bit about sometimes annihilating the entire enemy too
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	close_and_far_combat = {
 		fire_damage = 0.05
@@ -8935,7 +8935,7 @@ TOT_ideas = {
 		same_culture_advisor_cost = -0.20
 	}
 	against_the_aztecs = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	rebuilding_taijin = {
 		global_autonomy = -0.05
@@ -8963,7 +8963,7 @@ MAT_ideas = {
 		reduced_liberty_desire = 10
 	}
 	fending_off_purepechas_and_aztecs = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	fortify_toluca_valley_and_possessions = {
 		defensiveness = 0.10
@@ -9046,7 +9046,7 @@ TEO_ideas = {
 		global_missionary_strength = 0.02
 	}
 	aztec_fighting_spirit = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	zapotec_influences = {
 		global_unrest = -1
@@ -9150,7 +9150,7 @@ GAM_ideas = {
 	free = yes
 	
 	brutal_warfare_against_others = {
-		land_morale = 0.10
+		land_morale = 0.075
 		infantry_power = 0.05
 	}
 	painting_of_the_people = {
@@ -9234,7 +9234,7 @@ CCM_ideas = {
 		movement_speed = 0.10
 	}
 	children_of_the_wind = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	best_archers_in_the_world = {
 		infantry_power = 0.05
@@ -9274,7 +9274,7 @@ OTO_ideas = {
 		prestige_decay = -0.01
 	}
 	subjected_to_the_triple_alliance = {
-		land_morale = 0.10
+		land_morale = 0.075
 		global_manpower_modifier = 0.10
 	}
 	rivals_of_the_aztec_triple_alliance = {
@@ -9469,7 +9469,7 @@ KAQ_ideas = {
 		discipline = 0.025
 	}
 	enemies_of_the_kiche = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	mayan_long_and_short_count = { #Will be the same
 		tolerance_own = 2
@@ -9508,7 +9508,7 @@ ITZ_ideas = {
 		discipline = 0.025
 	}
 	revenge_against_the_cocom = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	mayan_long_and_short_count = { #Will be the same
 		tolerance_own = 2
@@ -9579,7 +9579,7 @@ CNP_ideas = {
 		global_manpower_modifier = 0.15
 	}
 	founded_during_civil_war = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	mayan_raids_and_warfare = { #Will be the same
 		loot_amount = 0.20
@@ -9658,7 +9658,7 @@ MIS_ideas = {
 		global_garrison_growth = 0.20
 	}
 	standing_against_foreigner_incursions = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	increasing_miskito_settlements = {
 		colonists = 1
@@ -9756,7 +9756,7 @@ CJA_ideas = {
 		land_forcelimit_modifier = 0.25
 	}
 	the_cuismancu_state = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 }
 CCQ_ideas = {
@@ -9943,7 +9943,7 @@ MAE_ideas = {
 		infantry_power = 0.05
 	}
 	in_the_heart_of_the_sengoku = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	settle_the_o_le_so_do_disputes = {
 		legitimacy = 1
@@ -10219,7 +10219,7 @@ PRK_ideas = {
 	free = yes
 	
 	heir_to_malacca = {  #For those that succeeded the Malacca Sultanate
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	methodical_order_of_succession = {
 		legitimacy = 1
@@ -10259,7 +10259,7 @@ JOH_ideas = {
 	free = yes
 	
 	heir_to_malacca = {  #For those that succeeded the Malacca Sultanate
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	harrass_and_raid = {
 		loot_amount = 0.20
@@ -10298,7 +10298,7 @@ TOK_ideas = {
 	free = yes
 	
 	against_the_pretenders = { #Same for TOK and ANN
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	near_the_heart_of_power = {
 		manpower_recovery_speed = 0.15
@@ -10338,7 +10338,7 @@ ANN_ideas = {
 	free = yes
 	
 	against_the_pretenders = { #Same for TOK and ANN
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	engage_in_foreign_relations = {
 		diplomats = 1
@@ -10467,7 +10467,7 @@ BLM_ideas = {
 		global_garrison_growth = 0.25
 	}
 	fending_off_foreign_interests = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	expel_muslim_insurgents = { 
 		global_missionary_strength = 0.02
@@ -10854,7 +10854,7 @@ ARB_ideas = {  #Arabia
 	}
 	legacy_of_islamic_conquest = {
 		years_of_nationalism = -5
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	succeed_the_caliphates = {
 		legitimacy = 1
@@ -11257,7 +11257,7 @@ SPA_POR_ideas = { #Portuguese Version
 SPA_CAS_ideas = { #Castilian Version
 	start = {
 		global_colonial_growth = 20
-		land_morale = 0.2
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -11505,7 +11505,7 @@ SPA_NAV_ideas = { #Basque Version
 
 SPA_ideas = { #standard Spain Ideas for brazilians for some weird situation
 	start = {
-		land_morale = 0.15
+		land_morale = 0.075
 		artillery_fire = 1
 	}
 	
@@ -11778,7 +11778,7 @@ LAP_ideas = {
 		yearly_corruption = -0.05
 	}
 	suppress_counter_revolutionaries = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	watch_for_caudillos = {  
 		legitimacy = 1
@@ -11964,7 +11964,7 @@ PEU_ideas = {
 		global_trade_goods_size_modifier = 0.10
 	}
 	rising_tide_of_liberty = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	natural_peruvian_fortifications = {
 		fort_maintenance_modifier = -0.15
@@ -12131,7 +12131,7 @@ CUB_ideas = {
 		navy_tradition = 1
 	}
 	bonus = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	trigger = {
 		tag = CUB
@@ -12283,7 +12283,7 @@ GAL_ideas = {
 		development_cost = -0.1
     }
     power_of_the_irmandinos = {  #See Irmandino Revolts
-		land_morale = 0.10
+		land_morale = 0.075
     }
 }
 GRE_ideas = {
@@ -12351,7 +12351,7 @@ DAN_ideas = {
 		heavy_ship_power = 0.10
     }
     margrets_kalmar_legacy = {
-		land_morale = 0.10
+		land_morale = 0.075
 		legitimacy = 1.0
     }
     danish_economic_overhaul = {  #Basically combining the Rentekammer and Klaedekammer ideas
@@ -12428,7 +12428,7 @@ HUN_ideas = {
 	free = yes
 	
 	order_of_the_dragon = {
-		land_morale = 0.10
+		land_morale = 0.075
 		warscore_cost_vs_other_religion = -0.10
 	}
 	learning_from_debasing_coinage = {
@@ -12533,7 +12533,7 @@ SST_ideas = {  #Shan
 CSC_ideas = {
 	start = {
 		no_religion_penalty = yes
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -12648,7 +12648,7 @@ CRI_ideas = {  #Crimea
 SOK_ideas = {  #Sokoto
     start = {
         global_missionary_strength = 0.02
-        land_morale = 0.10
+        land_morale = 0.075
     }
     
     bonus = {
@@ -12726,7 +12726,7 @@ AIR_ideas = {  #Air/Agadez
 }
 SER_ideas = {  #Serbia
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		cavalry_cost = -0.15
 	}
 	

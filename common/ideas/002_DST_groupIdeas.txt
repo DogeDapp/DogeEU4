@@ -2,7 +2,7 @@
 #East Anglia
 Anglosaxon_ideas = {
 	start = {
-		land_morale = 0.1
+		land_morale = 0.075
 		hostile_attrition = 0.1
 	}
 	bonus = {

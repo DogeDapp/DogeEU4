@@ -6,7 +6,7 @@
 
 HKC_ideas = {  #Hokucho
 	start = {
-		land_morale = 0.10
+		land_morale = 0.075
 		province_warscore_cost = -0.10
 	}
 	
@@ -61,7 +61,7 @@ NNC_ideas = {  #Nancho
 		legitimacy = 1.0
 	}
 	restoration_of_true_imperial_power = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	reinstate_offices_of_civil_governors = {
 		free_adm_policy = 1
@@ -180,7 +180,7 @@ TAA_ideas = {  #Taira
 		land_maintenance_modifier = -0.10
 	}
 	the_hogen_and_heiji_rebellions = {
-		land_morale = 0.10
+		land_morale = 0.075
 		prestige = 0.5
 	}	
 	rein_in_the_kanmu_heishi_lines = {
@@ -257,7 +257,7 @@ LML_ideas = {  #Lombard League
 		drill_gain_modifier = 0.25
 	}
 	papal_sanctioned_protection = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	cities_opposed_to_the_hre = {
 		state_maintenance_modifier = 0.25
@@ -543,7 +543,7 @@ ANV_ideas = {  #Angevin Realm
 	
 	the_two_domains = {
 		land_forcelimit_modifier = 0.20
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	inter_disciplinary_standards = {
 		discipline = 0.025
@@ -675,7 +675,7 @@ NSE_ideas = {
 		reduced_liberty_desire = 10
 	}
 	fierce_norse_fighters = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	english_administrative_structures = {
 		global_unrest = -1
@@ -818,7 +818,7 @@ NUA_ideas = {
 AIM_ideas = { #Ainu Mosir/Jomon Empire
 	start = {
 		land_attrition = -0.20
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -856,7 +856,7 @@ AIM_ideas = { #Ainu Mosir/Jomon Empire
 EZO_ideas = { #Ezo
 	start = {
 		defensiveness = 0.20
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -1056,7 +1056,7 @@ PHI_ANI_ideas = { #Lusong, Animist Version
 CTF_ideas = { #Council of Three Fires
 	start = {
 		diplomatic_reputation = 1
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -1164,7 +1164,7 @@ DOZ_ideas = { #Dongbu, Eastern State
 		navy_tradition = 1
 	}
 	defending_our_opulence = {
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	the_capital_of_nanjing = {
 		global_trade_power = 0.15
@@ -1320,7 +1320,7 @@ ZXI_ideas = { #The Later Xia
 		global_unrest = -2
 	}
 	empowered_by_the_stories = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	the_finality_of_the_middle_kingdom = {
 		land_forcelimit_modifier = 0.25
@@ -1598,7 +1598,7 @@ ZLS_ideas = { #The Later Liu Song
 		land_forcelimit_modifier = 0.25
 	}
 	remedy_military_shortcomings = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	weeds_in_the_royal_dynasty = {
 		yearly_corruption = -0.10
@@ -1752,7 +1752,7 @@ BGM_WAL_ideas = { #Belgium, Wallonian Version
 	free = yes
 	
 	the_belgian_revolution = { #Same for both
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	continual_french_support = { #Unique
 		land_maintenance_modifier = -0.10
@@ -1793,7 +1793,7 @@ BGM_FLE_ideas = { #Belgium, Flemish Version
 	free = yes
 	
 	the_belgian_revolution = { #Same for both
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 	as_thrifty_as_any_dutchmen = { #Unique
 		trade_efficiency = 0.15

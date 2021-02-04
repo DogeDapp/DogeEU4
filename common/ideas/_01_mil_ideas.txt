@@ -565,7 +565,7 @@ wehrpflicht0 = {
 		reinforce_speed = 0.2
 	}
 	wehrpflicht2 = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	wehrpflicht1 = {
 		infantry_cost = -0.05

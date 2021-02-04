@@ -186,7 +186,7 @@ GTA_ideas = { # Scandinavia Gotaland
 		legitimacy = 1
 	}
 	GTA_beowulfs_example = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	GTA_fortify_gotaland = {
 		defensiveness = 0.20
@@ -280,7 +280,7 @@ CEE_ideas = {
 	}
 	cee_celticfury = {
 		fire_damage = 0.1
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	cee_aggressivereconquest = {
 		core_creation = -0.15
@@ -677,7 +677,7 @@ PAR_ideas = {
  		production_efficiency = 0.1		
 	}
 	PAR2 = {	
- 		land_morale = 0.1	
+ 		land_morale = 0.075	
 	}
 	PAR3 = {
 		technology_cost = -0.1	
@@ -742,7 +742,7 @@ SLZ_ideas = {
 	}
 	
 	bonus = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	
 	trigger = {
@@ -915,7 +915,7 @@ AZE_ideas = {
 
 	AZE_Shia_orders = {
 		monthly_piety  = -0.02
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 
 	AZE_devout_combatants = {
@@ -1031,7 +1031,7 @@ BRK_ideas = { #south american african lost colony
 	}
 
 	bonus = {
-		land_morale = 0.1
+		land_morale = 0.075
 
 	}
 
@@ -1170,7 +1170,7 @@ NDB_ideas = {
 		army_tradition_decay = -0.01
 	}
 	NDB_army_professionalism = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}	
 	NDB_noble_cadets = {
 		nobles_loyalty_modifier = 0.10
@@ -1330,7 +1330,7 @@ RIE_ideas = {
 		merchants = 1
 	}
 	Trieste_durability = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	Trieste_ex_habs = {
 		infantry_power = 0.05
@@ -1520,7 +1520,7 @@ FRX_ideas = {
 	}
 	FRX_idea_2 = {
 		reinforce_cost_modifier = -0.25
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	FRX_idea_3 = {
 		movement_speed = 0.25
@@ -1559,7 +1559,7 @@ PRC_ideas = { # Peoples Republic of China
 	free = yes
 	
 	PRC_one = {
-		land_morale = 0.05
+		land_morale = 0.075
 		infantry_power = 0.05
 	}
 	PRC_two = {
@@ -1587,7 +1587,7 @@ PRC_ideas = { # Peoples Republic of China
 
 HEA_ideas = { # Heavenly Kingdom China
 	start = {
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.05
 
 	}
@@ -1627,7 +1627,7 @@ HEA_ideas = { # Heavenly Kingdom China
 RZV_ideas = { # Rozvi Empire Zimbabwe
 	start = {
 		infantry_cost = -0.1
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 
 	bonus = {
@@ -1680,7 +1680,7 @@ UAR_ideas = { #United African Republic
 	free = yes
 	
 	UAR_one = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 	UAR_two = {
 		global_manpower_modifier = 0.15
@@ -1706,7 +1706,7 @@ UAR_ideas = { #United African Republic
 #Baltic Union
 BLT_ideas = {
 	start = {
-		land_morale = 0.1
+		land_morale = 0.075
 		infantry_power = 0.05
 	}
 	
@@ -1778,7 +1778,7 @@ ILR_ideas = {
 		production_efficiency = 0.1
 	}
 	ilr_seventh = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 }
 
@@ -1789,7 +1789,7 @@ WEE_ideas = {
 	}
 
 	bonus = {
-		land_morale = 0.15
+		land_morale = 0.075
 	}
 
 	trigger = {
@@ -1912,7 +1912,7 @@ ASR_ideas = { # Assyria Ideas
 MDG_ideas = { # Madagascar
 	start = {
 		hostile_attrition = 2
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	
 	bonus = {
@@ -1971,7 +1971,7 @@ MAC_ideas = { # Macedonia
 		prestige = 1
 	}
 	macedonian_nationalism = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	peace_and_stability_macedonia = {
 		stability_cost_modifier = -0.1
@@ -2017,7 +2017,7 @@ DAE_ideas = {
 	}
 	
 	DAE_scandinavian_warriors = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	
 	DAE_the_growth_of_york = {
@@ -2060,7 +2060,7 @@ AYY_ideas = {
 		global_manpower_modifier = 0.15
 	}
 	hsn_righteousness_of_the_faith = {
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 	ayy_ayyubid_architecture = {
 		build_cost = -0.1
@@ -2401,7 +2401,7 @@ RUG_ideas = {
 #Valencia
 VAL_ideas = {
     start = {
-        land_morale = 0.05
+        land_morale = 0.075
         discipline = 0.025
     }
      bonus = {
@@ -2785,7 +2785,7 @@ LOI_ideas = {
         }
     free = yes
      LOI_norwegian_exiles = {
-        land_morale = 0.1
+        land_morale = 0.075
         naval_morale = 0.1
     }
     LOI_arrival_of_st_columba = {
@@ -3187,7 +3187,7 @@ SRB_ideas = {
 
 	SRB_legacy_of_islamic_conquest = {
 		years_of_nationalism = -5
-		land_morale = 0.10
+		land_morale = 0.075
 	}
 
 	SRB_arabian_trade_connections = {
@@ -3237,7 +3237,7 @@ SGF_ideas = {
 
 	SGF_formation_through_warfare = {
 		infantry_power = 0.05
-		land_morale = 0.1
+		land_morale = 0.075
 	}
 
 	SGF_three_hurrahs_for_germany = {
