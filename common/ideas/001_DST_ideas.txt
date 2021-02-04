@@ -150,7 +150,7 @@ TKT_ideas = { # Egypt Knight Templars #Definately rework required
 		global_tax_modifier = 0.2
 	}
 	TKT_assault_troops_of_the_crusades = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	TKT_bank_of_europe = {
 		inflation_reduction = 0.1
@@ -727,7 +727,7 @@ PSS_ideas = {
 		loot_amount = 0.2		
 	}
 	PSS6 = {
-		cavalry_power = 0.1	
+		cavalry_power = 0.05	
 	}
 	PSS7 = {
 		global_trade_power = 0.10
@@ -876,7 +876,7 @@ Goguryeo_ideas = {
         technology_cost = -0.05
     }
     hostilities_in_the_north = {
-        cavalry_power = 0.10
+        cavalry_power = 0.05
         cavalry_cost = -0.10
     }
     hyanyak_system = {
@@ -919,7 +919,7 @@ AZE_ideas = {
 	}
 
 	AZE_devout_combatants = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 		cavalry_cost = -0.05
 	}
 	AZE_persianate_literature = {
@@ -1202,7 +1202,7 @@ cumanian_ideas = {
 	}
 	free = yes	
 	out_of_the_steppes = {
-		cavalry_power = 0.2
+		cavalry_power = 0.05
 	}
 	vast_khanate = {
 		diplomatic_annexation_cost = -0.25
@@ -1281,7 +1281,7 @@ STY_ideas = {
 		missionaries = 1
 	}
 	sty_georgenberger_handfeste = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	sty_expel_the_protestants = {
 		global_heretic_missionary_strength = 0.02
@@ -1405,7 +1405,7 @@ MZB_ideas = {
 		tolerance_heretic = 2
 	}
 	mzb_tuareg_cavalry = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	mzb_the_five_citadels = {
 		defensiveness = 0.2
@@ -1527,7 +1527,7 @@ FRX_ideas = {
 		loot_amount = 0.25
 	}
 	FRX_idea_4 = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 		cavalry_cost = -0.1
 	}
 	FRX_idea_5 = {
@@ -2827,7 +2827,7 @@ ANN_ideas = {
         stability_cost_modifier = -0.1    
     }
     ANN_mountain_chiefs = {
-        cavalry_power = 0.10
+        cavalry_power = 0.05
     }
     ANN_wild_men = {
         loot_amount = 0.10
@@ -3298,7 +3298,7 @@ TAT_ideas = {
 
 	TAT_cavalry_usages = {
 		cavalry_cost = -0.1
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 }
 

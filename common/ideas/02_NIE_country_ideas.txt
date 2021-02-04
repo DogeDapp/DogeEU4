@@ -1444,7 +1444,7 @@ ERE_ideas = {
 		merc_maintenance_modifier = -0.10
 	}
 	uyghur_mongol_foundations = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	eastern_and_western_fighting = {
 		defensiveness = 0.20
@@ -1487,7 +1487,7 @@ GRM_ideas = {
 		army_tradition = 0.50
 	}
 	ilkhanid_influences = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	subjugate_the_coastal_beyliks = {
 		unjustified_demands = -0.25
@@ -1817,7 +1817,7 @@ ALG_ideas = {
 }
 berber_minor_ideas = {
 	start = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 		leader_land_manuever = 1
 	}
 	
@@ -3201,7 +3201,7 @@ LNG_ideas = {
 		free_mil_policy = 1
 	}
 	help_from_the_north = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	warranted_brutality = {
 		harsh_treatment_cost = -0.25
@@ -3924,7 +3924,7 @@ GDW_ideas = {
 KHD_ideas = {
 	start = {
 		infantry_power = 0.10
-		cavalry_power = 0.10
+		cavalry_power = 0.05
 	}
 	
 	bonus = {
@@ -4175,7 +4175,7 @@ NGA_ideas = {
 		religious_unity = 0.25
 	}
 	memory_of_the_mongol_invasions = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	alliances_against_mewar = { 
 		diplomatic_upkeep = 1
@@ -4376,7 +4376,7 @@ PRD_ideas = {
 		army_tradition = 0.50
 	}
 	the_meaning_of_gajapati = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 		cav_to_inf_ratio = 0.50
 	}
 	continue_architectual_work = {
@@ -4838,7 +4838,7 @@ PTA_ideas = {
         inflation_reduction = 0.10
     }
     marathas_connections = {
-        cavalry_power = 0.10
+        cavalry_power = 0.05
     }
 }
 ODH_ideas = {
@@ -4917,7 +4917,7 @@ RMP_ideas = {
 }
 MEW_ideas = {
     start = {
-        cavalry_power = 0.10
+        cavalry_power = 0.05
         garrison_size = 0.20
     }
     
@@ -4988,7 +4988,7 @@ SRG_ideas = {
     }
     light_warfare = {
         cav_to_inf_ratio = 0.25
-        cavalry_power = 0.10        
+        cavalry_power = 0.05        
     }
 }
 MAW_ideas = {
@@ -5026,7 +5026,7 @@ MAW_ideas = {
         defensiveness = 0.20
     }
     marwari_horses = { #Same idea from Rajputana, simply cause this is the 'source' state
-        cavalry_power = 0.15
+        cavalry_power = 0.05
         movement_speed = 0.10
     }
 }
@@ -5696,7 +5696,7 @@ WLY_ideas = {
 HDY_ideas = {
 	start = {
 		land_forcelimit_modifier = 0.20
-        cavalry_power = 0.10
+        cavalry_power = 0.05
 	}
 	
 	bonus = {
@@ -6149,7 +6149,7 @@ KBU_ideas = {
         free_mil_policy = 1
     }
     malian_cavalry_legacy = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
     }
     fortify_kaabu_frontiers = {
 		defensiveness = 0.20
@@ -6180,7 +6180,7 @@ FUL_ideas = {
         unjustified_demands = -0.20
     }
     cavalry_of_the_fulo = {
-        cavalry_power = 0.10
+        cavalry_power = 0.05
 		cav_to_inf_ratio = 0.20
     }
     clashes_over_gold = {
@@ -7474,7 +7474,7 @@ ARP_ideas = {
 	}
 	eight_arapaho_military_societies = {
 		drill_gain_modifier = 0.33
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	prepare_for_diplomatic_shifts = {
 		diplomatic_upkeep = 1
@@ -7720,7 +7720,7 @@ CHY_ideas = {
 	}
 	hit_and_run_tactics = {
 		leader_land_manuever = 1
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	keep_the_sacred_arrows_and_the_sacred_buffallo_hat = {
 		manpower_recovery_speed = 0.10
@@ -8115,7 +8115,7 @@ PAW_ideas = {
 	}
 	evolve_pawnee_warfare = {
 		infantry_power = 0.05
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	into_the_fires_of_war = {
 		leader_land_fire = 1
@@ -11575,7 +11575,7 @@ PLC_POL_ideas = { #Polish Version
 		army_tradition = 1.0
 	}
 	pol_winged_hussars = { 
-		cavalry_power = 0.25
+		cavalry_power = 0.1
 		cavalry_flanking = 1.0
 	}
 	plc_refine_our_golden_liberty = { #Same for all of them
@@ -12608,7 +12608,7 @@ SNA_ideas = {
 }
 CRI_ideas = {  #Crimea
 	start = {
-		cavalry_power = 0.10
+		cavalry_power = 0.05
 		cavalry_cost = -0.20
 	}
 	
@@ -12747,7 +12747,7 @@ SER_ideas = {  #Serbia
 		improve_relation_modifier = 0.20
 	}
 	hussars_of_the_hungarians = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}	
 	libraries_and_development_of_serbia = {
 		idea_cost = -0.10
@@ -12783,7 +12783,7 @@ TUR_ideas = {
 		discipline = 0.05
     }
     spahi_cavalry = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
     }
     turkish_artillery = {
 		artillery_power = 0.10

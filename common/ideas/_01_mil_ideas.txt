@@ -21,7 +21,7 @@ quality_ideas = {
 		army_tradition = 0.5
 	}
 	finest_of_horses = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 	escort_ships = {
 		ship_durability = 0.05
@@ -423,7 +423,7 @@ stehendesheer0 = {
 		infantry_power = 0.1
 	}
 	stehendesheer2 = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	stehendesheer3 = {
 		artillery_power = 0.1
@@ -651,7 +651,7 @@ waffenqualitat0 = {
 		infantry_power = 0.075
 	}
 	waffenqualitat3 = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 
 	waffenqualitat4 = {
@@ -1092,7 +1092,7 @@ shock0 = {
 		}
 	
 	bonus = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 		
 	shock1 = {
@@ -1114,7 +1114,7 @@ shock0 = {
 		shock_damage = 0.1
 	}
 	shock5 = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 	shock7 = {
 		leader_land_shock = 1

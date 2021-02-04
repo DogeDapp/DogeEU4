@@ -720,7 +720,7 @@ monarchie0 = {
 	}
 	
 	monarchie4 = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 	
 	monarchie5 = {
@@ -1011,7 +1011,7 @@ horde0 = {
 		claim_duration = 0.5
 	}
 	horde4 = {
-		cavalry_power = 0.075
+		cavalry_power = 0.05
 	}
 	horde5 = {
 		horde_unity = 0.5

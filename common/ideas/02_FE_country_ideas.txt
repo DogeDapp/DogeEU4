@@ -1437,7 +1437,7 @@ ZLA_ideas = { #The Later Liao
 		num_accepted_cultures = 1
 	}
 	experience_from_the_steppe = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	parallel_administrative_bodies = {
 		advisor_pool = 1
@@ -1535,7 +1535,7 @@ ZSU_ideas = { #The Later Sui
 ZWE_ideas = { #The Later Northern Wei
 	start = {
 		movement_speed = 0.15
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	
 	bonus = {

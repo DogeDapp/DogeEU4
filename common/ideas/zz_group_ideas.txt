@@ -228,7 +228,7 @@ berber_ideas = {
 		privateer_efficiency = 0.10
 	}
 	tuareg_cavalry = {
-		cavalry_power = 0.10
+		cavalry_power = 0.05
 		loot_amount = 0.10
 	}
 	dual_diplomacy = {
@@ -425,7 +425,7 @@ gujarati_ideas = {
 	free = yes
 	
 	guj_kathiawari_horses = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	guj_trading_outposts = {
 		global_own_trade_power = 0.1
@@ -450,7 +450,7 @@ gujarati_ideas = {
 indian_muslim_ideas = {
 	start = {
 		cavalry_cost = -0.1
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 	
 	bonus = {
@@ -641,7 +641,7 @@ anatolian_beyliks_ideas = {
 		global_manpower_modifier = 0.10
 	}
 	akinci_cavalry = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 		loot_amount = 0.10
 	}
 	ghazi = {
@@ -703,7 +703,7 @@ daimyo_ideas = {
 
 BAV_ideas = {
 	start = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 		heir_chance = 0.5
 	}
 	
@@ -1436,7 +1436,7 @@ caucasus_ideas = {
 		army_tradition = 0.5
 	}
 	caucasus_cavalry_armies = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 	}
 }
 
@@ -1466,7 +1466,7 @@ ruthenian_ideas = {
 		tolerance_heretic = 2
 	}
 	zaporizhian_cossacs = {
-		cavalry_power = 0.15
+		cavalry_power = 0.05
 	}
 	east_and_west = {
 		global_trade_power = 0.1
@@ -1659,7 +1659,7 @@ vindhyan_ideas = {
 	}
 	
 	bonus = {
-		cavalry_power = 0.10 #Marathi Alliance
+		cavalry_power = 0.05 #Marathi Alliance
 	}
 	
 	trigger = {
@@ -2009,7 +2009,7 @@ nubian_ideas = {
 		global_missionary_strength = 0.02
 	}
 	nubian_desert_cavalry = {
-		cavalry_power = 0.10
+		cavalry_power = 0.05
 	}
 	nubian_fortified_strongholds = {
 		fort_maintenance_modifier = -0.1
@@ -2338,7 +2338,7 @@ highland_scottish_ideas = {
 
 deccani_muslim_ideas = {
 	start = {
-		cavalry_power = 0.1
+		cavalry_power = 0.05
 		num_accepted_cultures = 1
 	}
 	
