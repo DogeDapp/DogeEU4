@@ -169,7 +169,7 @@ TKT_ideas = { # Egypt Knight Templars #Definately rework required
 GTA_ideas = { # Scandinavia Gotaland
 	start = {
 		leader_land_shock = 1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -271,7 +271,7 @@ CEE_ideas = {
 	
 	#Ambition
 	bonus = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	
 	#Idea
@@ -414,7 +414,7 @@ COB_ideas = {
 		vassal_income = 0.2		
 	}
 	COB6 = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	COB7 = {
 		interest = -1		
@@ -608,7 +608,7 @@ PAD_ideas = {
 		development_cost = -0.1	
 	}
 	PAD5 = {
- 		infantry_power = 0.15
+ 		infantry_power = 0.05
 	}
 	PAD6 = {
 		land_maintenance_modifier = -0.1	
@@ -762,7 +762,7 @@ SLZ_ideas = {
 		manpower_in_true_faith_provinces= 0.1	
 	}
 	SLZ5 = {
-		infantry_power = 0.1	
+		infantry_power = 0.05	
 	}
 	SLZ6 = {
 		build_time = -0.15
@@ -864,7 +864,7 @@ Goguryeo_ideas = {
     }
 
     bonus = {
-        infantry_power = 0.1
+        infantry_power = 0.05
     }
 
     trigger = {
@@ -962,7 +962,7 @@ kingdom_of_god_ideas = { # Mission idea group, ME_Papal_State_Events.2
 		global_ship_trade_power = 0.15
 	}
 	kingdom_of_god_idea_2 = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	kingdom_of_god_idea_3 = {
 		global_unrest = -1
@@ -1050,7 +1050,7 @@ BRK_ideas = { #south american african lost colony
 	BRK4 = { 
 		prestige = 1 }
 	BRK5 = { 
-		infantry_power = 0.1 }
+		infantry_power = 0.05 }
 	BRK6 = { 
 		local_friendly_movement_speed = 0.1 }
 	BRK7 = { 
@@ -1176,7 +1176,7 @@ NDB_ideas = {
 		nobles_loyalty_modifier = 0.10
 	}
 	NDB_goose_step = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	NDB_regimental_cantons = {
 		global_manpower_modifier = 0.25
@@ -1333,7 +1333,7 @@ RIE_ideas = {
 		land_morale = 0.1
 	}
 	Trieste_ex_habs = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 # Anjoy, France
@@ -1479,7 +1479,7 @@ LTE_ideas = {
 	}
 
 	roman_legions = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	
 	crusader_state = {
@@ -1560,7 +1560,7 @@ PRC_ideas = { # Peoples Republic of China
 	
 	PRC_one = {
 		land_morale = 0.05
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	PRC_two = {
 		shock_damage_received = -0.15
@@ -1696,7 +1696,7 @@ UAR_ideas = { #United African Republic
 		build_cost = -0.1
 	}
 	UAR_six = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	UAR_seven = {
 		num_accepted_cultures = 1
@@ -1707,7 +1707,7 @@ UAR_ideas = { #United African Republic
 BLT_ideas = {
 	start = {
 		land_morale = 0.1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -1771,7 +1771,7 @@ ILR_ideas = {
 		governing_capacity_modifier = 0.1
 	}
 	ilr_fifth = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_regiment_cost = -0.1
 	}
 	ilr_sixth = {
@@ -1803,7 +1803,7 @@ WEE_ideas = {
 
 	}
 	wee_second = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 
 	}
 	wee_third = {
@@ -2082,7 +2082,7 @@ AYY_ideas = {
 # Aksum
 AKS_ideas = { 
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		manpower_recovery_speed = 0.1
 	}
 	
@@ -3236,7 +3236,7 @@ SGF_ideas = {
 	}
 
 	SGF_formation_through_warfare = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		land_morale = 0.1
 	}
 

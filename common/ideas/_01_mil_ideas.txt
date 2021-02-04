@@ -15,7 +15,7 @@ quality_ideas = {
 	}
 
 	private_to_marshal = {
-		infantry_power = 0.075
+		infantry_power = 0.05
 	}
 	quality_education = {
 		army_tradition = 0.5
@@ -420,7 +420,7 @@ stehendesheer0 = {
 		}
 	
 	stehendesheer1 = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	stehendesheer2 = {
 		cavalry_power = 0.05
@@ -648,7 +648,7 @@ waffenqualitat0 = {
 		global_trade_goods_size_modifier = 0.075
 	}
 	waffenqualitat2 = {
-		infantry_power = 0.075
+		infantry_power = 0.05
 	}
 	waffenqualitat3 = {
 		cavalry_power = 0.05

@@ -47,7 +47,7 @@ GER_ideas = {
 		legitimacy = 1
 		devotion = 1
 		republican_tradition = 0.2
-		infantry_power = 0.2
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -84,7 +84,7 @@ GER_ideas = {
 
 ENG_ideas = {
 	start = {
-		infantry_power = 0.10 # agincourt
+		infantry_power = 0.05 # agincourt
 		global_unrest = -1 # magna carta, parliament
 	}
 
@@ -185,7 +185,7 @@ SWE_ideas = {
 	}
 	swedish_steel = {
 		discipline = 0.05
-		infantry_power = 0.2
+		infantry_power = 0.05
 	}
 	hakkapelitta = {
 		cavalry_cost = -0.1
@@ -504,7 +504,7 @@ PGA_ideas = {
 SZO_ideas = {
 	start = {
 		ae_impact = -0.15
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -583,7 +583,7 @@ MFA_ideas = {
 
 VRN_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_trade_power = 0.1
 	}
 	
@@ -693,7 +693,7 @@ PRU_ideas = {
 		nobles_loyalty_modifier = 0.10
 	}
 	goose_step = {
-		infantry_power = 0.20
+		infantry_power = 0.05
 	}
 	regimental_cantons = {
 		global_manpower_modifier = 0.25
@@ -721,7 +721,7 @@ BRA_ideas = {
 	free = yes		#will be added at load.
 	
 	northern_march = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	kammergericht = {
 		global_tax_modifier = 0.1
@@ -776,7 +776,7 @@ POL_ideas = {
 	}
 	peichota_wybraniecka = {
 		global_manpower_modifier = 0.25
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	winged_hussars = {
 		cavalry_power = 0.05
@@ -1051,7 +1051,7 @@ JAP_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -1365,7 +1365,7 @@ HSA_ideas = {
 
 MLO_ideas = {
 	start = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 		diplomatic_upkeep = 1
 	}
 	
@@ -1445,7 +1445,7 @@ BYZ_ideas = {
 VIJ_ideas = {
 	start = {
 		advisor_pool = 1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -1574,7 +1574,7 @@ KOR_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -1629,7 +1629,7 @@ BOH_ideas = {
 		legitimacy = 1
 	}
 	wagenburg = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 		shock_damage_received = -0.05
 	}
 	letter_of_majesty = {
@@ -1666,7 +1666,7 @@ ITA_ideas = {
 		stability_cost_modifier = -0.10
 	}
 	tradition_of_the_legion = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	mare_nostrum = {
 		galley_cost = -0.15
@@ -1933,7 +1933,7 @@ ETH_ideas = {
 		core_creation = -0.10
 	}
 	eth_reformed_armies = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -1958,7 +1958,7 @@ DAI_ideas = {
 	free = yes		#will be added at load.
 	
 	the_great_proclamation = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	confucian_revival = {
 		prestige = 1
@@ -2450,7 +2450,7 @@ ORI_ideas = {
 	free = yes
 	
 	lord_of_elephants = { #Gajapati
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	servitor_of_jagganath = {
 		legitimacy = 1
@@ -2583,7 +2583,7 @@ DAL_ideas = {
 		development_cost = -0.05
 	}
 	DAL_independent_army = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	DAL_arsenal = {
 		naval_forcelimit_modifier = 0.25
@@ -2759,7 +2759,7 @@ USA_ideas = {
 SWI_ideas = {
 	start = {
 		merc_maintenance_modifier = -0.15
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -2799,7 +2799,7 @@ SWI_ideas = {
 
 SON_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		army_tradition = 0.5
 	}
 	
@@ -2991,7 +2991,7 @@ NPL_ideas = {
 		land_morale = 0.10
 	}
 	gurkha_recruits = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	envelopment_and_blockade = {
 		leader_siege = 1
@@ -3091,7 +3091,7 @@ MAL_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -3166,7 +3166,7 @@ HUR_ideas = {
 
 IRO_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		diplomatic_reputation = 1
 	}
 	
@@ -3224,7 +3224,7 @@ CHICK_ideas = {
 		build_cost = -0.1
 	}
 	spartans_of_miss = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	nighttime_raids = {
 		hostile_attrition = 1.0
@@ -3568,7 +3568,7 @@ TRE_ideas = {
 GEO_ideas = {
 	start = {
 		defensiveness = 0.25
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -3760,7 +3760,7 @@ CRO_ideas = {
 		adm_tech_cost_modifier = -0.1
 	}
 	pandurs = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -3841,7 +3841,7 @@ NAV_ideas = {
 
 AZT_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		idea_cost = -0.1
 	}
 
@@ -4230,7 +4230,7 @@ TVE_ideas = {
 		production_efficiency = 0.1
 	}
 	tverian_tercio = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	tve_national_army = {
 		global_manpower_modifier = 0.25
@@ -4537,7 +4537,7 @@ TAR_ideas = {
 	free = yes		#will be added at load.
 	
 	copperworking = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	no_mercy = { 
@@ -4614,7 +4614,7 @@ MON_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -4846,7 +4846,7 @@ PLT_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -4918,7 +4918,7 @@ PRM_ideas = {
 
 ASH_ideas = {
 	start = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 		loot_amount = 0.25
 	}
 	
@@ -5169,7 +5169,7 @@ TEU_ideas = {
 		manpower_recovery_speed = 0.15
 	}
 	teu_idea_3 = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	teu_idea_4 = {
 		papal_influence = 1
@@ -5194,7 +5194,7 @@ BUL_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -5592,7 +5592,7 @@ GUA_ideas = {
 		defensiveness = 0.15
 	}
 	gua_idea_7 = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -5865,7 +5865,7 @@ JNP_ideas = {
 		prestige = 1
 	}
 	modernization_of_jaunpuri_army = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -6068,7 +6068,7 @@ CAN_ideas = {
 
 QUE_ideas = {
 	start = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 		tolerance_own = 2
 	}
 	
@@ -6363,7 +6363,7 @@ BRZ_ideas = {
 		inflation_reduction = 0.1
 	}
 	halting_foreign_incursions = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	entradas_and_bandeiras = {
 		core_creation = -0.15
@@ -6394,7 +6394,7 @@ CAB_ideas = {
 		trade_efficiency = 0.1
 	}
 	cab_poison_warfare = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	cab_resistance_to_the_pailantipo = {
 		land_morale = 0.1
@@ -7019,7 +7019,7 @@ SDY_ideas = {
 		trade_efficiency = 0.1
 	}
 	sdy_army_reform = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	sdy_black_tea = {
 		production_efficiency = 0.1
@@ -7522,7 +7522,7 @@ LON_ideas = {
 		prestige = 1
 	}
 	lon_nationalism = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -7689,7 +7689,7 @@ NEV_ideas = {
     }
 
     bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
     }
 
     trigger = {
@@ -7816,7 +7816,7 @@ JMN_ideas = {
 		prestige = 1
 	}	
 	the_right_to_bear_arms = {
-		infantry_power = 0.2
+		infantry_power = 0.05
 	}
 	grizzly_terrain = {
 		hostile_attrition = 1
@@ -7902,7 +7902,7 @@ MRA_ideas = {
 		global_trade_goods_size_modifier = 0.1
 	}
 	mra_serving_abroad = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	mra_chimanga_ndi_moyo = {
 		global_tax_modifier = 0.1
@@ -7941,7 +7941,7 @@ ROM_ideas = {
 		stability_cost_modifier = -0.15
 	}
 	roman_legions = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		land_forcelimit_modifier = 0.2
 	}
 	roman_architecture = {
@@ -8118,7 +8118,7 @@ MIR_ideas = {
 	}
   
 	bonus = {
-		infantry_power = 0.10
+		infantry_power = 0.05
 	}
   
 	trigger = {
@@ -8324,7 +8324,7 @@ RZW_ideas = {
 		inflation_reduction = 0.1
 	}
 	rzw_empowering_the_rozwi = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	rzw_hierarchical_tax_organization = {
 		global_tax_modifier = 0.1
@@ -8382,7 +8382,7 @@ DMS_ideas = {
 
 MLW_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		infantry_cost = -0.1
 	}
 
@@ -8602,7 +8602,7 @@ WUR_ideas = {
 
 SLO_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		defensiveness = 0.2
 	}
 	bonus = {
@@ -8950,7 +8950,7 @@ DTT_ideas = {
 	}
 	free = yes
 	dtt_resistance_against_feudalism = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	dtt_kirchspiele = {
 		tolerance_own = 2
@@ -9084,7 +9084,7 @@ AMA_ideas = {
 	}
 	
 	ama_izumo_shugo = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	ama_gassan_toda_castle = {
@@ -9113,7 +9113,7 @@ AMA_ideas = {
 HSK_ideas = {
 	start = {
 		galley_power = 0.2
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -9162,7 +9162,7 @@ UES_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 
 	trigger = {
@@ -9248,7 +9248,7 @@ YMN_ideas = {
 
 DTE_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		diplomatic_reputation = 1
 	}
 	
@@ -9625,7 +9625,7 @@ STK_ideas = {
 		global_unrest = -1
 	}
 	stk_kashima_jingu = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	stk_eastern_coalitions = {
 		diplomatic_upkeep = 1
@@ -9858,7 +9858,7 @@ TTI_ideas = {
 	free = yes
 	
 	tti_warrior_monk = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	tti_winner_of_eikyo_civil_war = {
@@ -10077,13 +10077,13 @@ SBA_ideas = {
 		advisor_pool = 1
 	}
 	sba_mogami_family = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
 BLO_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		trade_efficiency = 0.1
 	}
 	bonus = {
@@ -10229,7 +10229,7 @@ EST_ideas = {
 
 TPR_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		hostile_attrition = 1
 	}
 	bonus = {
@@ -10866,7 +10866,7 @@ FRS_ideas = {
 LRI_ideas = {
 	start = {
 		fort_maintenance_modifier = -0.2
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	bonus = {
 		global_regiment_cost = -0.1
@@ -10978,7 +10978,7 @@ MHR_ideas = {
 
 YEM_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_institution_spread = 0.1
 	}
 	bonus = {
@@ -11017,7 +11017,7 @@ YEM_ideas = {
 
 RAS_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_manpower_modifier = 0.2
 	}
 	bonus = {
@@ -11054,7 +11054,7 @@ RAS_ideas = {
 MSY_ideas = {
 	start = {
 		defensiveness = 0.2
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	bonus = {
 		tolerance_own = 2
@@ -11094,7 +11094,7 @@ SIS_ideas = {
 		infantry_cost = -0.1
 	}
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	trigger = {
 		tag = SIS
@@ -11422,7 +11422,7 @@ KTB_ideas = {
 
 ODA_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		land_morale = 0.1
 	}
 
@@ -11461,7 +11461,7 @@ ODA_ideas = {
 
 TKG_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		ae_impact = -0.1
 	}
 	bonus = {
@@ -11645,7 +11645,7 @@ ANU_ideas = {
 		tolerance_own = 2
 	}
 	anu_fierce_resistance = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 }
 
@@ -11690,7 +11690,7 @@ HJO_ideas = {
 CSK_ideas = {
 	start = {
 		global_tax_modifier = 0.1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	bonus = {
 		ship_durability = 0.05
@@ -11788,7 +11788,7 @@ ASA_ideas = {
 		development_cost = -0.1
 	}
 	asa_teach_of_asakura_soteki = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	asa_seventeen_clan_code = {
 		legitimacy = 1
@@ -11842,7 +11842,7 @@ KID_ideas = {
 TYR_ideas = {
 	start = {
 		prestige = 1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 
 	bonus = {
@@ -12049,7 +12049,7 @@ ORD_ideas = {
 	free = yes		#will be added at load.
 	
 	ord_english_service = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	ord_courts_of_europe = {
 		diplomatic_reputation = 1
@@ -12663,7 +12663,7 @@ DEC_ideas = {
 	}
 
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -12783,7 +12783,7 @@ HIN_ideas = {
 	free = yes
 	
 	hin_sepahi = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}
 	hin_persianate_court = {
 		advisor_cost = -0.1
@@ -12882,7 +12882,7 @@ NAG_ideas = {
 
 MER_ideas = {
 	start = {	
-		infantry_power = 0.1
+		infantry_power = 0.05
 		infantry_cost = -0.2
 	}
 	bonus = {
@@ -12918,7 +12918,7 @@ MER_ideas = {
 
 BNG_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_manpower_modifier = 0.15
 	}
 	
@@ -12957,7 +12957,7 @@ BNG_ideas = {
 GUJ_ideas = {
 	start = {
 		global_ship_trade_power = 0.1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -13645,7 +13645,7 @@ EPI_ideas = {
 
 LOT_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_manpower_modifier = 0.25
 	}
 	
@@ -13883,7 +13883,7 @@ TTL_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.15
+		infantry_power = 0.05
 	}	
 
 	trigger = {

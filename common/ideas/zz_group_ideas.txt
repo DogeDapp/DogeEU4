@@ -366,7 +366,7 @@ dravidian_ideas = {
 bengali_ideas = {
 	start = {
 		merchants = 1
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	bonus = {
@@ -454,7 +454,7 @@ indian_muslim_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -498,7 +498,7 @@ indian_muslim_ideas = {
 mindanao_ideas = {
 	start = {
 		navy_tradition_decay = -0.01
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	bonus = {
 		global_manpower_modifier = 0.1
@@ -779,7 +779,7 @@ swabian_ideas = {
 
 german_ideas = {
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		merc_maintenance_modifier = -0.15
 	}
 	
@@ -1019,7 +1019,7 @@ central_indic_ideas = { #Gond Ideas
 		num_accepted_cultures = 1
 	}
 	raiding_the_plains_central_indic = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	ancient_roots_central_indic = {
 		legitimacy = 1
@@ -1382,7 +1382,7 @@ tupi_ideas = {
 		prestige_decay = -0.01
 	}
 	warrior_tribes = {
-		infantry_power = 0.1	
+		infantry_power = 0.05	
 	}
 	splash_and_burn = {
 		global_manpower_modifier = 0.15
@@ -1561,7 +1561,7 @@ guajiro_ideas = {
 		tolerance_heretic = 1		
 	}
 	guajiro_raiders = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	guajiro_enemy_of_my_enemy = {
 		diplomatic_reputation = 1
@@ -1641,7 +1641,7 @@ chinese_ideas = {
 		prestige = 1
 	}
 	firearm_training = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	son_of_heaven = {
 		legitimacy = 1
@@ -1764,7 +1764,7 @@ laotian_ideas = {
 		#Uses Lan Xang Ideas
 	}
 	lao_elephant_cavalry = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	lao_southern_silk_road = {
 		trade_efficiency = 0.1
@@ -1803,7 +1803,7 @@ somali_ideas = {
 		global_manpower_modifier = 0.15
 	}
 	somali_offensive_warfare = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	somali_indian_ocean_trade = {
 		trade_efficiency = 0.1
@@ -1865,7 +1865,7 @@ mayan_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -1958,7 +1958,7 @@ greek_ideas = {
 		navy_tradition = 1
 	}
 	greek_klephtic_irregulars = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	greek_phanariotes = {
 		advisor_cost = -0.1
@@ -2038,7 +2038,7 @@ french_culture_ideas = {
 		prestige_decay = -0.01 
 	}
 	french_qui_ruit_et_lethum = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	french_religious_conviction = {
 		tolerance_own = 2
@@ -2086,7 +2086,7 @@ african_great_lakes_ideas = {
 		infantry_cost = -0.1
 	}
 	unity_of_clans = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	development_of_clientship = {
 		global_tax_modifier = 0.1
@@ -2136,7 +2136,7 @@ malagasy_ideas = {
 
 zambezi_ideas = { #Above all based on the Bororo/Lundu.
 	start = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 		global_manpower_modifier = 0.1
 	}
 	
@@ -2235,7 +2235,7 @@ caspian_ideas = {
 		global_trade_goods_size_modifier = 0.1
 	}
 	caspian_time_of_turmoil = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	caspian_silk = {
 		production_efficiency = 0.1
@@ -2365,7 +2365,7 @@ deccani_muslim_ideas = {
 		stability_cost_modifier = -0.1
 	}
 	dec_habshis = {	
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	dec_bargi_giri = {
 		cavalry_flanking = 0.5
@@ -2385,7 +2385,7 @@ nepalese_minor_ideas = {
 	}
 	
 	bonus = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	
 	trigger = {
@@ -2450,7 +2450,7 @@ garjati_ideas = {
 		development_cost = -0.1
 	}
 	garjati_jungle_warfare = {
-		infantry_power = 0.1
+		infantry_power = 0.05
 	}
 	garjati_jagannath_cult = {
 		tolerance_own = 2
