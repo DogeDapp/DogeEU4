@@ -1587,7 +1587,9 @@ PRC_ideas = { # Peoples Republic of China
 
 HEA_ideas = { # Heavenly Kingdom China
 	start = {
-		land_morale = 0.15
+		land_morale = 0.1
+		infantry_power = 0.05
+
 	}
 
 	bonus = {
@@ -2691,11 +2693,11 @@ WSX_ideas = {
 # London
 LOD_ideas = {
     start = {
-        merchants = 1
+		production_efficiency = 0.1
+		global_tax_modifier = 0.1
     }
      bonus = {
-        production_efficiency = 0.15
-		global_tax_modifier = 0.15
+		merchants = 1
     }
     trigger = {
         tag = LOD
@@ -3020,6 +3022,7 @@ ALP_ideas = {
 CTG_ideas = {
 	start = {
 		 # Hannibalic Traditions
+		 may_perform_slave_raid = yes
 		leader_land_manuever = 1 
 	}
 	bonus = {
