@@ -35,5 +35,5 @@ HSK_patronage = {
 }
 HSK_the_new_shogunate = {
 	diplomatic_reputation = 1
-	discipline = 0.05
+	discipline = 0.025
 }

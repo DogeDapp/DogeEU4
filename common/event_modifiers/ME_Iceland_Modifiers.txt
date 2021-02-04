@@ -15,7 +15,7 @@ ice_ready_for_conquest = {
     manpower_recovery_speed = 0.1	
     war_exhaustion = -0.05
     land_morale = 0.075
-    discipline = 0.05
+    discipline = 0.025
 }
 ice_integration = {
     local_core_creation  = -0.1
@@ -23,7 +23,7 @@ ice_integration = {
 }
 ice_viking_empire = {
     land_morale = 0.075
-    discipline = 0.05
+    discipline = 0.025
     manpower_recovery_speed = 0.1	    
 }
 ice_reykjavik_cathedral = {

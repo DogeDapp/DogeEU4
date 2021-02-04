@@ -7,7 +7,7 @@ grand_captain_boost = {
 }
 
 commandant_boost = {
-	discipline = 0.035
+	discipline = 0.025
 }
 
 recruitmaster_boost = {

@@ -98,7 +98,7 @@ african_pagan = {
 		color = { 212 161 177 }
 		icon = 69
 		country = {
-			discipline = 0.05
+			discipline = 0.025
 			global_missionary_strength = 0.02
 		}
 		province = {

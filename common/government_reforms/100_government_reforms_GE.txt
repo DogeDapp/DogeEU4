@@ -748,7 +748,7 @@ hessian_modern_militarized_monarchy_reform = {
 	}
 	modifiers = {
 		yearly_army_professionalism = 0.005
-		discipline = 0.05
+		discipline = 0.025
 		mercenary_discipline = -0.15
 		monarch_military_power = 1
 		global_manpower_modifier = 0.2
@@ -867,7 +867,7 @@ achaemenid_empire_reform = {
 			embracement_cost = -0.1
 		}
 		lost_cultures_group = {
-			discipline = 0.05
+			discipline = 0.025
 		}
 		turko_semitic = {
 			cavalry_power = 0.1

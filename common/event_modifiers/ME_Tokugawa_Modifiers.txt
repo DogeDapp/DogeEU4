@@ -16,7 +16,7 @@ tokugawa_march_eastwards_modifier = {
 }
 
 tokugawa_the_rest_of_the_east_modifier = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 tokugawa_inabayama_fortress_modifier = {

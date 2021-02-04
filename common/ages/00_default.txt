@@ -1126,7 +1126,7 @@ age_of_enlightenment = {
 				}
 			}
 			modifier = {
-				discipline = 0.05
+				discipline = 0.025
 				#fire_damage_received = -0.2
 			}
 			ai_will_do = {
@@ -1492,7 +1492,7 @@ industrial_age = {
 				culture_group = latin
 			}
 			modifier = {
-				discipline = 0.05
+				discipline = 0.025
 			}
 			ai_will_do = {
 				factor = 100

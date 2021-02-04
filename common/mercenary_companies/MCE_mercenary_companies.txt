@@ -340,7 +340,7 @@ MCE_merc_german_mercenaries = {
 		tag = BOH
 	}
 	modifier = { 
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -537,7 +537,7 @@ MCE_merc_brotherhood_of_the_holy_sepulchre = {
 		}
 	}
 	modifier = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -693,7 +693,7 @@ MCE_prussian_blue_marines = {
 		}
 	}
 	modifier = {
-		discipline = 0.05
+		discipline = 0.025
 		infantry_power = 0.1
 	}
 }

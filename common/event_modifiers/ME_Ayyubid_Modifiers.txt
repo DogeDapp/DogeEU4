@@ -65,7 +65,7 @@ AYY_bringing_the_golden_age_back = {
 	idea_cost = -0.1
 }
 AYY_leader_of_the_faithful = {
-	discipline = 0.05
+	discipline = 0.025
 }
 AYY_virtue = {
 	global_unrest = -1

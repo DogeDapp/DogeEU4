@@ -155,7 +155,7 @@ eastern = {
 			local_missionary_strength = -0.02
 		}
 		country_as_secondary = {
-			discipline = 0.05
+			discipline = 0.025
 			global_unrest = -1
 		}
 		heretic = { SHUGENDO }

@@ -10,7 +10,7 @@ northumberland_army_buildings = {
 }
 
 northumberland_army_tradition_modifier = {
-	discipline = 0.05
+	discipline = 0.025
 	army_tradition = 0.15
 }
 

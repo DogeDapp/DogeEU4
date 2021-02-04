@@ -10,7 +10,7 @@ FKN_conquest_of_nuremburg = {
 	siege_ability = 0.1
 }
 FKN_prepared_army = {
-	discipline = 0.05
+	discipline = 0.025
 }
 FKN_conquest_of_wurzburg = {
 	global_unrest = -2

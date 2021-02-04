@@ -2,7 +2,7 @@ TRE_cities_of_knowledge = {
 	technology_cost = -0.1
 }
 Azerbaijani_reconquering_land = {
-	discipline = 0.05
+	discipline = 0.025
 }
 Azerbaijani_in_support_of_arts = {
 	prestige = 1
@@ -68,7 +68,7 @@ AZE_reunited_with_brethren = {
 	num_accepted_cultures = 1
 }
 AZE_city_of_worlds_desire = {
-	discipline = 0.05
+	discipline = 0.025
 }
 AZE_immense_prestige = {
 	prestige = 0.5

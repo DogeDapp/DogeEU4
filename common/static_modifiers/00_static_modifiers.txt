@@ -896,7 +896,7 @@ legitimacy = {
 #Multiplied by current Horde Unity - 50
 horde_unity = {
 	global_unrest = -4
-	discipline = 0.10
+	discipline = 0.075
 	nomadic_tribes_loyalty_modifier = 0.05
 }
 
@@ -964,7 +964,7 @@ recovery_motivation = {
 
 militarized_society = {
 
-	discipline = 0.10
+	discipline = 0.075
 	manpower_recovery_speed = 0.20
 	land_maintenance_modifier = -0.20
 
@@ -1171,7 +1171,7 @@ in_golden_era = {
 
 absolutism = {
 	liberty_desire = 40
-	discipline = 0.05
+	discipline = 0.025
 	administrative_efficiency = 0.3
 	core_decay_on_your_own = -0.25
 	global_unrest = 4
@@ -1404,7 +1404,7 @@ support_loyalists = {
 }
 
 send_officers = {
-	discipline = 0.05
+	discipline = 0.025
 	land_morale = 0.075
 }
 
@@ -1418,7 +1418,7 @@ divert_trade = {
 karma_just_right =
 {
 	diplomatic_reputation = 2
-	discipline = 0.05
+	discipline = 0.025
 }
 
 karma_too_high =

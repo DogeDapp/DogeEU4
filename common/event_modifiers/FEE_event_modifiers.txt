@@ -835,7 +835,7 @@ fee_western_aid_marathan_enemy = {
 }
 
 fee_maratha_western_arms = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 #Enlightenment timers

@@ -22,7 +22,7 @@ italy_colonial_trade = {
 	global_trade_power = 0.1
 }
 italy_discipline = {
-	discipline = 0.05
+	discipline = 0.025
 }
 italy_power = {
 	infantry_power = 0.15

@@ -49,7 +49,7 @@ ath_scary_thrace = {
 }
 
 ath_scary = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 ath_more_text = {

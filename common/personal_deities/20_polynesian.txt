@@ -37,7 +37,7 @@ wind = {
 	sprite = 117
 }
 fireflame = {
-	discipline = 0.05
+	discipline = 0.025
 	siege_ability = 0.05
 	
 	allow = {

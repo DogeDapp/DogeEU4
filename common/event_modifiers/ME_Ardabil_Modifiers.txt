@@ -1,5 +1,5 @@
 ARL_The_Qizilbashi = {
-	discipline = 0.05
+	discipline = 0.025
 	shock_damage = 0.05
 }
 ARL_base_of_operations = {
@@ -30,7 +30,7 @@ ARL_the_watch_on_pass = {
 }
 ARL_the_western_frontier_secured = {
 	prestige_decay = -0.01
-	discipline = 0.05
+	discipline = 0.025
 }
 ARL_desecration_of_sunni_sites = {
 	global_heretic_missionary_strength = 0.03

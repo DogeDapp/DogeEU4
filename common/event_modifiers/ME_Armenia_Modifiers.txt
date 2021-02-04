@@ -55,7 +55,7 @@ ARM_white_sheep_slaughtered = {
 }
 
 ARM_road_to_anatolia = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 ARM_the_aleppo_border = {

@@ -19,7 +19,7 @@ the_proper_old_ways = {
 eth_mil_aid_from_portugal = {
 	land_morale = 0.075
 	mil_tech_cost_modifier = -0.25
-	discipline = 0.05
+	discipline = 0.025
 	global_manpower_modifier = 0.25
 }
 
@@ -482,7 +482,7 @@ colonial_tensions = {
 
 morale_boost = {
 	land_morale = 0.075
-	discipline = 0.05
+	discipline = 0.025
 	recover_army_morale_speed = 0.2
 }
 
@@ -1168,7 +1168,7 @@ army_organiser_boost = {
 }
 
 commandant_boost = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 quartermaster_boost = {
@@ -1554,7 +1554,7 @@ local_christian_mission = {
 }
 
 a_batch_of_western_muskets = {
-	discipline = 0.05
+	discipline = 0.025
 	mil_tech_cost_modifier = -0.1
 }
 
@@ -1722,7 +1722,7 @@ naval_modifier = {
 }
 
 quality_modifier = {
-	discipline = 0.05
+	discipline = 0.025
 	global_manpower_modifier = -0.1
 }
 
@@ -5318,7 +5318,7 @@ guru_arjan = {
 }
 
 guru_hargobind = {
-	discipline = 0.05
+	discipline = 0.025
 	religion = yes
 }
 
@@ -5339,7 +5339,7 @@ guru_tegh_bahadur = {
 }
 
 guru_gobind_singh = {
-	discipline = 0.05
+	discipline = 0.025
 	religious_unity = 0.2
 	religion = yes
 }
@@ -5678,7 +5678,7 @@ traders_look_abroad = {
 }
 
 aristocracy_united = {
-	discipline = 0.05
+	discipline = 0.025
 	global_unrest = -1
 }
 
@@ -6208,7 +6208,7 @@ cholula_temples = {
 }
 
 nahuatl_grace_of_xipe_totec = {
-	discipline = 0.05
+	discipline = 0.025
 	prestige = 0.5
 	religion = yes
 }
@@ -10232,7 +10232,7 @@ look_up_purbias = {
 
 look_up_purbias_upgraded = {
 	is_rajput_modifier = yes
-	discipline = 0.05
+	discipline = 0.025
 	fire_damage = 0.1
 }
 
@@ -10568,7 +10568,7 @@ mayan_ufo_support = {
 }
 
 swiss_guard_last_stand = {
-	discipline = 0.05
+	discipline = 0.025
 }
 
 expelled_minority = {

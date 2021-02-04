@@ -11,7 +11,7 @@ ANU_conversion_buff = {
 	local_culture_conversion_cost = -0.2
 }
 ANU_the_empire_of_the_rising_sun = {
-	discipline = 0.05
+	discipline = 0.025
 	ae_impact = -0.1
 }
 ANU_spreading_the_culture = {

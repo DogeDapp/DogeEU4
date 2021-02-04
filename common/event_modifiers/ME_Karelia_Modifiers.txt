@@ -28,7 +28,7 @@ karelia_valaam_monastery_expanded = {
     supply_limit_modifier = 0.2
 }
 krl_ready_for_conquest = {
-    discipline = 0.05
+    discipline = 0.025
     land_maintenance_modifier = -0.1
 }
 krl_control_of_karelians = {

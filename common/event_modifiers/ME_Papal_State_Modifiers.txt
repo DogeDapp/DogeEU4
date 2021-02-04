@@ -51,7 +51,7 @@ Return_Of_The_Catholics = {
 }
 	
 Absolute_Unlimited_Power = {
-	discipline = 0.035
+	discipline = 0.025
 	max_absolutism = 15
 	yearly_absolutism = 0.25
 }

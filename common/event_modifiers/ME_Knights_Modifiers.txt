@@ -38,7 +38,7 @@ KNI_Raiders = {
 KNI_mediterranean_modifier = {
 	tolerance_own = 2
 	global_missionary_strength = 0.01
-	discipline = 0.05
+	discipline = 0.025
 }
 KNI_improved_defences = {
 	local_defensiveness = 0.1

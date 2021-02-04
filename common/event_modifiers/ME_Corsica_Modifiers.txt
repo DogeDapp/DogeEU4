@@ -4,7 +4,7 @@ corsica_greek_islands_conquest = {
 }
 
 corsica_italy_conquest = {
-	discipline = 0.05
+	discipline = 0.025
 	global_ship_recruit_speed = -0.15
 	global_sailors_modifier = 0.2
 }

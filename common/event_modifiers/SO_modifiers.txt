@@ -155,7 +155,7 @@ the_baltic_secured = {
 for_king_and_country = {
 	land_morale = 0.075
 	naval_morale = 0.1
-	discipline = 0.05
+	discipline = 0.025
 	global_manpower_modifier = 0.10
 }
 
@@ -415,7 +415,7 @@ kalmar_commonwealth = {
 ################################################
 
 swedish_support = {
-	discipline = 0.05
+	discipline = 0.025
 	land_morale = 0.075
 	global_manpower_modifier = 0.35
 }
@@ -656,7 +656,7 @@ the_pen_and_the_sword = {
 }
 
 sparta_of_the_north = {
-	discipline = 0.05
+	discipline = 0.025
 	land_morale = 0.075
 	leader_land_shock = 1
 	leader_land_fire = 1
@@ -726,7 +726,7 @@ the_imperial_navy_shl = {
 }
 
 landfall_in_scandinavia = {
-	discipline = 0.05
+	discipline = 0.025
 	land_morale = 0.075
 	core_creation = -0.15
 	global_unrest = -1.5

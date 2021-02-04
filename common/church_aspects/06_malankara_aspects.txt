@@ -80,7 +80,7 @@ footsteps_of_thomas_the_apostles = {
 coonan_cross_oath = {
 	cost = 100
 	modifier = {
-		discipline = 0.05
+		discipline = 0.025
 		ship_durability = 0.1
 	}
 	ai_will_do = {
