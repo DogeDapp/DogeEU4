@@ -312,7 +312,7 @@ ADA_ideas = {
 		global_unrest = -1
 	}
 	futuh_al_habash = {
-		artillery_power = 0.10
+		artillery_power = 0.05
 	}
 	control_the_afar_and_oromo = {
 		global_autonomy = -0.05
@@ -2032,7 +2032,7 @@ BRR_ideas = {
 	}
 	
 	bonus = {
-		artillery_power = 0.10
+		artillery_power = 0.05
 	}
 	
 	trigger = {
@@ -10348,7 +10348,7 @@ ANN_ideas = {
 	}
 	producing_cannons = {
 		artillery_cost = -0.10
-		artillery_power = 0.10
+		artillery_power = 0.05
 	}
 	turn_away_the_christian_cross = { #Same for TOK and ANN
 		global_missionary_strength = 0.02
@@ -10827,7 +10827,7 @@ BUK_ideas = {  #Bukhara
 		fire_damage = 0.05
 	}
 	persian_cannoneer_experience = {
-		artillery_power = 0.10
+		artillery_power = 0.05
 	}
 	patronize_learning_and_arts = {
 		idea_cost = -0.10
@@ -12786,7 +12786,7 @@ TUR_ideas = {
 		cavalry_power = 0.05
     }
     turkish_artillery = {
-		artillery_power = 0.10
+		artillery_power = 0.05
 		siege_ability = 0.10
     }
     organized_pashas_and_eyalets = {

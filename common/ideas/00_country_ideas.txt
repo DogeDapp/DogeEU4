@@ -271,7 +271,7 @@ RUS_ideas = {
 	}
 	russian_artillery_yard = {
 		artillery_cost = -0.1
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 	life_long_conscription  = {
 		land_forcelimit_modifier = 0.20 #.5
@@ -4346,7 +4346,7 @@ SMO_ideas = {
 		leader_land_fire = 1
 	}
 	artillery_before_all = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 	tsar_mortars = {
 		siege_ability = 0.10
@@ -9388,7 +9388,7 @@ OTM_ideas = {
 	}
 	
 	bonus = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 
 	trigger = {
@@ -9608,7 +9608,7 @@ STK_ideas = {
 		land_forcelimit_modifier = 0.25
 	}
 	bonus = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 	trigger = {
 		tag = STK
@@ -12765,7 +12765,7 @@ BHA_ideas = {
 		administrative_efficiency = 0.05
 	}
 	bha_rocketry = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 }
 

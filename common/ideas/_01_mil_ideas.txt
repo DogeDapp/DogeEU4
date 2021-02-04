@@ -426,7 +426,7 @@ stehendesheer0 = {
 		cavalry_power = 0.05
 	}
 	stehendesheer3 = {
-		artillery_power = 0.1
+		artillery_power = 0.05
 	}
 
 	stehendesheer5 = {
@@ -757,7 +757,7 @@ festung0 = {
 	}
 	
 	festung3 = {
-		artillery_power = 0.15
+		artillery_power = 0.05
 		artillery_cost = -0.1
 	}
 	
