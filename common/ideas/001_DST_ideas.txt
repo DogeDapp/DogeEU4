@@ -192,7 +192,7 @@ GTA_ideas = { # Scandinavia Gotaland
 		defensiveness = 0.20
 	}
 	GTA_found_gothenburg_in_gotaland = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	GTA_invite_the_dutch_to_gothenburg = {
 		global_own_trade_power = 0.15
@@ -571,7 +571,7 @@ ELS_ideas = {
 		global_unrest = -1.5
 	}
 	ELS6 = {
-		build_cost = -0.10	
+		build_cost = -0.05	
 	}
 	ELS7 = {
 		global_manpower_modifier = 0.1
@@ -699,7 +699,7 @@ PAR_ideas = {
 
 PSS_ideas = {
 	start = {
-		build_cost = -0.1	
+		build_cost = -0.05	
 		idea_cost = -0.05
 	}
 	
@@ -811,7 +811,7 @@ RHN_ideas = {
 		development_cost = -0.1
 	}
 	RHN_idea_7 = {
-		build_cost = -0.10
+		build_cost = -0.05
 		global_regiment_cost = -0.10
 	}
 }
@@ -934,7 +934,7 @@ AZE_ideas = {
 		development_cost = -0.1
 	}
 	AZE_great_architecture = {
-		build_cost = -0.1
+		build_cost = -0.05
 		prestige = 0.25
 	}
 	AZE_the_shia_state = {
@@ -1369,7 +1369,7 @@ anjou_ideas = {
 		prestige = 1
 	}
 	anjou_tuffeau = {
-		build_cost = -0.15
+		build_cost = -0.05
 	}
 }
 
@@ -1614,7 +1614,7 @@ HEA_ideas = { # Heavenly Kingdom China
 		trade_efficiency = 0.15
 	}
 	HEA_five = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	HEA_six = {
 		development_cost = -0.1
@@ -1693,7 +1693,7 @@ UAR_ideas = { #United African Republic
 		interest = -0.5
 	}
 	UAR_five = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	UAR_six = {
 		infantry_power = 0.05
@@ -1872,7 +1872,7 @@ EGP_ideas = { #Ancient Egypt
 
 ASR_ideas = { # Assyria Ideas
 	start = {
-		build_cost = -0.15
+		build_cost = -0.05
 		stability_cost_modifier = -0.1
 	}
 
@@ -2063,7 +2063,7 @@ AYY_ideas = {
 		land_morale = 0.075
 	}
 	ayy_ayyubid_architecture = {
-		build_cost = -0.1
+		build_cost = -0.05
 		development_cost = -0.15
 	}
 	hsn_rise_of_the_eagle = {
@@ -2132,7 +2132,7 @@ GHA_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	
 	trigger = {
@@ -2238,7 +2238,7 @@ MJO_ideas = {
 		sunk_ship_morale_hit_recieved = -0.1
 	}
 	MJO_regnum = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	MJO_muslim_infrastructure = {
 		production_efficiency = 0.1
@@ -2872,7 +2872,7 @@ ALO_ideas = {
         prestige_decay = -0.2
     }
     ALO_soba = {
-        build_cost = -0.1
+        build_cost = -0.05
         build_time = -0.1
     }
     ALO_nubian_army = {
@@ -2943,7 +2943,7 @@ ADR_ideas = {
 		blockade_efficiency = 0.1 
 	}
 	bonus = {
-		build_cost = -0.1 # Victorian Architecture  
+		build_cost = -0.05 # Victorian Architecture  
 	}
 	trigger = {
 		tag = ADR
@@ -3094,7 +3094,7 @@ HIM_ideas = {
 	}
 
 	HIM_improve_roadworks = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 
 	HIM_emperor_of_the_east = {

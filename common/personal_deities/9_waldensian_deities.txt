@@ -88,7 +88,7 @@ w_michael = {
 w_joseph = { 
 	#(Economic - Savings)
 	interest = -0.5
-	build_cost = -0.10
+	build_cost = -0.05
 	
 	allow = { religion = waldensian }
 	sprite = 52

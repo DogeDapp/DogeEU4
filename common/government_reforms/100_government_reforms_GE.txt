@@ -262,7 +262,7 @@ enlightened_despotism_reform = {
 	nation_designer_cost = 70
 	modifiers = {
 		max_absolutism = 5
-		build_cost = -0.15
+		build_cost = -0.05
 		prestige = 1
 		governing_capacity = 150
 	}
@@ -4856,7 +4856,7 @@ hessian_military_complex_reform = {
 	}
 	modifiers = {
 		development_cost = -0.05
-		build_cost = -0.10
+		build_cost = -0.05
 	}
 	custom_attributes = {
 		enables_military_exports = yes #2% Goods Produced per 10% Army Professionalism
@@ -5871,7 +5871,7 @@ fredrickan_reforms_reform = {
 	}
 	modifiers = {
 		development_cost = -0.05
-		build_cost = -0.10
+		build_cost = -0.05
 		interest = -0.5
 	}
 	ai = {
@@ -7765,7 +7765,7 @@ toleration_of_all_faiths_edict_reform = {
 	}
 	modifiers = {
 		tolerance_heathen = 1
-		build_cost = -0.10
+		build_cost = -0.05
 		state_maintenance_modifier = -0.20
 	}
 	ai = {
@@ -9715,7 +9715,7 @@ strenghten_industry_reform = {
 	}
 	modifiers = {
 		global_tax_modifier = -0.10
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	custom_attributes = {
 		enables_industrialism = yes #+0.2 Goods produced in workshops
@@ -9973,7 +9973,7 @@ armenian_silk_traders_reform = {
 		}
 	}
 	modifiers = {
-		build_cost = -0.15
+		build_cost = -0.05
 		caravan_power = 0.25
 	}
 	custom_attributes = {

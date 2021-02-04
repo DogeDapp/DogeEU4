@@ -30,7 +30,7 @@ iv_modifier_event_7 = {
 }
 
 iv_modifier_event_8 = {
-	build_cost = -0.1
+	build_cost = -0.05
 	build_time = -0.2
 }
 
@@ -47,7 +47,7 @@ iv_modifier_event_11 = {
 }
 
 iv_modifier_event_12 = {
-	build_cost = -0.1
+	build_cost = -0.05
 	production_efficiency = 0.1
 }
 
@@ -706,7 +706,7 @@ iv_modifier_event_158 = {
 }
 
 iv_modifier_event_159 = {
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 iv_modifier_event_160 = {
@@ -718,7 +718,7 @@ iv_modifier_event_161 = {
 }
 
 iv_modifier_event_162 = {
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 iv_modifier_event_163 = {

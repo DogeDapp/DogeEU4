@@ -131,7 +131,7 @@ entwicklung_6_bonus = {
 	overlord = {	has_idea = entwicklung6 }
 
 	}
-	build_cost = -0.25
+	build_cost = -0.2
 	
 }
 
@@ -665,7 +665,7 @@ kolo5_1_bonus = {
 	colonial_parent = {	has_idea = kolonialimperium5 }
 
 	}
-	build_cost = -0.3
+	build_cost = -0.2
 	
 }
 
@@ -691,6 +691,6 @@ entwicklung_6_bonus = { # Development Subject Build Cost
 	overlord = {	has_idea = entwicklung6 }
 
 	}
-	build_cost = -0.25
+	build_cost = -0.2
 	
 }

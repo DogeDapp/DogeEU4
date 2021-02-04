@@ -71,7 +71,7 @@ ganga =
 {
 	#(Economic - Savings)
 	interest = -0.25
-	build_cost = -0.10
+	build_cost = -0.05
 	
 	allow = { religion = hinduism }
 	sprite = 4

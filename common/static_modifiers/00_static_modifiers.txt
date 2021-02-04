@@ -89,7 +89,7 @@ difficulty_very_hard_ai = {
 	interest = -1
 	improve_relation_modifier = 0.5
 	development_cost = -0.2
-	build_cost = -0.25
+	build_cost = -0.2
 	ae_impact = -0.33
 	missionary_maintenance_cost = -0.3
 }
@@ -1574,7 +1574,7 @@ promote_culture_in_government_modifier = {
 }
 
 seize_clerical_holdings_modifier = {
-	build_cost = -0.15
+	build_cost = -0.05
 }
 
 invite_minorities_modifier = {

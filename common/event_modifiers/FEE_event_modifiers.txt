@@ -637,7 +637,7 @@ fee_tausen_preaching = {
 }
 
 fee_christian_iv = {
-	build_cost = -0.15
+	build_cost = -0.05
 }
 
 fee_danish_absolutism = {

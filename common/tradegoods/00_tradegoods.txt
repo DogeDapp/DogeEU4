@@ -2029,10 +2029,10 @@ whaling = {
 lumber = { 
 	color = { 0.20 0.10 0.05 }
 	modifier = { 
-		build_cost = -0.10
+		build_cost = -0.15
 	} 
 	province = {
-		local_build_cost = -0.20
+		local_build_cost = -0.1
 	}
 	chance = {
 		factor = 20

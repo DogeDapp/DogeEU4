@@ -68,7 +68,7 @@ eminent_domain_act = {
 		full_idea_group = defensive_ideas
 	}
 	
-	build_cost = -0.10
+	build_cost = -0.05
 	development_cost = -0.15
 
 	ai_will_do = {

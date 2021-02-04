@@ -1156,7 +1156,7 @@ architectural_visionary_personality = {
 	knowledge_sharing = yes
 
 	
-	build_cost = -0.1
+	build_cost = -0.05
 	nation_designer_cost = 2
 }
 

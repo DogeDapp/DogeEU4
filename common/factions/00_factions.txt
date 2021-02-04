@@ -40,7 +40,7 @@ bureaucrats =
 	#buildings, Internal Stability.
 	modifier = 
 	{
-		build_cost = -0.1
+		build_cost = -0.05
 		advisor_pool = 1
 		discipline = -0.05
 	}
@@ -86,7 +86,7 @@ mr_guilds =
 	modifier = 
 	{
 		global_trade_goods_size_modifier = 0.10
-		build_cost = -0.10
+		build_cost = -0.05
 		global_manpower_modifier = -0.1
 	}
 }
@@ -107,7 +107,7 @@ rr_jacobins =
 	modifier = 
 	{
 		global_unrest = -2
-		build_cost = -0.15
+		build_cost = -0.05
 		global_tax_modifier = 0.15
 		diplomatic_reputation = -2
 	}

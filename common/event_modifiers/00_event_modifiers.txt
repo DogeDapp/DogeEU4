@@ -3654,7 +3654,7 @@ hsa_trade_reform = {
 	trade_efficiency = 0.2
 }
 hsa_economic_reform = {
-	build_cost = -0.1
+	build_cost = -0.05
 	global_ship_cost = -0.1
 	advisor_cost = -0.1
 }
@@ -4751,7 +4751,7 @@ repaired_masjid_al_haram = {
 }
 
 mimar_sinan = {
-	build_cost = -0.1
+	build_cost = -0.05
 	development_cost = -0.1
 }
 
@@ -5457,7 +5457,7 @@ importing_tea = {
 #}
 
 shiva_srishti = {
-	build_cost = -0.1
+	build_cost = -0.05
 	religion = yes
 }
 
@@ -5944,7 +5944,7 @@ nobles_fled = {
 }
 
 golden_age_transylvania = {
-	build_cost = -0.2
+	build_cost = -0.05
 	prestige = 1.5
 }
 
@@ -6605,7 +6605,7 @@ wih_marthawashington = {
 	diplomatic_reputation = 1
 }
 wih_elizabethwilbraham = {
-	build_cost = -0.1
+	build_cost = -0.05
 }
 wih_annabunina = {
 	prestige = 0.25
@@ -7858,7 +7858,7 @@ emperor_condemns_tuscany = {
 }
 
 tuscany_fernandino_construction = {
-	build_cost = -0.2
+	build_cost = -0.05
 	development_cost = -0.1
 }
 

@@ -25,7 +25,7 @@ l_matthew = {
 }
 
 l_mark = {
-	build_cost = -0.1
+	build_cost = -0.05
 	trade_efficiency = 0.05
 	
 	allow = { religion = lollard }

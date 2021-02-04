@@ -7,7 +7,7 @@ client_ideas = {
 	}
 	
 	bonus = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	
 	trigger = {
@@ -61,7 +61,7 @@ colonial_ideas = {
 		global_prov_trade_power_modifier = 0.25
 	}
 	manufacturing_center = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	free_thinkers = {
 		idea_cost = -0.1
@@ -651,7 +651,7 @@ anatolian_beyliks_ideas = {
 		trade_efficiency = 0.1
 	}
 	anatolian_architecture = {
-		build_cost = -0.10
+		build_cost = -0.05
 	}
 	legacy_seljuqs_empire = {
 		prestige = 1
@@ -1135,7 +1135,7 @@ evenk_ideas = {
 		years_of_nationalism = -5
 	}
 	evenk_siberian_resources = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	evenk_mongolian_deel = {
 		mercenary_manpower = 0.25
@@ -1230,7 +1230,7 @@ mesoamerican_ideas = {
 	}
 
 	pyramid_architecture = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	
 	obsidian_and_jade = { 
@@ -2397,7 +2397,7 @@ nepalese_minor_ideas = {
 	free = yes
 	
 	nep_construct_temples = {
-		build_cost = -0.1
+		build_cost = -0.05
 	}
 	nep_kashmiri_traders = {
 		merchants = 1

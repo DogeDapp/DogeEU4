@@ -53,7 +53,7 @@ dominant_trade_hub = {
 #Generic Administrative Mission Rewards:
 
 growing_economy = {
-	build_cost = -0.10
+	build_cost = -0.05
 	build_time = -0.25
 }
 
@@ -490,7 +490,7 @@ gbr_inland_trade = {
 
 college_of_justice = {
 	global_unrest = -2
-	build_cost = -0.2
+	build_cost = -0.05
 }
 
 sco_the_education_acts = {
@@ -1126,7 +1126,7 @@ bng_textiles = {
 }
 
 bng_sufi_mystic_settlers = {
-	build_cost = -0.15
+	build_cost = -0.05
 	religious_unity = 0.1
 }
 
@@ -1183,7 +1183,7 @@ mlw_coalition = {
 
 mlw_fortified = {
 	defensiveness = 0.2
-	build_cost = -0.2
+	build_cost = -0.05
 }
 
 mlw_education = {
@@ -1642,7 +1642,7 @@ indian_empire = {
 }
 
 south_india_construction = {
-	build_cost = -0.1
+	build_cost = -0.05
 	development_cost = -0.05
 }
 
@@ -1670,7 +1670,7 @@ india_guj_bng_trade = {
 
 india_jains_promoted = {
 	yearly_corruption = -0.02
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 india_production = {
@@ -1817,7 +1817,7 @@ bucharest_summer_capital = {
 }
 
 rmn_consolidating_transylvania = {
-	build_cost = -0.2
+	build_cost = -0.05
 	global_unrest = -2
 }
 
@@ -2178,7 +2178,7 @@ pirate_the_pirate_threat = {
 
 pirate_a_second_madagascar = {
 	global_tax_modifier = 0.1
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 pirate_all_of_the_gold = {
@@ -2519,7 +2519,7 @@ kor_turtle_fleets = {
 }
 
 kor_growing_economy = {
-	build_cost = -0.10
+	build_cost = -0.05
 	development_cost = -0.10
 }
 
@@ -2663,7 +2663,7 @@ mlo_alpine_fortifications = {
 
 mlo_lombard_renaissance = {
 	development_cost = -0.1
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 mlo_the_swiss_mercs = {
@@ -2975,7 +2975,7 @@ hun_supreme_black_army = {
 
 hun_strong_economy = {
 	land_forcelimit_modifier = 0.15
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 hun_corviana_library = {
@@ -3307,7 +3307,7 @@ sav_king_of_cyprus = {
 sav_piedmont_lombardy = {
 	global_institution_spread = 0.1
 	development_cost = -0.1
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 sav_northern_italian_empire = {
@@ -3609,7 +3609,7 @@ pru_emden_company_modifier = {
 
 pru_construction_modifier = {
 	build_time = -0.25
-	build_cost = -0.1
+	build_cost = -0.05
 }
 
 edict_of_potsdam_modifier = {
@@ -3858,7 +3858,7 @@ boh_integrated_silesia = {
 }
 
 boh_fortification_effort = {
-	build_cost = -0.1
+	build_cost = -0.05
 	fort_maintenance_modifier = -0.2
 }
 

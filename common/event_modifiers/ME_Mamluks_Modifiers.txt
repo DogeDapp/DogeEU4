@@ -1,5 +1,5 @@
 mamluks_great_works_of_cairo_modifier = {
-	build_cost = -0.1
+	build_cost = -0.05
 	build_time = -0.1
 }
 
