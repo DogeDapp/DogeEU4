@@ -11,7 +11,7 @@ quality_ideas = {
 	category = MIL
 
 	bonus = {
-		discipline = 0.035
+		discipline = 0.025
 	}
 
 	private_to_marshal = {
@@ -183,7 +183,7 @@ offensive_ideas = {
 		land_forcelimit_modifier = 0.15
 	}
 	napoleonic_warfare = {
-		discipline = 0.035
+		discipline = 0.025
 	}
 
 	ai_will_do = {
@@ -442,7 +442,7 @@ stehendesheer0 = {
 	}
 	
 	stehendesheer4 = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	ai_will_do = {
@@ -529,7 +529,7 @@ soldnerheer0 = {
 		free_leader_pool = 1
 	}
 	soldnerheer6 = {
-		mercenary_discipline = 0.1
+		mercenary_discipline = 0.05
 	}
 	soldnerheer7 = {
 		mercenary_manpower = 0.5
@@ -640,7 +640,7 @@ waffenqualitat0 = {
 	category = MIL
 
 	bonus = {
-		discipline = 0.035
+		discipline = 0.025
 	}
 		
 	
@@ -1011,7 +1011,7 @@ militarismus0 = {
 		free_leader_pool = 1
 	}
 	militarismus3 = {
-		discipline = 0.035
+		discipline = 0.025
 	}
 
 	militarismus4 = {

@@ -45,7 +45,7 @@ CHG_ideas = {
 		trade_efficiency = 0.05
 	}
 	reform_the_mongol_empire = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 NOG_ideas = {
@@ -204,7 +204,7 @@ LIV_ideas = {
 		diplomatic_upkeep = 1
 	}
 	cultivate_the_livonian_order = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 MLC_ideas = {
@@ -477,7 +477,7 @@ TRI_ideas = {
 		advisor_pool = 1
 	}
 	maintain_german_hre_prominence = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SHM_ideas = {
@@ -605,7 +605,7 @@ COM_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -792,7 +792,7 @@ MAI_ideas = {
 		army_tradition = 0.50
 	}
 	maintain_our_position_as_first_in_hre = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	press_spiritual_and_political_power = {
 		global_autonomy = -0.05
@@ -985,7 +985,7 @@ SIE_ideas = {
 		diplomatic_reputation = 1
 	}
 	stave_off_episcopal_dominance = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	secure_italy_against_tuscans = {
 		yearly_corruption = -0.05
@@ -1101,7 +1101,7 @@ KED_ideas = {
 		trade_range_modifier = 0.33
 	}
 	quality_army_of_kedah = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	confluence_of_giants = {
 		army_tradition = 0.5
@@ -1120,7 +1120,7 @@ MAN_ideas = {
 	}
 	
 	bonus = {
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 	
 	trigger = {
@@ -1208,7 +1208,7 @@ LUC_ideas = {
 	
 	age_of_mercenaries = {
 		merc_maintenance_modifier = -0.10
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 	rival_of_central_italy = {
 		army_tradition_decay = -0.01
@@ -1262,7 +1262,7 @@ FRN_ideas = {
 		technology_cost = -0.05
 	}
 	compound_upon_previous_military_tactics = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	curtail_guild_patrician_power = {
 		yearly_corruption = -0.05
@@ -1330,7 +1330,7 @@ SYR_ideas = {
 		diplomatic_reputation = 1.00
 	}
 	rashidun_umayyad_abbasid_caliphates = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	crusader_memories = {
 		defensiveness = 0.10
@@ -1387,7 +1387,7 @@ IRQ_ideas = {
 MEN_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1427,7 +1427,7 @@ MEN_ideas = {
 ERE_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1467,7 +1467,7 @@ ERE_ideas = {
 GRM_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1506,7 +1506,7 @@ GRM_ideas = {
 DUL_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1545,7 +1545,7 @@ DUL_ideas = {
 RAM_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1584,7 +1584,7 @@ RAM_ideas = {
 AYD_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1623,7 +1623,7 @@ AYD_ideas = {
 SRU_ideas = {
 	start = {
 		core_creation = -0.20
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1695,7 +1695,7 @@ YZD_ideas = {
 		legitimacy = 1
 	}
 	uniting_persia = {
-		discipline = 0.05	
+		discipline = 0.025	
 	}
 }
 NSA_ideas = {
@@ -1859,7 +1859,7 @@ berber_minor_ideas = {
 		manpower_recovery_speed = 0.10
 	}
 	uniting_the_maghreb = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 ICE_ideas = {
@@ -1978,7 +1978,7 @@ ISF_ideas = {
 	}
 	georgian_military_slaves = {
 		mercenary_cost = -0.10
-		mercenary_discipline = 0.025		
+		mercenary_discipline = 0.05		
 	}
 	attraction_to_international_trade = {
 		trade_steering = 0.20
@@ -2095,7 +2095,7 @@ GOC_ideas = {
 		num_accepted_cultures = 2
 	}
 	fight_against_the_vijayanagara_empire = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	centralized_deccani_sultanate = {
 		global_autonomy = -0.05
@@ -2205,7 +2205,7 @@ TOU_ideas = {
 		diplomatic_reputation = 1.00
 	}
 	revenge_for_albigensian_crusade = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	the_cathar_faith = {
 		global_unrest = -1
@@ -2331,7 +2331,7 @@ AVI_ideas = {
 		development_cost = -0.1
 	}
 	revenge_for_the_papal_schism = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	restoration_of_avignon_authority = {
 		stability_cost_modifier = -0.1
@@ -2411,7 +2411,7 @@ NRM_ideas = {
 		naval_morale = 0.15
 	}
 	norman_revival = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	all_for_france = {
 		free_leader_pool = 1
@@ -2565,10 +2565,10 @@ AMG_ideas = {
 		mercenary_cost = -0.10
 	}
 	sustain_armagnac_power = {
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 	resist_the_royal_domain = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	all_for_france = {
 		free_leader_pool = 1
@@ -2883,7 +2883,7 @@ CHC_ideas = {
 		yearly_corruption = -0.05
 	}
 	qin_chu_rivalry = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	stop_internal_decadence = {
 		free_adm_policy = 1
@@ -2900,7 +2900,7 @@ QIC_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -2991,7 +2991,7 @@ CSH_ideas = {
 		global_manpower_modifier = 0.25
 	}
 	li_zicheng = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	destroyer_of_the_ming = {
 		years_of_nationalism = -5
@@ -3272,7 +3272,7 @@ QIN_ideas = {
 		cavalry_cost = -0.10
 	}
 	shang_yang_promoting_legalism = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	developments_of_the_qin_capital = {
 		development_cost = -0.1
@@ -4417,7 +4417,7 @@ PTT_ideas = {
 		harsh_treatment_cost = -0.25
 	}
 	revive_the_military_prowess_from_ramai_deva = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	solidify_the_eastern_ganga_domain = {
 		production_efficiency = 0.10
@@ -4760,7 +4760,7 @@ PAN_ideas = {
         reduced_liberty_desire = 10
     }
     the_destroyer_of_time = {
-        discipline = 0.05
+        discipline = 0.025
     }
     control_of_the_vindhyans = { #Same for all Vindhyan States
         development_cost = -0.1
@@ -5183,7 +5183,7 @@ PRB_ideas = {
         development_cost = -0.1
     }
     jethwas_triumphant = {
-        discipline = 0.05
+        discipline = 0.025
     }
 }
 
@@ -5680,7 +5680,7 @@ WLY_ideas = {
 		same_culture_advisor_cost = -0.20
 	}
 	oromo_tensions = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	mitigate_ethnic_tensions = {
 		culture_conversion_cost = -0.20
@@ -6072,7 +6072,7 @@ OYO_ideas = {
 		shock_damage = 0.10
     }
     reformation_of_oyo_ranks = {
-		discipline = 0.05
+		discipline = 0.025
     }
     layered_metropolitan_layout = {
         governing_capacity_modifier = 0.10
@@ -6130,7 +6130,7 @@ KBU_ideas = {
     }
     
     bonus = {
-        discipline = 0.05
+        discipline = 0.025
     }
     
     trigger = {
@@ -6334,7 +6334,7 @@ HAU_ideas = {  #Gobir
         legitimacy = 1
     }
     chiefs_of_protection = {
-        discipline = 0.05
+        discipline = 0.025
     }
     grand_centers_of_trade = { #Same for the Hausa Nations
         center_of_trade_upgrade_cost = -0.20
@@ -6723,7 +6723,7 @@ URB_ideas = {
 	}
 	federico_da_montefeltro = {
 		mercenary_cost = -0.10
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 	realization_of_urbino = { 
 		development_cost = -0.1
@@ -7285,7 +7285,7 @@ QAS_ideas = {  #Qasim
 		advisor_cost = -0.10
 	}
 	defend_tatar_statehood = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SYG_ideas = {  #Sarig Yogir
@@ -7466,7 +7466,7 @@ ARP_ideas = {
 		mercenary_cost = -0.15
 	}
 	arapaho_warrior_culture = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	expanding_the_arapaho_grounds = {
 		colonists = 1
@@ -8338,7 +8338,7 @@ SUS_ideas = {
 		auto_explore_adjacent_to_colony = yes
 	}
 	ruthless_warfare = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	recover_from_disasters = {
 		global_autonomy = -0.05
@@ -8463,7 +8463,7 @@ LIP_ideas = {
 		global_spy_defence = 0.25
 	}
 	small_but_sharp = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 MSC_ideas = {
@@ -8502,7 +8502,7 @@ MSC_ideas = {
 		global_spy_defence = 0.25
 	}
 	small_but_sharp = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 KIO_ideas = {
@@ -8537,7 +8537,7 @@ KIO_ideas = {
 		global_missionary_strength = 0.02
 	}
 	warrior_societies = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	kiowa_cavalry = {
 		cavalry_power = 0.20
@@ -9281,7 +9281,7 @@ OTO_ideas = {
 		ae_impact = -0.10
 	}
 	adopt_the_otomi_military_order = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	consolidate_otomi_lands = {
 		development_cost = -0.1
@@ -9908,7 +9908,7 @@ AKM_ideas = {
 		garrison_size = 0.20
 	}
 	shinmen_clan_swordsmen = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	patronize_the_five_mountains_literature = {
 		tolerance_heretic = 2
@@ -10192,7 +10192,7 @@ TIB_ideas = {
 		governing_capacity_modifier = 0.10
 	}
 	the_gelug_school = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -10965,7 +10965,7 @@ TRP_ideas = {  #Tripoli
 ## Scandinavia and its Variations ##
 SCA_SWE_ideas = { #Swedish Version
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		core_creation = -0.15
 	}
 	
@@ -11093,7 +11093,7 @@ SCA_DAN_ideas = { #Danish Version
 SCA_FIN_ideas = { #Finnish Version
 	start = {
 		hostile_attrition = 1.0
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -11251,7 +11251,7 @@ SPA_POR_ideas = { #Portuguese Version
 		trade_efficiency = 0.15
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_CAS_ideas = { #Castilian Version
@@ -11293,7 +11293,7 @@ SPA_CAS_ideas = { #Castilian Version
 		colonists = 1
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_ARA_ideas = { #Aragonese Version
@@ -11334,7 +11334,7 @@ SPA_ARA_ideas = { #Aragonese Version
 		yearly_absolutism = 1
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_LON_ideas = { #Leonese Version
@@ -11375,7 +11375,7 @@ SPA_LON_ideas = { #Leonese Version
 		idea_cost = -0.10
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_GAL_ideas = { #Galician Version
@@ -11416,7 +11416,7 @@ SPA_GAL_ideas = { #Galician Version
 		diplomatic_reputation = 1
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_CAT_ideas = { #Catalan Version
@@ -11457,7 +11457,7 @@ SPA_CAT_ideas = { #Catalan Version
 		placed_merchant_power = 10
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 SPA_NAV_ideas = { #Basque Version
@@ -11498,7 +11498,7 @@ SPA_NAV_ideas = { #Basque Version
 		global_institution_spread = 0.15
 	}
 	spa_tercio_reformation = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -11510,7 +11510,7 @@ SPA_ideas = { #standard Spain Ideas for brazilians for some weird situation
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -11585,7 +11585,7 @@ PLC_POL_ideas = { #Polish Version
 		infantry_power = 0.05
 	}
 	plc_tempered_by_neighbors = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 PLC_LIT_ideas = { #Lithuanian Version
@@ -11626,7 +11626,7 @@ PLC_LIT_ideas = { #Lithuanian Version
 		development_cost = -0.1
 	}
 	plc_tempered_by_neighbors = { #Same for all of them
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -12009,7 +12009,7 @@ VNZ_ideas = {
 		global_unrest = -1
 	}
 	royalists_in_venezuela = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	charting_out_a_venezuelan_future = {
 		development_cost = -0.1
@@ -12044,7 +12044,7 @@ HAT_ideas = {
 		global_unrest = -2
 	}
 	hardened_from_fighting_for_freedom = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	securing_trade_in_the_caribbean = {
 		light_ship_power = 0.10
@@ -12780,7 +12780,7 @@ TUR_ideas = {
 	free = yes        #will be added at load.
 
     kapu_kulu_and_eyalet = {
-		discipline = 0.05
+		discipline = 0.025
     }
     spahi_cavalry = {
 		cavalry_power = 0.05

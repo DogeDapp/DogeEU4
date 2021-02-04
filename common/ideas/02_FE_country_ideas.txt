@@ -33,7 +33,7 @@ HKC_ideas = {  #Hokucho
 		army_tradition = 1.0
 	}
 	disciplined_samurai_class = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	solve_administrative_conflicts = {
 		legitimacy = 1.0
@@ -110,7 +110,7 @@ KNM_ideas = {  #Kenmu
 		global_unrest = -2
 	}
 	the_military_class_do_not_rule = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	go_daigos_corruption_failures = {
 		yearly_corruption = -0.05
@@ -215,7 +215,7 @@ MTO_ideas = {  #Minamoto
 		global_manpower_modifier = 0.25
 	}
 	guardians_of_heian_kyo = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	destruction_of_the_taira_clan = {
 		prestige = 1.0
@@ -307,7 +307,7 @@ SMA_ideas = { #Somalia
 		global_manpower_modifier = 0.25
 	}
 	somali_honor_guards = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	command_east_africa = {
 		trade_efficiency = 0.15
@@ -546,7 +546,7 @@ ANV_ideas = {  #Angevin Realm
 		land_morale = 0.10
 	}
 	inter_disciplinary_standards = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	subjects_of_the_crowns = {
 		reduced_liberty_desire = 10
@@ -596,7 +596,7 @@ MGB_ideas = {  #Maghreb
 		caravan_power = 0.10
     }
     maghrebi_guard = {
-        discipline = 0.05
+        discipline = 0.025
     }
     promote_barbary_pirates = {
 		may_perform_slave_raid = yes
@@ -645,7 +645,7 @@ RRR_ideas = {  #Great Russian Republic
 		global_ship_cost = -0.10
 	}
 	reformed_military_standards = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 NSE_ideas = {
@@ -718,7 +718,7 @@ SCF_ideas = { #Seven Council Fires aka Great Sioux Nation
 		global_unrest = -2
 	}
 	councils_of_the_lakota = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	plains_warfare = {
 		shock_damage = 0.05
@@ -779,7 +779,7 @@ NUA_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -822,7 +822,7 @@ AIM_ideas = { #Ainu Mosir/Jomon Empire
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -860,7 +860,7 @@ EZO_ideas = { #Ezo
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -1394,7 +1394,7 @@ ZHA_ideas = { #The Later Han
 		harsh_treatment_cost = -0.25
 	}
 	discipline_of_frontier_life = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	the_blurring_of_the_four_occupations = {
 		production_efficiency = 0.15
@@ -1635,7 +1635,7 @@ ZZH_ideas = { #The Later Zhao
 		war_exhaustion = -0.02
 	}
 	adaptives_form_of_fighting = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	realize_our_potential_han_zhao = {
 		army_tradition = 0.50
@@ -1723,7 +1723,7 @@ AUB_BAV_ideas = { #Austria-Bavaria, Bavarian Version
 		inflation_reduction = 0.05
 	}
 	absolutist_power_means_a_standing_army = { #Unique
-		discipline = 0.05
+		discipline = 0.025
 	}
 	monpolizing_various_industries = { #Same for Both
 		global_prov_trade_power_modifier = 0.15

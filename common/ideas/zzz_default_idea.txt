@@ -10,7 +10,7 @@ default_ideas = {
 	}
 	
 	increase_discipline = {
-		discipline = 0.03
+		discipline = 0.025
 	}
 	increase_taxation = {
 		global_tax_modifier = 0.10

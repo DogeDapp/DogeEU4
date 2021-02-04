@@ -35,7 +35,7 @@ HLR_ideas = {
 		core_creation = -0.2
 	}
 	hlr_adopting_the_goosestep = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	hlr_onwards_and_upwards = {
 		governing_capacity_modifier = 0.1
@@ -66,7 +66,7 @@ GER_ideas = {
 		technology_cost = -0.1
 	}
 	ger_reichsheer = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	ger_new_hanseatics = {
 		trade_efficiency = 0.15
@@ -152,7 +152,7 @@ GBR_ideas = {
 		technology_cost = -0.05
 	}
 	reform_of_comission_buying = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	british_industrialization = {
 		global_trade_goods_size_modifier = 0.1
@@ -184,7 +184,7 @@ SWE_ideas = {
 		
 	}
 	swedish_steel = {
-		discipline = 0.05
+		discipline = 0.025
 		infantry_power = 0.05
 	}
 	hakkapelitta = {
@@ -383,7 +383,7 @@ FRA_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}	
 
 	trigger = {
@@ -671,7 +671,7 @@ PRU_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -786,7 +786,7 @@ POL_ideas = {
 		global_regiment_cost = -0.10
 	}
 	foreign_section = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	focus_on_field_defences = {
 		land_morale = 0.15
@@ -838,7 +838,7 @@ HAB_ideas = {
 	}
 	hofkriegsrat = {
 		reinforce_speed = 0.3
-		discipline = 0.03
+		discipline = 0.025
 	}
 }
 
@@ -863,7 +863,7 @@ CHI_ideas = {
 		garrison_size = 0.25
 	}
 	revived_three_grand_divisions = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	inward_perfection = {
 		stability_cost_modifier = -0.10
@@ -905,7 +905,7 @@ PER_ideas = {
 		global_trade_goods_size_modifier = 0.1
 	}
 	the_ghulams = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	improved_silk_road = {
 		caravan_power = 0.2
@@ -948,7 +948,7 @@ BUR_Ideas = {
 		mercenary_manpower = 0.5
 	}
 	reform_of_feudal_army = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	integrated_towns = {
 		trade_efficiency = 0.10
@@ -1047,7 +1047,7 @@ SCO_Ideas = {
 JAP_ideas = {
 	start = {
 		stability_cost_modifier = -0.1
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -1110,7 +1110,7 @@ MAM_ideas = {
 		manpower_recovery_speed = 0.15
 	}
 	mam_army_reform = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	reform_fellah_system = {
 		production_efficiency = 0.1
@@ -1261,7 +1261,7 @@ MUG_ideas = {
 	free = yes
 	
 	mansabdari_system = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	control_of_the_ulema = {
 		global_unrest = -1
@@ -1290,7 +1290,7 @@ TIM_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -1434,7 +1434,7 @@ BYZ_ideas = {
 		global_trade_power = 0.1
 	}
 	new_imperial_army = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	ecumenical_patriarch = {
 		global_missionary_strength = 0.03
@@ -1477,7 +1477,7 @@ VIJ_ideas = {
 		diplomats = 1
 	}
 	army_for_city_of_victory = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -2058,7 +2058,7 @@ SAR_ideas = {
 		build_cost = -0.1
 	}
 	SAR_saint_maurice = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -2130,7 +2130,7 @@ SPI_ideas = {
 	#		prestige = 0.5
 	}
 	spi_royal_sardinian_army = {
-		discipline = 0.03
+		discipline = 0.025
 		global_manpower_modifier = 0.1
 	}
 	spi_centralized_state = {
@@ -2181,7 +2181,7 @@ SAX_ideas = {
 		global_tax_modifier = 0.10
 	}
 	the_saxon_circle = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -2401,7 +2401,7 @@ PAP_ideas = {
 	}
 
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -2507,7 +2507,7 @@ PUN_ideas = {
 		cavalry_cost = -0.10
 	}
 	reforming_the_punjabi_army = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -2680,7 +2680,7 @@ TUS_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -2763,7 +2763,7 @@ SWI_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -2804,7 +2804,7 @@ SON_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -2967,7 +2967,7 @@ NPL_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -3001,7 +3001,7 @@ NPL_ideas = {
 
 KNI_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		may_perform_slave_raid = yes
 	}
 	
@@ -3079,7 +3079,7 @@ KON_ideas = {
 		production_efficiency = 0.10
 	}
 	defend_against_the_colonists = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -3109,7 +3109,7 @@ MAL_ideas = {
 		global_manpower_modifier = 0.10
 	}
 	mandinka_warrior_spirit = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	lost_fleet_of_abubukari_ii = {
 		navy_tradition = 0.5
@@ -3195,7 +3195,7 @@ IRO_ideas = {
 		manpower_recovery_speed = 0.2
 	}
 	warriors_unity = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	the_four_kings = {
 		prestige = 1
@@ -3332,7 +3332,7 @@ PUE_ideas = {
 
 SHA_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		prestige_from_land = 1.0
 	}
 	
@@ -3410,7 +3410,7 @@ CRE_ideas = {
 
 KUR_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		army_tradition_decay = -0.01
 	}
 	
@@ -3690,7 +3690,7 @@ AFG_ideas = {
 WAL_ideas = {
 	start = {
 		defensiveness = 0.2
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -3905,7 +3905,7 @@ DAH_ideas = {
 		global_spy_defence = 0.3		
 	}
 	the_amazons = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	the_yovogan = {
 		global_institution_spread = 0.1
@@ -3966,7 +3966,7 @@ FEO_ideas = {
 	}
 
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -4575,7 +4575,7 @@ KAR_ideas = {
 	}
 
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -4648,7 +4648,7 @@ MON_ideas = {
 
 RMN_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		tolerance_own = 2
 	}
 
@@ -4763,7 +4763,7 @@ GOT_ideas = {
 
 FIN_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		global_tax_modifier = 0.10
 	}
 	
@@ -4973,7 +4973,7 @@ MPC_ideas = {
 		defensiveness = 0.15
 	}
 	mpc_idea_2 = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	mpc_idea_3 = {
 		army_tradition_from_battle = 0.5
@@ -5149,7 +5149,7 @@ CYA_ideas = {
 TEU_ideas = {
 	start = {
 		cavalry_power = 0.05
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -5932,7 +5932,7 @@ jerusalem_ideas = {
 		papal_influence = 2
 	}
 	frontier_state = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	land_of_the_heathen = {
 		missionaries = 1
@@ -5977,7 +5977,7 @@ KHM_ideas = {
 		trade_efficiency = 0.1
 	}
 	khm_european_mercenaries = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	khm_restore_angkor = {
 		prestige = 1
@@ -6330,7 +6330,7 @@ CND_ideas = {
 		advisor_pool = 1
 	}
 	candar_corps = {
-		discipline = 0.05	
+		discipline = 0.025	
 	}
 	sinop_shipyard = {
 		naval_forcelimit_modifier = 0.25
@@ -6382,7 +6382,7 @@ CAB_ideas = {
 		leader_land_manuever = 1
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = CAB
@@ -6555,7 +6555,7 @@ HES_ideas = {
 		development_cost = -0.1
 	}
 	modernization_of_the_hessian_army = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	hessian_mercenaries_idea = {
 		land_forcelimit_modifier = 0.25
@@ -6668,7 +6668,7 @@ MUN_ideas = {
 		diplomatic_reputation = 1
 	}
 	mun_soldiers = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	mun_bommen_berend = {
 		fire_damage = 0.1
@@ -7232,7 +7232,7 @@ ZIM_ideas = {
 	free = yes
 	
 	zim_mwenemutapa = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	zim_rekindling_the_royal_fires = {
 		stability_cost_modifier = -0.1
@@ -7407,7 +7407,7 @@ KGR_ideas = {
 		prestige = 1
 	}
 	kgr_tigers_of_the_himalayas = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -7914,7 +7914,7 @@ MRA_ideas = {
 
 ROM_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		legitimacy = 1
 	}
 	
@@ -8330,7 +8330,7 @@ RZW_ideas = {
 		global_tax_modifier = 0.1
 	}
 	rzw_discipline_and_traning = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	rzw_mwari_cult = {
 		global_unrest = -1
@@ -8485,7 +8485,7 @@ KAF_ideas = {
 		legitimacy = 1
 	}
 	kaf_king_of_kings = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	kaf_kaffan_exports = {
 		trade_efficiency = 0.1
@@ -8717,7 +8717,7 @@ ANS_ideas = {
 		merc_maintenance_modifier = -0.15
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = ANS
@@ -8754,7 +8754,7 @@ BYT_ideas = {
 		merc_maintenance_modifier = -0.15
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = BYT
@@ -8791,7 +8791,7 @@ RVA_ideas = {
 		production_efficiency = 0.1
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = RVA
@@ -8831,7 +8831,7 @@ BAM_ideas = {
 		devotion = 0.5
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = BAM
@@ -9021,7 +9021,7 @@ HTK_ideas = {
 IMG_ideas = {
 	start = {
 		land_forcelimit_modifier = 0.2
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -9071,7 +9071,7 @@ AMA_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	trigger = {
@@ -9191,7 +9191,7 @@ UES_ideas = {
 	}
 	
 	ues_agakita_shu = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	ues_denkoku_no_ji = {
@@ -9207,7 +9207,7 @@ YMN_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	trigger = {
@@ -9343,7 +9343,7 @@ OGS_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	trigger = {
@@ -9407,7 +9407,7 @@ OTM_ideas = {
 	}
 	
 	otm_brave_retainers = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	otm_nanban_trade = {
@@ -9668,7 +9668,7 @@ AKT_ideas = {
 		culture_conversion_cost = -0.15
 	}
 	akt_true_shogun_of_oshu = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	akt_adoption_system = {
 		heir_chance = 0.5
@@ -9748,7 +9748,7 @@ SMZ_ideas = {
 	}
 	
 	smz_tsurinobuse = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	smz_tanegashima = {
@@ -9971,7 +9971,7 @@ KNO_ideas = {
 RFR_ideas = { # Nanbu clan
 	start = {
 		build_cost = -0.1
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	bonus = {
@@ -10269,7 +10269,7 @@ HAN_ideas = {
 		build_cost = -0.1
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = HAN
@@ -10332,7 +10332,7 @@ BRU_ideas = {
 		global_institution_spread = 0.15
 	}
 	bru_schwarze_schar = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -10342,7 +10342,7 @@ LUN_ideas = {
 		war_exhaustion_cost = -0.1
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		OR = {
@@ -10464,7 +10464,7 @@ MBZ_ideas = {
 	
 	MBZ_lady_of_bregenz = {
 		may_recruit_female_generals = yes	
-		discipline = 0.05
+		discipline = 0.025
 	}
 	MBZ_securing_countess_rule = {
 		female_advisor_chance = 0.5
@@ -10554,7 +10554,7 @@ ROT_ideas = {
 		land_forcelimit_modifier = 0.15
 	}
 	ROT_drink_of_war = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	ROT_holy_blood = {
 		global_prov_trade_power_modifier = 0.1
@@ -11138,7 +11138,7 @@ RUM_ideas = {
 	free = yes
 	
 	rum_abul_fath = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	rum_king_of_the_east_and_west = {
 		core_creation = -0.20
@@ -11353,7 +11353,7 @@ HSN_ideas = {
 		global_tax_modifier = 0.1
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = HSN
@@ -11480,7 +11480,7 @@ TKG_ideas = {
 		spy_offence = 0.2
 	}
 	tkg_hatamoto = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	tkg_metsuke = {
 		stability_cost_modifier = -0.1
@@ -11712,7 +11712,7 @@ CSK_ideas = {
 		ae_impact = -0.1
 	}
 	csk_100_article_code = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	csk_expand_the_navy = {
 		global_ship_cost = -0.1
@@ -11766,7 +11766,7 @@ MRI_ideas = {
 ASA_ideas = {
 	start = {
 		production_efficiency = 0.1
-		discipline = 0.05
+		discipline = 0.025
 	}
 	bonus = {
 		stability_cost_modifier = -0.1
@@ -11875,7 +11875,7 @@ TYR_ideas = {
 		leader_land_manuever = 1
 	}
 	tyr_wild_geese = {
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 }
 
@@ -11942,7 +11942,7 @@ MCM_ideas = {
 		hostile_attrition = 1
 	}
 	mcm_spanish_ties = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	mcm_fairer_shores = {
 		global_colonial_growth = 10
@@ -12107,7 +12107,7 @@ irish_ideas = {
 		war_exhaustion = -0.02
  	}
 	ire_gallowglasses = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -12236,7 +12236,7 @@ KOI_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -12684,7 +12684,7 @@ DEC_ideas = {
 		land_forcelimit_modifier = 0.2
 	}
 	dec_modernize_the_sarf_e_khas = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	dec_jewels_of_the_nizams = {
 		diplomatic_reputation = 1
@@ -12756,7 +12756,7 @@ BHA_ideas = {
 		technology_cost = -0.05
 	}
 	bha_indian_army = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	bha_ganga = {
 		tolerance_own = 2
@@ -12775,7 +12775,7 @@ HIN_ideas = {
 		global_manpower_modifier = 0.2
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = HIN
@@ -12812,7 +12812,7 @@ RJP_ideas = {
 	}
 
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -12912,7 +12912,7 @@ MER_ideas = {
 		fire_damage = 0.1
 	}
 	mer_reorganized_rajput_regiments = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -13026,7 +13026,7 @@ SND_ideas = {
 		build_cost = -0.1
 	}
 	snd_recruit_baloch_tribesmen = {
-		mercenary_discipline = 0.025
+		mercenary_discipline = 0.05
 	}
 }
 
@@ -13075,7 +13075,7 @@ MYS_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -13139,7 +13139,7 @@ RIG_ideas = {
 		defensiveness = 0.2
 	}
 	rig_restore_brothers_of_the_sword = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -13413,7 +13413,7 @@ VRM_ideas = {
 		stability_cost_modifier = -0.15
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = VRM
@@ -13638,7 +13638,7 @@ EPI_ideas = {
 		global_trade_power = 0.1
 	}
 	epi_unity_in_strength = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -13689,7 +13689,7 @@ FKN_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -13805,7 +13805,7 @@ WES_ideas = {
 		land_forcelimit_modifier = 0.2
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = WES
@@ -13878,7 +13878,7 @@ SWA_ideas = {
 
 TTL_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		global_tax_modifier = 0.1
 	}
 	

@@ -76,7 +76,7 @@ EGY_ideas = {
 	}
 
 	egy_drilling = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	egy_production = {

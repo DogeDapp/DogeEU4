@@ -75,7 +75,7 @@ VIN_ideas = { # Canada Vinland lost colony
 		leader_naval_manuever = 1
 	}
 	VIN_hardened_housecarls = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	VIN_the_runestones = {
 		legitimacy = 1
@@ -144,7 +144,7 @@ TKT_ideas = { # Egypt Knight Templars #Definately rework required
 	free = yes
 	
 	TKT_latin_rule = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	TKT_letters_of_credit = {
 		global_tax_modifier = 0.2
@@ -173,7 +173,7 @@ GTA_ideas = { # Scandinavia Gotaland
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -339,7 +339,7 @@ MKL_ideas = {
 		years_of_nationalism = -5	
 	}
 	MKL7 = {
-		discipline = 0.05
+		discipline = 0.025
 		infantry_power = 0.05
 	}
 }
@@ -386,7 +386,7 @@ AQU_ideas = {
 
 COB_ideas = {
 	start = {
-		discipline = 0.05
+		discipline = 0.025
 		fabricate_claims_cost= -0.25	
 	}
 	
@@ -635,7 +635,7 @@ TIR_ideas = {
 	free = yes
 	
 	TIR1 = {
- 		discipline = 0.05			
+ 		discipline = 0.025			
 	}
 	TIR2 = {	
  		core_creation = -0.1	
@@ -704,7 +704,7 @@ PSS_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -823,7 +823,7 @@ ZCV_ideas = {
     }
 
     bonus = {
-    	discipline = 0.05
+    	discipline = 0.025
     }
 
     trigger = {
@@ -978,7 +978,7 @@ kingdom_of_god_ideas = { # Mission idea group, ME_Papal_State_Events.2
 		advisor_cost = -0.10
 	}
 	kingdom_of_god_idea_7 = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -1154,7 +1154,7 @@ NDB_ideas = {
 	}
 	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -1252,7 +1252,7 @@ VOL_ideas = {
 		global_own_trade_power = 0.15
 	}
 	resist_the_mongols = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	galician_boyars = {
 		global_tax_modifier = 0.2
@@ -1268,7 +1268,7 @@ STY_ideas = {
 		defensiveness = 0.1
 	}	
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}	
 	trigger = {
 		tag = STY
@@ -1363,7 +1363,7 @@ anjou_ideas = {
 		spy_offence = 0.20
 	}
 	anjou_apocalypse_tapestry = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	anjou_chateaux_of_loire_valley = {
 		prestige = 1
@@ -1442,7 +1442,7 @@ Antioch_ideas = {
 		allowed_marine_fraction = 0.1
  	}
 	Antioch_ordos_militants = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	Antioch_brothers_in_faith = {
 		diplomatic_reputation = 2
@@ -1475,7 +1475,7 @@ LTE_ideas = {
 	}
 	
 	defense_against_turks = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 
 	roman_legions = {
@@ -1593,7 +1593,7 @@ HEA_ideas = { # Heavenly Kingdom China
 	}
 
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	
 	trigger = {
@@ -1660,7 +1660,7 @@ RZV_ideas = { # Rozvi Empire Zimbabwe
 		inflation_reduction = 0.1
 	}
 	RZV_seven = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }	
 
@@ -2046,7 +2046,7 @@ AYY_ideas = {
 		global_tax_modifier = 0.2
 	}
 	bonus = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 	trigger = {
 		tag = AYY
@@ -2355,7 +2355,7 @@ AEG_ideas = {
 		global_ship_recruit_speed = -0.1
 	}
 	AEG_discip_soldiers = {
-		discipline = 0.05
+		discipline = 0.025
 	}
 }
 
@@ -2402,7 +2402,7 @@ RUG_ideas = {
 VAL_ideas = {
     start = {
         land_morale = 0.05
-        discipline = 0.05
+        discipline = 0.025
     }
      bonus = {
         allowed_marine_fraction = 0.15
@@ -2559,7 +2559,7 @@ SEV_ideas = {
 		max_absolutism = 10
     }
 	SEV_Battle_of_Salado = {
-		discipline = 0.05
+		discipline = 0.025
     }
 	SEV_spanish_inquisition = {
         cb_on_religious_enemies = yes
@@ -2766,7 +2766,7 @@ MRC_ideas = {
         caravan_power = 0.15
     }
     MRC_Charlemagnes_Equal = {
-        discipline = 0.05
+        discipline = 0.025
     }
 }
 
@@ -2862,7 +2862,7 @@ ALO_ideas = {
     }
     free = yes
     ALO_last_nubian_kingdom = {
-        discipline = 0.05
+        discipline = 0.025
     }
     ALO_polyethnic_state = {
         promote_culture_cost = -0.25
