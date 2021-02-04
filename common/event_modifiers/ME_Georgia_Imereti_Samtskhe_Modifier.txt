@@ -24,7 +24,7 @@ GEO_full_militarization = {
 	infantry_power = 0.05
 }
 GEO_peasants_flock = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 GEO_our_lands = {
 	siege_ability = 0.15
@@ -53,5 +53,5 @@ GEO_conquest_of_circassia = {
 }
 GEO_dagestani_levy = {
 	land_forcelimit_modifier = 0.1
-	global_manpower_modifier = 0.2
+	global_manpower_modifier = 0.15
 }

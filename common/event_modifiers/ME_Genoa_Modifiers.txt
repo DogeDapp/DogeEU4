@@ -164,7 +164,7 @@ gen_genoese_trade_agreement = {
 }
 gen_genoese_steppe_trade_aggreement_genoa = {
 	global_tax_income = 24
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 	trade_efficiency = 0.10
 }
 gen_genoese_steppe_trade_aggreement_steppe = {

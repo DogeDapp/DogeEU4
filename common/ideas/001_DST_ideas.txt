@@ -134,7 +134,7 @@ TKT_ideas = { # Egypt Knight Templars #Definately rework required
 	}
 	
 	bonus = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 	}
 	
 	trigger = {
@@ -290,7 +290,7 @@ CEE_ideas = {
 		global_missionary_strength = 0.02
 	}
 	cee_clandominance = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 		land_forcelimit_modifier = 0.20
 	}
 	cee_directrule = {
@@ -790,7 +790,7 @@ RHN_ideas = {
 	free = yes
 
 	RHN_idea_1 = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 		#fire_damage = 0.05
 	}
 	RHN_idea_2 = {
@@ -818,7 +818,7 @@ RHN_ideas = {
 
 ZCV_ideas = {
     start = {
-        global_manpower_modifier = 0.20
+        global_manpower_modifier = 0.15
         num_accepted_cultures = 2
     }
 
@@ -900,7 +900,7 @@ Goguryeo_ideas = {
 
 AZE_ideas = {
 	start = {
-		global_manpower_modifier = 0.2
+		global_manpower_modifier = 0.15
 		leader_land_shock = 1
 	}
 
@@ -1179,7 +1179,7 @@ NDB_ideas = {
 		infantry_power = 0.05
 	}
 	NDB_regimental_cantons = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		global_regiment_recruit_speed = -0.10
 	}
 	NDB_religious_toleration = {
@@ -1416,7 +1416,7 @@ MZB_ideas = {
 Antioch_ideas = {
 	start = {
 		global_missionary_strength = 0.02
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 	}	
 	bonus = {
 		enemy_core_creation = 0.25
@@ -1545,7 +1545,7 @@ FRX_ideas = {
 
 PRC_ideas = { # Peoples Republic of China
 	start = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		land_forcelimit_modifier = 0.25
 	}
 
@@ -1683,7 +1683,7 @@ UAR_ideas = { #United African Republic
 		land_morale = 0.075
 	}
 	UAR_two = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 	}
 	UAR_three = {
 		monthly_piety = -0.005
@@ -1837,7 +1837,7 @@ EGP_ideas = { #Ancient Egypt
     }
     
     bonus = {
-        global_manpower_modifier = 0.25
+        global_manpower_modifier = 0.15
     }
     
     trigger = {
@@ -1916,7 +1916,7 @@ MDG_ideas = { # Madagascar
 	}
 	
 	bonus = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 	}
 
 	trigger = {
@@ -2057,7 +2057,7 @@ AYY_ideas = {
 		defensiveness = 0.2
 	}
 	hsn_ayyubid_heritage = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
 	}
 	hsn_righteousness_of_the_faith = {
 		land_morale = 0.075
@@ -2434,7 +2434,7 @@ VAL_ideas = {
         technology_cost = -0.05
     }
  	valencian_footmen = {
-		global_manpower_modifier = 0.15
+		global_manpower_modifier = 0.1
     }
 }
 
@@ -2877,7 +2877,7 @@ ALO_ideas = {
     }
     ALO_nubian_army = {
         manpower_recovery_speed = 0.25
-        global_manpower_modifier = 0.25
+        global_manpower_modifier = 0.15
     }
     ALO_greek_alphabet = {
         technology_cost = -0.1
@@ -2893,7 +2893,7 @@ ALO_ideas = {
 occitan_ideas = {
 	start = {
 		global_tax_modifier = 0.2
-		global_manpower_modifier = 0.2
+		global_manpower_modifier = 0.15
 	}
 	
 	bonus = {
@@ -3043,7 +3043,7 @@ CTG_ideas = {
 	}
 
 	CTG_counquest_of_fertile_land = {
-		global_manpower_modifier = 0.15	# Conquest of Fertile land
+		global_manpower_modifier = 0.1	# Conquest of Fertile land
 	}
 
 	CTG_punic_researchers = {
@@ -3293,7 +3293,7 @@ TAT_ideas = {
 	}
 
 	TAT_barbarous_kingdoms = {
-		global_manpower_modifier = 0.2
+		global_manpower_modifier = 0.15
 	}
 
 	TAT_cavalry_usages = {

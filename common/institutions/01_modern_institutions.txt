@@ -10,7 +10,7 @@ industrialization = {
 	penalty = 1
 
 	bonus = {
-        global_manpower_modifier = 0.15
+        global_manpower_modifier = 0.1
         production_efficiency = 0.15
 	}
 

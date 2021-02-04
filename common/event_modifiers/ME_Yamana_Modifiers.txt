@@ -23,7 +23,7 @@ YMN_Military_Triumph = {
 }
 
 YMN_Powerful_Deputy_Lord = {
-	global_manpower_modifier = 0.2
+	global_manpower_modifier = 0.15
 	global_unrest = -1
 }
 

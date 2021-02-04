@@ -64,7 +64,7 @@ regular_defenestrations_aspect = {
 taborite_resurgence_aspect = {
 	cost = 100
 	modifier = {
-		global_manpower_modifier = 0.2
+		global_manpower_modifier = 0.15
 	}
 }
 

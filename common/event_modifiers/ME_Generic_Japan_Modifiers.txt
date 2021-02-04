@@ -70,7 +70,7 @@ JAP_tax = {
 	global_tax_modifier = 0.2
 }
 JAP_drafting = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 JAP_appeasement = {
 	ae_impact = -0.1

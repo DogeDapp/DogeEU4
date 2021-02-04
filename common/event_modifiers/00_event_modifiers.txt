@@ -20,7 +20,7 @@ eth_mil_aid_from_portugal = {
 	land_morale = 0.075
 	mil_tech_cost_modifier = -0.25
 	discipline = 0.025
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 }
 
 incompetent_fabrication = {
@@ -118,7 +118,7 @@ domestic_improvements = {
 
 enforce_serfdom = {
 	global_unrest = 1
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 }
 
 restrict_serfdom = {
@@ -284,11 +284,11 @@ heresy = {
 }
 
 military_funding = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 
 military_funding2 = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 
 disorder = {
@@ -1003,7 +1003,7 @@ the_staple_port = {
 }
 
 the_theme_system = {
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 }
 
 severe_trade_crisis = {
@@ -1576,7 +1576,7 @@ sankin_kotai_daimyo = {
 
 sankin_kotai = {
 	global_tax_modifier = 0.2
-	global_manpower_modifier = 0.2
+	global_manpower_modifier = 0.15
 }
 
 western_trade = {
@@ -1728,7 +1728,7 @@ quality_modifier = {
 
 quantity_modifier = {
 	discipline = -0.05
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 }
 
 spread_of_enlightenment_ideals = {
@@ -2467,7 +2467,7 @@ enserfed_peasants = {
 }
 
 legal_serfdom = {
-	global_manpower_modifier = 0.2
+	global_manpower_modifier = 0.15
 	global_institution_spread = -0.20
 }
 
@@ -2506,7 +2506,7 @@ free_trade_reforms = {
 }
 
 complete_serfdom = {
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 	global_institution_spread = -0.30
 }
 
@@ -2917,7 +2917,7 @@ non_christian_janissaries = {
 }
 
 increased_janissary_recruitment = {
-	global_manpower_modifier = 0.25
+	global_manpower_modifier = 0.15
 	manpower_recovery_speed = 0.15
 	infantry_power = -0.1
 	discipline = -0.05
@@ -4930,7 +4930,7 @@ proclamation_of_year_modifier = {
 
 gbr_weapons = {
 	technology_cost = -0.1
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 
 cultural_assimilation = {
@@ -5897,7 +5897,7 @@ tupi_caramuru_trade = {
 }
 
 garifuna_migration = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 	global_colonial_growth = 5
 	global_unrest = 2
 }
@@ -8242,7 +8242,7 @@ the_beating_of_the_drums = {
 }
 
 hosting_tournament = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 	land_morale = 0.075
 }
 
@@ -9026,7 +9026,7 @@ ikkos_crushed = {
 }
 
 ikkos_empowered = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 
 support_of_ikkos = {
@@ -9815,7 +9815,7 @@ factionalism = {
 }
 
 ruler_supporting_faction = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 	legitimacy = -0.5
 }
 

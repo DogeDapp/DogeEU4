@@ -98,7 +98,7 @@ Shogun_Drill = {
 	drill_gain_modifier = 0.15
 }
 Shogun_Manpower = {
-	global_manpower_modifier = 0.15
+	global_manpower_modifier = 0.1
 }
 Shogun_Tradition = {
 	army_tradition = 0.5

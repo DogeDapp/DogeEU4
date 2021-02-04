@@ -78,7 +78,7 @@ NNC_ideas = {  #Nancho
 		advisor_cost = -0.10
 	}	
 	sole_legitimacy_over_japan = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 }
 KNM_ideas = {  #Kenmu
@@ -97,7 +97,7 @@ KNM_ideas = {  #Kenmu
 	free = yes
 	
 	spearhead_of_the_emperor = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 	properly_deal_with_the_samurai_class = {
 		land_maintenance_modifier = -0.05
@@ -212,7 +212,7 @@ MTO_ideas = {  #Minamoto
 	free = yes
 	
 	the_21_genji_lines = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 	guardians_of_heian_kyo = {
 		discipline = 0.025
@@ -304,7 +304,7 @@ SMA_ideas = { #Somalia
 		global_trade_power = 0.15
 	}
 	formal_clan_duties = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 	somali_honor_guards = {
 		discipline = 0.025
@@ -356,7 +356,7 @@ LVN_MLO_ideas = {  #Lombardy-Venetia, Milan Version
 		advisor_pool = 1
 	}	
 	mlo_rally_lombards_and_venetians = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 	}
 }
 LVN_VEN_ideas = {  #Lombardy-Venetia, Venice Version
@@ -444,7 +444,7 @@ HXA_ZAP_ideas = { #Huaxyacac, Zapotec Version
 }
 HXA_MIX_ideas = { #Huaxyacac, Mixtec Version
 	start = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 		inflation_reduction = 0.10
 	}
 	
@@ -533,7 +533,7 @@ ANV_ideas = {  #Angevin Realm
 	}
 	
 	bonus = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 	}
 	
 	trigger = {
@@ -582,7 +582,7 @@ MGB_ideas = {  #Maghreb
     free = yes
     
     pacify_the_berbers = {
-        global_manpower_modifier = 0.20
+        global_manpower_modifier = 0.15
 		global_sailors_modifier = 0.20
     }
     caliphate_status = {
@@ -622,7 +622,7 @@ RRR_ideas = {  #Great Russian Republic
 	free = yes
 	
 	representation_of_russian_people = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 		global_unrest = -1
 	}
 	system_of_tribute_and_taxes = {
@@ -664,7 +664,7 @@ NSE_ideas = {
 	free = yes
 	
 	cnut_the_greats_empire = {
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 	rulers_of_the_north_sea = {
 		naval_morale = 0.15
@@ -1200,7 +1200,7 @@ XBU_ideas = { #Xibu, Western Land
 		development_cost = -0.1
 	}
 	refugees_in_our_midst = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 	}
 	unmistakble_influence_of_buddhism = {
 		religious_unity = 0.25
@@ -1239,7 +1239,7 @@ NCH_ideas = { #Nanfang, Land of the South
 		may_perform_slave_raid_on_same_religion = yes
 	}
 	migrations_southward_from_northern_chaos = {
-		global_manpower_modifier = 0.20
+		global_manpower_modifier = 0.15
 	}
 	amends_with_the_western_expanse = {
 		global_unrest = -1
@@ -1307,7 +1307,7 @@ ZXI_ideas = { #The Later Xia
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	reclaiming_ancient_heritage = {
@@ -1347,7 +1347,7 @@ ZSG_ideas = { #The Later Shang
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	legacy_of_the_oracle_bones = {
@@ -1387,7 +1387,7 @@ ZHA_ideas = { #The Later Han
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	cut_down_the_power_of_kings = {
@@ -1427,7 +1427,7 @@ ZLA_ideas = { #The Later Liao
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	the_most_capable_son_shall_rule = {
@@ -1468,7 +1468,7 @@ ZSN_ideas = { #The Later Song
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	the_example_of_shen_kuo = {
@@ -1508,7 +1508,7 @@ ZSU_ideas = { #The Later Sui
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	learn_from_the_sui_founding = {
@@ -1548,7 +1548,7 @@ ZWE_ideas = { #The Later Northern Wei
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	the_heat_of_northern_weis_founding = {
@@ -1588,7 +1588,7 @@ ZLS_ideas = { #The Later Liu Song
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	legacy_of_liu_yu = {
@@ -1628,7 +1628,7 @@ ZZH_ideas = { #The Later Zhao
 	free = yes
 	
 	the_whole_of_zhongguo = { #Same for all
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 		imperial_mandate = 0.10
 	}
 	tattered_history_of_our_name = {
@@ -1803,7 +1803,7 @@ BGM_FLE_ideas = { #Belgium, Flemish Version
 		prestige = 1.0
 	}
 	satiate_german_and_french_minorities = { #Unique
-		global_manpower_modifier = 0.25
+		global_manpower_modifier = 0.15
 	}
 	refusal_of_pure_despotism = { #Same for Both
 		max_absolutism = -10
