@@ -1657,7 +1657,7 @@ deccan_conquest = {
 
 india_gunpowder_empire = {
 	fire_damage = 0.1
-	artillery_power = 0.1
+	artillery_power = 0.05
 }
 
 india_powerful_subject = {

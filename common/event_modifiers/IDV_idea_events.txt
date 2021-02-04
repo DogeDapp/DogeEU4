@@ -882,7 +882,7 @@ iv_modifier_event_198 = {
 }
 
 iv_modifier_event_199 = {
-	artillery_power = 0.1
+	artillery_power = 0.05
 }
 
 iv_modifier_event_200 = {
@@ -907,7 +907,7 @@ iv_modifier_event_204 = {
 }
 
 iv_modifier_event_205 = {
-	artillery_power = 0.1
+	artillery_power = 0.05
 }
 
 iv_modifier_event_206 = {

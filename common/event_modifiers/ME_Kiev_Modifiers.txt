@@ -26,7 +26,7 @@ Broke_The_Polish_Yoke = {
 }
 
 Smolenskaya_Cannon = {
-	artillery_power = 0.10
+	artillery_power = 0.05
 }
 
 Cossack_Allies = {

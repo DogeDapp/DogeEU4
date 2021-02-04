@@ -27,7 +27,7 @@ italy_discipline = {
 italy_power = {
 	infantry_power = 0.075
 	cavalry_power = -0.1
-	artillery_power = 0.1
+	artillery_power = 0.05
 }
 italy_morale = {
 	land_morale = 0.075

@@ -456,7 +456,7 @@ nunziatella_reform = {
 		}
     }
     modifiers = {
-		artillery_power = 0.10
+		artillery_power = 0.05
 		siege_ability = 0.10
     }
 	custom_attributes = {

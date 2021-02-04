@@ -59,7 +59,7 @@ sweden_carolean_infantry_modifier = {
 }
 
 sweden_defeating_the_tercios_modifier = {
-	artillery_power = 0.1
+	artillery_power = 0.05
 	movement_speed = 0.1
 }
 
